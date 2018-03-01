@@ -6,7 +6,7 @@ function main(){
     const s = sphere({r: 10, fn: 100, type: 'geodesic'}); // et une sphere
     var p = c.subtract(s); // la plaque = le cube - la sphere
     p = mirror([0,0,1], p).translate([0,0,10]); // on dispose le resultat comme voulu
-    p = p.scale([10,4,0.5]); // puis on le deforme (en fonction le texte)
+    p = p.scale([10,4,0.5]); // puis on le deforme (en fonction du texte)
     
     const t = text(2,2,'Gilboo'); // le texte (fn prise dans l'aide)
     
