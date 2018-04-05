@@ -1,9 +1,30 @@
-function main (){
-// trace un gabarit avec des polygones reguliers "attachés"
+function getParameterDefinitions() {
+  return [{ name: 'patron', type: 'choice', caption: "Patron :",
+  captions:['Dodecaedre', 'Boite Octo.', 'Tetraedre'], values:[1,2,3]}
+  , { name:'rendu', type: 'choice', caption: "Rendu :", initial:2,
+  captions:['Developpement', '2d pour svg'], values:[3,2]}
+  ];
+}
 
-/* DODECAEDRE
-var p = [polyR(5,10)]; // nb côtés, largeur
-var l = [ // [nb côtés, largeur], côté du polygone cible, polygone d'attache (n° , côté)
+function main (params){
+	// trace un gabarit avec des polygones reguliers "attachés"
+	var p, l;
+	var patron = params.patron == 1 ? patron_dodecaedre() : 
+			params.patron == 2 ? patron_boiteOctogonale() :
+			patron_tetraedre();
+
+	p = patron.p; l = patron.l;
+
+	// Le premier polygone est posé automatiquement sans attache
+	// puis les autres sont posés par la fonction attache()
+	for(var i=0; i< l.length; i++){
+		p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));}
+
+	return params.rendu == 3 ? rendu(p): rendu2d(p);
+}
+
+function patron_dodecaedre() {
+return {p: [polyR(5,10)], l: [
     [[5,10],0,0,0],
     [[5,10],0,0,1],
     [[5,10],0,0,2],
@@ -15,11 +36,11 @@ var l = [ // [nb côtés, largeur], côté du polygone cible, polygone d'attache
     [[5,10],0,7,3],    
     [[5,10],0,7,2],    
     [[5,10],0,7,1]
-    ]; */
+    ]};
+}
 
-// BOITE OCTOGONALE
-var p = [polyR(8,10)];
-var l = [
+function patron_boiteOctogonale() {
+return {p: [polyR(8,10)], l: [
     [[4,10],0,0,0],
     [[4,10],0,0,2],
     [[4,10],0,0,4],
@@ -36,16 +57,28 @@ var l = [
     [[8,10],0,3,2],
     [[4,10],0,14,2],
     [[4,10],0,14,6]
-    ];
-
-// Le premier polygone est posé automatiquement sans attache
-// puis les autres sont posés par la fonction attache()
-for(var i=0; i< l.length; i++){
-    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));}
-
-return rendu(p);
+    ]};
 }
+
+function patron_tetraedre() {
+	return {p: [polyR(3,15)], l:[
+    [[3,15],0,0,0],
+    [[3,15],0,0,1],
+    [[3,15],0,0,2]
+    ]};
+}
+
+function rendu2d(p){
+    var r= [], i, t, b, pa, c;
     
+    for (i in p){
+        r.push(polygon(p[i]));//.expandToCAG(0.1, 16));
+    }
+
+    return r;
+}
+
+
 function rendu(p){
     var r= [], i, t, b, pa, c;
     
@@ -118,10 +151,12 @@ function pose(p){
     //return p.expandToCAG(0.1, 16);
 
 	switch(p.points.length){
+		case 3: col = 'tomato'; break;
 		case 4: col = 'yellow'; break;
 		case 5: col = 'maroon'; break;
 		case 6: col = 'orange'; break;
 		case 8: col = 'tan'; break;
+		default: col = 'red';
 	}
 
     return union(linear_extrude({height:0.2},p.expandToCAG(0.1,16)).setColor(css2rgb('black')),
