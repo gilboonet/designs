@@ -1,30 +1,34 @@
 function getParameterDefinitions() {
   return [{ name: 'patron', type: 'choice', caption: "Patron :",
-  captions:['Dodecaedre', 'Boite Octo.', 'Tetraedre'], values:[1,2,3]}
+  captions:['Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre'], values:[1,2,3,4]}
   , { name:'rendu', type: 'choice', caption: "Rendu :", initial:2,
-  captions:['Developpement', '2d pour svg'], values:[3,2]}
+  captions:['2d pour svg','Developpement'], values:[2,3]}
   ];
 }
 
 function main (params){
 	// trace un gabarit avec des polygones reguliers "attachés"
-	var p, l;
-	var patron = params.patron == 1 ? patron_dodecaedre() : 
+	var p= [];
+	var l = params.patron == 1 ? patron_dodecaedre() : 
 			params.patron == 2 ? patron_boiteOctogonale() :
-			patron_tetraedre();
+			params.patron == 3 ? patron_tetraedre() :
+			patron_icosaedre();
 
-	p = patron.p; l = patron.l;
+	//p = patron.p;
 
 	// Le premier polygone est posé automatiquement sans attache
 	// puis les autres sont posés par la fonction attache()
 	for(var i=0; i< l.length; i++){
-		p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));}
+	    if(i === 0){p.push(polyR(l[i][0][0],l[i][0][1]));}
+		else
+		    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));
+	}
 
 	return params.rendu == 3 ? rendu(p): rendu2d(p);
 }
 
 function patron_dodecaedre() {
-return {p: [polyR(5,10)], l: [
+return [[[5,10]],
     [[5,10],0,0,0],
     [[5,10],0,0,1],
     [[5,10],0,0,2],
@@ -36,11 +40,11 @@ return {p: [polyR(5,10)], l: [
     [[5,10],0,7,3],    
     [[5,10],0,7,2],    
     [[5,10],0,7,1]
-    ]};
+    ];
 }
 
 function patron_boiteOctogonale() {
-return {p: [polyR(8,10)], l: [
+return [[[8,10]],
     [[4,10],0,0,0],
     [[4,10],0,0,2],
     [[4,10],0,0,4],
@@ -57,15 +61,21 @@ return {p: [polyR(8,10)], l: [
     [[8,10],0,3,2],
     [[4,10],0,14,2],
     [[4,10],0,14,6]
-    ]};
+    ];
 }
 
 function patron_tetraedre() {
-	return {p: [polyR(3,15)], l:[
+	return [[[3,15]],
     [[3,15],0,0,0],
     [[3,15],0,0,1],
     [[3,15],0,0,2]
-    ]};
+    ];
+}
+
+function patron_icosaedre() {
+    return [[[3,15]],
+    [[3,15],0,0,0]
+    ];
 }
 
 function rendu2d(p){
@@ -77,7 +87,6 @@ function rendu2d(p){
 
     return r;
 }
-
 
 function rendu(p){
     var r= [], i, t, b, pa, c;
