@@ -18,16 +18,18 @@ function main (params){
 	    case '0': l = patron_cube(); break;
 	}
 	// Le premier polygone est posé automatiquement sans attache
-	ra = l[0][0][2];
-	p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(ra));
+	p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(l[0][0][2]));
 	// puis les autres sont posés par la fonction attache()
 	for(i = 1; i < l.length; i++){
-	    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));//.rotateZ(ra));
+	    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));
 	}
 
 	return params.rendu == 3 ? rendu(p): rendu2d(p);
 }
 
+// parametres des fns patron_xx () :
+// - premier polygone : [nb côtés, largeur, rotation]
+// - suivants : [nb côtés, largeur], côté à attacher, poly cible, côté cible 
 function patron_cube() {
 return [[[4,10,0]],
     [[4,10],0,0,3],
