@@ -1,6 +1,6 @@
 function getParameterDefinitions() {
   return [{ name: 'patron', type: 'choice', caption: "Patron :",
-  captions:['Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre'], values:[1,2,3,4]}
+  captions:['Cube', 'Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre'], values:[0,1,2,3,4]}
   , { name:'rendu', type: 'choice', caption: "Rendu :", initial:3,
   captions:['Developpement', '2d pour svg'], values:[3,2]}
   ];
@@ -10,25 +10,36 @@ function main (params){
 	// trace un gabarit avec des polygones reguliers "attachés"
 	var p= [], l, i;
 	
-	l = params.patron == 1 ? patron_dodecaedre() : 
-		params.patron == 2 ? patron_boiteOctogonale() :
-		params.patron == 3 ? patron_tetraedre() :
-		patron_icosaedre();
-//    var l = patron_icosaedre();
-
+	switch(params.patron){
+	    case '1': l = patron_dodecaedre(); break;
+	    case '2': l = patron_boiteOctogonale(); break;
+	    case '3': l = patron_tetraedre(); break;
+	    case '4': l = patron_icosaedre(); break;
+	    case '0': l = patron_cube(); break;
+	}
 	// Le premier polygone est posé automatiquement sans attache
+	ra = l[0][0][2];
+	p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(ra));
 	// puis les autres sont posés par la fonction attache()
-	for(i=0; i< l.length; i++){
-	    if(i === 0){p.push(polyR(l[i][0][0],l[i][0][1]));}
-		else
-		    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));
+	for(i = 1; i < l.length; i++){
+	    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));//.rotateZ(ra));
 	}
 
 	return params.rendu == 3 ? rendu(p): rendu2d(p);
 }
 
+function patron_cube() {
+return [[[4,10,0]],
+    [[4,10],0,0,3],
+    [[4,10],0,1,2],
+    [[4,10],0,2,1],
+    [[4,10],0,2,2],
+    [[4,10],0,2,3]
+    ];    
+}
+
 function patron_dodecaedre() {
-return [[[5,10]],
+return [[[5,10,225]],
     [[5,10],0,0,0],
     [[5,10],0,0,1],
     [[5,10],0,0,2],
@@ -44,7 +55,7 @@ return [[[5,10]],
 }
 
 function patron_boiteOctogonale() {
-return [[[8,10]],
+return [[[8,10,22.5]],
     [[4,10],0,0,0],
     [[4,10],0,0,2],
     [[4,10],0,0,4],
@@ -65,7 +76,7 @@ return [[[8,10]],
 }
 
 function patron_tetraedre() {
-	return [[[3,15]],
+	return [[[3,15,45]],
     [[3,15],0,0,0],
     [[3,15],0,0,1],
     [[3,15],0,0,2]
@@ -73,7 +84,7 @@ function patron_tetraedre() {
 }
 
 function patron_icosaedre() {
-    return [[[3,15]],
+    return [[[3,15,45]],
     [[3,15],0,0,2],
     [[3,15],0,1,1],
     [[3,15],0,2,2],
@@ -112,14 +123,15 @@ function rendu(p){
     for (i in p){
         r.push(pose(p[i]));
 
-        t = texte(i, 0,0, 0.15).setColor(css2rgb('black')).rotateZ(-22.5);
+        t = texte(i, 0,0, 0.125).setColor(css2rgb('black'));//.rotateZ(-22.5);
         b = t.getBounds();
         r.push(t.translate(centre(p[i].points).minus((b[1].minus(b[0])).dividedBy(2))));
 
         pa = p[i].points;
         for (j=0; j<pa.length; j++){
             c = centre([pa[j], pa[(j+1) % pa.length], centre(pa)]);
-            r.push(texte(j.toString(), 0,0,0.075).rotateZ(-22.5).translate(c).setColor(css2rgb('blue')));
+            r.push(texte(j.toString(), 0,0,0.075)//.rotateZ(-22.5)
+            .translate(c).setColor(css2rgb('blue')));
         }
     }
 
@@ -205,7 +217,7 @@ function polyR(n, l=10, x=0, y=0){
     chemin = chemin.appendPoint(p0);
     chemin = chemin.close();
 
-    return chemin;
+    return chemin.rotateZ(45);
 }
 
 function tPoly(n, t = [0,0], af = 0){
