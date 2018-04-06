@@ -1,6 +1,7 @@
 function getParameterDefinitions() {
   return [{ name: 'patron', type: 'choice', caption: "Patron :",
-  captions:['Cube', 'Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre'], values:[0,1,2,3,4]}
+  captions:['Blocktagon:Jack', 'Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre', 'Cube'], 
+  values:[0,1,2,3,4,5]}
   , { name:'rendu', type: 'choice', caption: "Rendu :", initial:3,
   captions:['Developpement', '2d pour svg'], values:[3,2]}
   ];
@@ -15,21 +16,40 @@ function main (params){
 	    case '2': l = patron_boiteOctogonale(); break;
 	    case '3': l = patron_tetraedre(); break;
 	    case '4': l = patron_icosaedre(); break;
-	    case '0': l = patron_cube(); break;
+	    case '5': l = patron_cube(); break;
+	    case '0': l = patron_bt_jack(); break;
 	}
 	// Le premier polygone est posé automatiquement sans attache
 	p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(l[0][0][2]));
 	// puis les autres sont posés par la fonction attache()
 	for(i = 1; i < l.length; i++){
-	    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));
+	    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));//.rotateZ(ra));
 	}
 
 	return params.rendu == 3 ? rendu(p): rendu2d(p);
 }
 
+
 // parametres des fns patron_xx () :
 // - premier polygone : [nb côtés, largeur, rotation]
 // - suivants : [nb côtés, largeur], côté à attacher, poly cible, côté cible 
+function patron_bt_jack() {
+return [[[3,10,45]],
+    [[4,10],0,0,2],
+    [[3,10],0,1,1],
+    [[3,10],0,1,2],
+    [[4,10],0,2,1],
+    [[3,10],0,4,3],
+    [[4,10],0,5,2],
+    [[3,10],0,6,1],
+    [[4,10],0,7,1],
+    [[3,10],0,8,2],
+    [[3,10],0,8,3],
+    [[4,10],0,10,2],
+    [[4,10],0,9,2]
+    ];
+}
+
 function patron_cube() {
 return [[[4,10,0]],
     [[4,10],0,0,3],
