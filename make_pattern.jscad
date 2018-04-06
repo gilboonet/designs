@@ -1,8 +1,9 @@
 function getParameterDefinitions() {
   return [{ name: 'patron', type: 'choice', caption: "Patron :",
-  captions:['Icosaedre tronqué', 'Dodecaedre', 'Boite Octo.', 'Tetraedre',
-  'Icosaedre', 'Cube','Blocktagon:Jack', 'Petit rhombicosidodecaedre'], 
-  values:[0,1,2,3,4,5,6,7]}
+  captions:["Catalan 1", 'Dodecaedre', 'Boite Octo.', 'Tetraedre',
+  'Icosaedre', 'Cube','Blocktagon:Jack', 'Petit rhombicosidodecaedre',
+  'Icosaedre tronqué'],
+  values:[0,1,2,3,4,5,6,7,8]}
   , { name:'rendu', type: 'choice', caption: "Rendu :", initial:3,
   captions:['Developpement', '2d pour svg'], values:[3,2]}
   ];
@@ -20,13 +21,22 @@ function main (params){
 	    case '5': l = patron_cube(); break;
 	    case '6': l = patron_bt_jack(); break;
 	    case '7': l = patron_pt_rhombicosidodecaedre(); break;
-	    case '0': l = patron_icosaedreTronque(); break;
+	    case '8': l = patron_icosaedreTronque(); break;
+	    case '0': l = patron_catalan1(); break;
 	}
 	// Le premier polygone est posé automatiquement sans attache
-	p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(l[0][0][2]));
+	if(l[0][0][0]>0){
+	    p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(l[0][0][2]));
+	}else{
+	    p.push(polyCustom(-l[0][0][0]).translate(l[0][1]));
+	}
 	// puis les autres sont posés par la fonction attache()
 	for(i = 1; i < l.length; i++){
-	    p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));
+	    if(l[i][0][0]>0){
+	        p.push(attache(polyR(l[i][0][0],l[i][0][81]), l[i][1], p[l[i][2]], l[i][3]));
+	    }else{
+	        p.push(attache(polyCustom(-l[0][0][0]), l[i][1], p[l[i][2]], l[i][3]));
+	    }
 	}
 
 	return params.rendu == 3 ? rendu(p): rendu2d(p);
@@ -35,6 +45,77 @@ function main (params){
 // parametres des fns patron_xx () :
 // - premier polygone : [nb côtés, largeur, rotation]
 // - suivants : [nb côtés, largeur], côté à attacher, poly cible, côté cible 
+
+function patron_catalan1() {
+    var r = [],i;
+    
+    r.push([[-1],[-90,0]]);
+    r.push([[-1],3,0,0]);
+    r.push([[-1],2,1,1]);
+    r.push([[-1],3,2,0]);
+    r.push([[-1],3,3,0]);
+    r.push([[-1],3,4,0]);
+    r.push([[-1],3,5,0]);
+    r.push([[-1],2,4,1]);
+    r.push([[-1],0,7,3]);
+    r.push([[-1],1,8,2]);
+    r.push([[-1],0,9,3]);
+    r.push([[-1],1,10,2]);
+    r.push([[-1],3,7,0]);
+    r.push([[-1],3,12,0]);
+    r.push([[-1],3,13,0]);
+    
+    r.push([[-1],1,14,2]);
+    r.push([[-1],0,15,3]);
+    r.push([[-1],1,16,2]);
+    r.push([[-1],0,17,3]);
+    
+    r.push([[-1],2,14,1]);
+    r.push([[-1],3,19,0]);
+    r.push([[-1],3,20,0]);
+    r.push([[-1],2,21,1]);
+    r.push([[-1],3,22,0]);
+    
+    r.push([[-1],2,13,1]);
+    r.push([[-1],3,24,0]);
+    r.push([[-1],3,25,0]);
+    r.push([[-1],2,26,1]);
+    r.push([[-1],3,27,0]);
+    r.push([[-1],3,28,0]);
+    
+    r.push([[-1],1,13,2]);
+    r.push([[-1],0,30,3]);
+    r.push([[-1],1,31,2]);
+    r.push([[-1],0,32,3]);
+    
+    r.push([[-1],2,12,1]);
+    r.push([[-1],3,34,0]);
+    r.push([[-1],2,35,1]);
+    r.push([[-1],3,36,0]);
+    r.push([[-1],3,37,0]);
+    
+    r.push([[-1],3,35,0]);
+    r.push([[-1],2,39,1]);
+    r.push([[-1],3,40,0]);
+    r.push([[-1],3,41,0]);
+    
+    r.push([[-1],1,12,2]);
+    r.push([[-1],0,43,3]);
+    r.push([[-1],0,44,3]);
+    r.push([[-1],1,45,2]);
+    r.push([[-1],0,46,3]);
+    r.push([[-1],1,47,2]);
+    
+    r.push([[-1],3,43,0]);
+    r.push([[-1],3,49,0]);
+    r.push([[-1],2,50,1]);
+    r.push([[-1],3,51,0]);
+    r.push([[-1],3,52,0]);
+    r.push([[-1],1,53,1]);
+    r.push([[-1],3,54,3]);
+    
+    return r;
+}
 
 function patron_icosaedreTronque() {
     var r = [], i;
@@ -227,6 +308,16 @@ l.forEach(function(pl) {
 return union(o);
 }
 
+function polyCustom(n){
+	var p;
+	
+	switch (n){
+		case 1: p = new CSG.Path2D([[0,16],[10,0],[0,-6],[-10,0]], close).scale(3/4);
+		    break;
+}
+	return p;
+}
+
 function attache(p1, p1pt0, p0, p0pt0){
     p0Pts = [p0pt0];
     p1Pts = [p1pt0];
@@ -258,7 +349,7 @@ function pose(p){
 
 	switch(p.points.length){
 		case 3: col = 'tomato'; break;
-		case 4: col = 'yellow'; break;
+		case 4: col = 'lightBlue'; break;
 		case 5: col = 'maroon'; break;
 		case 6: col = 'orange'; break;
 		case 8: col = 'tan'; break;
@@ -292,7 +383,7 @@ function tPoly(n, t = [0,0], af = 0){
 	var p = polyR(n), col;
 	
 	switch(p.points.length){
-		case 4: col = 'yellow';	a = 45; break;
+		case 4: col = 'lightBlue';	a = 45; break;
 		case 5: col = 'maroon'; a = 15; break;
 		case 6: col = 'orange';	a = 30; break;
 		case 8: col = 'tan';	a = 22.5; break;
