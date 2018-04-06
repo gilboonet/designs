@@ -1,7 +1,7 @@
 function getParameterDefinitions() {
   return [{ name: 'patron', type: 'choice', caption: "Patron :",
-  captions:['Blocktagon:Jack', 'Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre', 'Cube'], 
-  values:[0,1,2,3,4,5]}
+  captions:['Petit rhombicosidodecaedre', 'Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre', 'Cube','Blocktagon:Jack'], 
+  values:[0,1,2,3,4,5,6]}
   , { name:'rendu', type: 'choice', caption: "Rendu :", initial:3,
   captions:['Developpement', '2d pour svg'], values:[3,2]}
   ];
@@ -17,7 +17,8 @@ function main (params){
 	    case '3': l = patron_tetraedre(); break;
 	    case '4': l = patron_icosaedre(); break;
 	    case '5': l = patron_cube(); break;
-	    case '0': l = patron_bt_jack(); break;
+	    case '6': l = patron_bt_jack(); break;
+	    case '0': l = patron_pt_rhombicosidodecaedre(); break;
 	}
 	// Le premier polygone est posé automatiquement sans attache
 	p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(l[0][0][2]));
@@ -33,6 +34,29 @@ function main (params){
 // parametres des fns patron_xx () :
 // - premier polygone : [nb côtés, largeur, rotation]
 // - suivants : [nb côtés, largeur], côté à attacher, poly cible, côté cible 
+
+function patron_pt_rhombicosidodecaedre() {
+    var r = [], i;
+    
+    r.push([[5, 10, -30]]);
+    for(i = 0; i < 5; i++){r.push([[4, 10], 0, 0, i]);}
+    for(i = 1; i < 6; i++){r.push([[3, 10], 0, i, 3]);}
+    for(i = 1; i < 6; i++){r.push([[5, 10], 0, i, 2]);}
+    for(i = 11; i < 16; i++){r.push([[4, 10], 0, i, 2]);}
+    for(i = 11; i < 16; i++){r.push([[4, 10], 0, i, 3]);}
+    for(i = 11; i < 16; i++){r.push([[4, 10], 0, i, 4]);}
+    for(i = 16; i < 26; i++){r.push([[3, 10], 0, i, 3]);}
+    for(i of [19, 24, 25, 21, 22]){r.push([[5, 10], 0, i, 2]);}
+    for(i = 41; i < 46; i++){r.push([[4, 10], 0, i, 2]);}
+    for(i = 41; i < 45; i++){r.push([[4, 10], 0, i, 3]);}
+    for(i = 46; i < 50; i++){r.push([[3, 10], 0, i, 3]);}
+    r.push([[5, 10], 0, 47, 2]);
+    r.push([[4, 10], 0, 41, 4]);
+    r.push([[3, 10], 0, 47, 1]);
+
+    return r;
+}
+
 function patron_bt_jack() {
 return [[[3,10,45]],
     [[4,10],0,0,2],
