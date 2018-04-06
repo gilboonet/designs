@@ -1,7 +1,8 @@
 function getParameterDefinitions() {
   return [{ name: 'patron', type: 'choice', caption: "Patron :",
-  captions:['Petit rhombicosidodecaedre', 'Dodecaedre', 'Boite Octo.', 'Tetraedre', 'Icosaedre', 'Cube','Blocktagon:Jack'], 
-  values:[0,1,2,3,4,5,6]}
+  captions:['Icosaedre tronqué', 'Dodecaedre', 'Boite Octo.', 'Tetraedre',
+  'Icosaedre', 'Cube','Blocktagon:Jack', 'Petit rhombicosidodecaedre'], 
+  values:[0,1,2,3,4,5,6,7]}
   , { name:'rendu', type: 'choice', caption: "Rendu :", initial:3,
   captions:['Developpement', '2d pour svg'], values:[3,2]}
   ];
@@ -18,7 +19,8 @@ function main (params){
 	    case '4': l = patron_icosaedre(); break;
 	    case '5': l = patron_cube(); break;
 	    case '6': l = patron_bt_jack(); break;
-	    case '0': l = patron_pt_rhombicosidodecaedre(); break;
+	    case '7': l = patron_pt_rhombicosidodecaedre(); break;
+	    case '0': l = patron_icosaedreTronque(); break;
 	}
 	// Le premier polygone est posé automatiquement sans attache
 	p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(l[0][0][2]));
@@ -33,6 +35,26 @@ function main (params){
 // parametres des fns patron_xx () :
 // - premier polygone : [nb côtés, largeur, rotation]
 // - suivants : [nb côtés, largeur], côté à attacher, poly cible, côté cible 
+
+function patron_icosaedreTronque() {
+    var r = [], i;
+    
+    r.push([[6, 10, 12]]);
+    for(i = 0; i < 6; i++){r.push([[5 + (i % 2), 10], 0, 0, i]);}
+    for(i = 1; i < 7; i+=2){
+        r.push([[6, 10], 0, i,2]);
+        r.push([[6, 10], 0, i+1, 2]);
+        r.push([[5, 10], 0, i+1, 3]);
+    }
+    for(i of [7, 13]){r.push([[5, 10], 0, i, 4])}
+    r.push([[5, 10], 0, 11, 3]);
+    for(i of [10, 12, 15, 18, 21, 20]){r.push([[6, 10], 0, i, 3])}
+    for(i of [8, 11, 14]){r.push([[6, 10], 0, i, 4])}
+    for(i of [19, 26, 27]){r.push([[5, 10], 0, i, 3])}
+    r.push([[6, 10], 0, 28, 3]);
+    
+    return r;
+}
 
 function patron_pt_rhombicosidodecaedre() {
     var r = [], i;
