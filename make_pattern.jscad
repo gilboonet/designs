@@ -1,9 +1,9 @@
 function getParameterDefinitions() {
   return [{ name: 'patron', type: 'choice', caption: "Patron :",
-  captions:["Catalan 1", 'Dodecaedre', 'Boite Octo.', 'Tetraedre',
+  captions:["Catalan 1 (design #2)", 'Dodecaedre', 'Boite Octo.', 'Tetraedre',
   'Icosaedre', 'Cube','Blocktagon:Jack', 'Petit rhombicosidodecaedre',
-  'Icosaedre tronqué'],
-  values:[0,1,2,3,4,5,6,7,8]}
+  'Icosaedre tronqué', "Catalan 1 (design #1)"],
+  values:[0,1,2,3,4,5,6,7,8,9]}
   , { name:'rendu', type: 'choice', caption: "Rendu :", initial:3,
   captions:['Developpement', '2d pour svg'], values:[3,2]}
   ];
@@ -22,18 +22,19 @@ function main (params){
 	    case '6': l = patron_bt_jack(); break;
 	    case '7': l = patron_pt_rhombicosidodecaedre(); break;
 	    case '8': l = patron_icosaedreTronque(); break;
-	    case '0': l = patron_catalan1(); break;
+	    case '9': l = patron_catalan1(); break;
+	    case '0': l = patron_catalan1b(); break;
 	}
 	// Le premier polygone est posé automatiquement sans attache
 	if(l[0][0][0]>0){
 	    p.push(polyR(l[0][0][0],l[0][0][1]).rotateZ(l[0][0][2]));
 	}else{
-	    p.push(polyCustom(-l[0][0][0]).translate(l[0][1]));
+	    p.push(polyCustom(-l[0][0][0]).rotateZ(l[0][2]).translate(l[0][1]));
 	}
 	// puis les autres sont posés par la fonction attache()
 	for(i = 1; i < l.length; i++){
 	    if(l[i][0][0]>0){
-	        p.push(attache(polyR(l[i][0][0],l[i][0][81]), l[i][1], p[l[i][2]], l[i][3]));
+	        p.push(attache(polyR(l[i][0][0],l[i][0][1]), l[i][1], p[l[i][2]], l[i][3]));
 	    }else{
 	        p.push(attache(polyCustom(-l[0][0][0]), l[i][1], p[l[i][2]], l[i][3]));
 	    }
@@ -43,8 +44,29 @@ function main (params){
 }
 
 // parametres des fns patron_xx () :
-// - premier polygone : [nb côtés, largeur, rotation]
+// - premier polygone : [nb côtés (-n si personnalisé), largeur, rotation]
 // - suivants : [nb côtés, largeur], côté à attacher, poly cible, côté cible 
+
+function patron_catalan1b() {
+    var r = [];
+    
+    for(j=-1;j<5;j++){
+        if(j==-1){r.push([[-1],[-45,0],232]);}
+        else {r.push([[-1],1,j,2]);}
+        for(i=0;i<4;i++){r.push([[-1],3,i+5*(j+1),0]);}
+    }
+    for(j=0;j<25;j+=5){
+        r.push([[-1],1,8+j,2]);
+        r.push([[-1],3,30+j,0]);
+        r.push([[-1],3,31+j,0]);
+        r.push([[-1],0,30+j,3]);
+        r.push([[-1],0,33+j,3]);
+    }
+    r.push([[-1],2,54,1]);
+    for(i=0;i<4;i++){r.push([[-1],3,55+i,0]);}
+
+    return r;
+}
 
 function patron_catalan1() {
     var r = [],i;
@@ -116,7 +138,6 @@ function patron_catalan1() {
     
     return r;
 }
-
 function patron_icosaedreTronque() {
     var r = [], i;
     
@@ -136,7 +157,6 @@ function patron_icosaedreTronque() {
     
     return r;
 }
-
 function patron_pt_rhombicosidodecaedre() {
     var r = [], i;
     
@@ -158,7 +178,6 @@ function patron_pt_rhombicosidodecaedre() {
 
     return r;
 }
-
 function patron_bt_jack() {
 return [[[3,10,45]],
     [[4,10],0,0,2],
@@ -175,7 +194,6 @@ return [[[3,10,45]],
     [[4,10],0,9,2]
     ];
 }
-
 function patron_cube() {
 return [[[4,10,0]],
     [[4,10],0,0,3],
@@ -185,7 +203,6 @@ return [[[4,10,0]],
     [[4,10],0,2,3]
     ];    
 }
-
 function patron_dodecaedre() {
 return [[[5,10,225]],
     [[5,10],0,0,0],
@@ -201,7 +218,6 @@ return [[[5,10,225]],
     [[5,10],0,7,1]
     ];
 }
-
 function patron_boiteOctogonale() {
 return [[[8,10,22.5]],
     [[4,10],0,0,0],
@@ -222,7 +238,6 @@ return [[[8,10,22.5]],
     [[4,10],0,14,6]
     ];
 }
-
 function patron_tetraedre() {
 	return [[[3,15,45]],
     [[3,15],0,0,0],
@@ -230,7 +245,6 @@ function patron_tetraedre() {
     [[3,15],0,0,2]
     ];
 }
-
 function patron_icosaedre() {
     return [[[3,15,45]],
     [[3,15],0,0,2],
