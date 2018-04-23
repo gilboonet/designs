@@ -20,7 +20,7 @@ for (i in pp){
     ph_pts.push([pts[j][0], pts[j][1],0]);
  }
  c = centre(pts);
- ph_pts.push([c[0], c[1], 2+ Math.sin(params.hauteur*(i+1))]);
+ ph_pts.push([c[0], c[1], 4]);
  
  ph_polys = [];
  for(j=0;j<pts.length;j++){
