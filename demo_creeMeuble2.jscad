@@ -1,5 +1,5 @@
 // DEMO 2 : meuble par réseau de points
-
+// https://raw.githubusercontent.com/gilboonet/designs/master/demo_creeMeuble2.jscad
 // editeur de polygones : http://gilboo.carton.free.fr/OPSPED
 function main (params) {
 var poly, pts, nDefs, symX, symY, meuble, i, tmp;
