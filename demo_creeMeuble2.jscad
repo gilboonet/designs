@@ -2,10 +2,78 @@
 // https://raw.githubusercontent.com/gilboonet/designs/master/demo_creeMeuble2.jscad
 // editeur de polygones : http://gilboo.carton.free.fr/OPSPED
 function main (params) {
-var poly, pts, nDefs, symX, symY, meuble, i, tmp;
+var poly, pts, nDefs, symX, symY, meuble, i, tmp, dM;
 
-//design = parseInt(params.modele);
-switch(params.modele){
+if(params.modele == '0'){
+    if((params.points === '')||(params.niches === '')){
+        throw "Points et Niches doivent être renseignés!";
+    }
+    dM.pts = JSON.parse(params.points);
+    dM.nDefs = JSON.parse(params.niches.replace(/\;/g, ''));
+    dM.symX = params.sym.includes('X');
+    dM.symY = params.sym.includes('Y');
+} else {
+    dM = RecupDonneesModele(params.modele);
+}
+
+meuble = faitMeuble(params, dM);
+return meuble;
+}
+
+function faitMeuble(params, dM){
+var meuble, i, niche;
+
+// calcul du meuble (= union des niches)
+meuble = null;
+for(i in dM.nDefs){
+    niche = faitNiche(params, dM, i);
+    if(!meuble) meuble = niche;
+    else        meuble = meuble.union(niche);
+}
+
+if(dM.symX) meuble = meuble.union(meuble.mirroredX());
+if(dM.symY) meuble = meuble.union(meuble.mirroredY());
+
+renseigneInfos(params, dM);
+
+return meuble;
+}
+
+function renseigneInfos(params, dM){
+    var tmp = [];
+
+    tmp.push('MODELE #'+params.modele);
+    tmp.push('Pts = '+ JSON.stringify(dM.pts)+";");
+    tmp.push('nDefs = '+ JSON.stringify(dM.nDefs)+";");
+    console.log(tmp.join('\n'));
+}
+
+function faitNiche(params, dM, n){
+    // dM.pts : tableau des points 
+    // dM.ndefs[n] : tableau définissant la niche par numéros de point
+    var dNiche, i, pNiche, niche;
+    
+    nPts = nDefs[n];
+    // crée la niche à partir des numéros fournis
+    // - 1: données fournies -> liste de points
+    dNiche  = [];
+    for(i in nPts){
+        dNiche.push(pts[nPts[i]]);
+    }
+    // - 2: liste de points -> chemin 2d
+    pNiche = new CSG.Path2D(dNiche, true);
+    // - 3: chemin 2d -> niche (3d ou 2d selon rendu)
+    if(params.rendu == '3'){
+        niche = pNiche.rectangularExtrude(params.epais, params.prof, 0, true);
+    }else{
+        niche = pNiche.expandToCAG(params.epais /2);
+    }
+    
+    return niche;
+}
+
+function RecupDonneesModele(mNum){
+switch(mNum){
     case '1': // 3 niches
         pts = [[0,0],[20,0],[28,16],[16,24],[24,40],[0,40],[8,24],[0,16]];
         nDefs = [[0,1,2,7], [7,2,3,6], [6,3,4,5]];
@@ -48,33 +116,12 @@ switch(params.modele){
         symX = false; symY = false;
         break;
     case '9': // Penta
-        pts = [[-33,-48],[-11,-49],[28,-52],[35,-27],[48,15],[27,26],[-8,48],[-24,33],[-51,7],[-45,-11],[-28,2],[-19,-24],[7,-26],[17,1],[-6,18]];
+        pts = [[-33,-48],[-11,-49],[28,-52],[35,-27],[48,15],[28,27],[-8,48],[-24,33],[-51,7],[-45,-11],[-28,2],[-19,-24],[7,-26],[17,1],[-6,18]];
         nDefs = [[0,1,11,10,9],[1,2,3,12,11],[3,4,5,13,12],[5,6,7,14,13],[7,8,9,10,14]];
         symX = false; symY = false;
         break;
-    case '': // AJOUT
-        symX = false; symY = false;
-        break;
-    case '0':
-        if((params.points === '')||(params.niches === '')){
-            throw "Points et Niches doivent être renseignés!";
-        }
-        pts = JSON.parse(params.points);
-        nDefs = JSON.parse(params.niches.replace(/\;/g, ''));
-        symX = params.sym.indexOf('X')> -1;
-        symY = params.sym.indexOf('Y')> -1;
-        break;
 }
-
-meuble = faitMeuble(params.rendu, pts, nDefs, params.epais, params.prof, symX, symY);
-
-tmp = [];
-tmp.push('MODELE #'+params.modele);
-tmp.push('Pts = '+ JSON.stringify(pts)+";");
-tmp.push('nDefs = '+ JSON.stringify(nDefs)+";");
-console.log(tmp.join('\n'));
-
-return meuble;
+return {pts:pts, nDefs:nDefs, symX:symX, symY:symY};
 }
 
 function getParameterDefinitions () {
@@ -103,42 +150,3 @@ function getParameterDefinitions () {
     ];
 }
 
-function faitMeuble(rendu, pts, nichesDefs, epais, prof, symX = false, symY = false){
-var meuble, i, niche;
-
-// calcul du meuble (= union des niches)
-meuble = null;
-for(i in nichesDefs){
-    niche = faitNiche(rendu, pts, nichesDefs[i], epais, prof);
-    if(!meuble) meuble = niche;
-    else        meuble = meuble.union(niche);
-}
-
-if(symX) meuble = meuble.union(meuble.mirroredX());
-if(symY) meuble = meuble.union(meuble.mirroredY());
-
-return meuble;
-}
-
-function faitNiche(rendu, pts, nPts, epais,prof){
-    // pts : tableau des points 
-    // nPts : tableau définissant la niche par numéros de point
-    var dNiche, i, pNiche, niche;
-    
-    // crée la niche à partir des numéros fournis
-    // - 1: données fournies -> liste de points
-    dNiche  = [];
-    for(i in nPts){
-        dNiche.push(pts[nPts[i]]);
-    }
-    // - 2: liste de points -> chemin 2d
-    pNiche = new CSG.Path2D(dNiche, true);
-    // - 3: chemin 2d -> niche (3d ou 2d selon rendu)
-    if(rendu == '3'){
-        niche = pNiche.rectangularExtrude(epais,prof,0,true);
-    }else{
-        niche = pNiche.expandToCAG(epais/2);
-    }
-    
-    return niche;
-}
