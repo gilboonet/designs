@@ -51,7 +51,7 @@ function renseigneInfos(params, dM){
 function faitNiche(params, dM, n){
     // dM.pts : tableau des points 
     // dM.ndefs[n] : tableau définissant la niche par numéros de point
-    var dNiche, i, pNiche, niche;
+    var nPts, dNiche, i, pNiche, niche;
     
     nPts = nDefs[n];
     // crée la niche à partir des numéros fournis
