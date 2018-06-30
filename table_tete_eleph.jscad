@@ -1,5 +1,5 @@
 // table TETE ELEPHANT pour choix couleur
-
+// https://raw.githubusercontent.com/gilboonet/designs/master/table_tete_eleph.jscad
 function main()
 {
     pProfil = polygon([[0,32],[17,31],[22,24],[25,0],[22,-20],[11,-27],[4,-21],[6,-21],[11,-25],[19,-19],[18,-4],[16,5],[10,8],[0,8]]);
