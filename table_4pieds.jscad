@@ -1,5 +1,5 @@
 // TABLE PLATEAU + 4 Pieds
-
+// https://raw.githubusercontent.com/gilboonet/designs/master/table_4pieds.jscad
 function getParameterDefinitions () {
   return [
     {type: 'group', caption:"PLATEAU"},
