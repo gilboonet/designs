@@ -5,7 +5,7 @@
 // tags       : polyhedron archimede
 // file       : test_archimede.jscad
 
-include ("polyhedrons_archimede");
+include ("polyhedrons_archimede.jscad");
 
 function csgFromSegments (segments) {
   let output = [];
