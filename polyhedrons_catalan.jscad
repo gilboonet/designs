@@ -5,7 +5,13 @@
 // tags       : polyhedron
 // file       : polyhedrons_catalan.jscad
 
-function triakis_tetrahedron(){
+// Data from dmccooey.com/polyhedra
+
+// Library to include with : include("polyhedrons_catalan.jscad");
+// Instanciate before use : polyh3();
+
+polyh3 = function () {
+polyh3.triakis_tetrahedron = function (){
 // http://dmccooey.com/polyhedra/TriakisTetrahedron.html
 var C0, C1, vertices, faces;
     
@@ -40,7 +46,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function rhombic_dodecahedron(){
+polyh3.rhombic_dodecahedron = function (){
 // http://dmccooey.com/polyhedra/RhombicDodecahedron.html
 var C0, C1, vertices, faces;
     
@@ -80,7 +86,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function tetrakis_hexahedron(){
+polyh3.tetrakis_hexahedron = function (){
 // http://dmccooey.com/polyhedra/TetrakisHexahedron.html
 var C0, C1, vertices, faces;
     
@@ -133,7 +139,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function triakis_octahedron(){
+polyh3.triakis_octahedron = function (){
 // http://dmccooey.com/polyhedra/TriakisOctahedron.html
 var C0, vertices, faces;
 
@@ -185,7 +191,7 @@ faces =[
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function deltoidal_icositetrahedron(){
+polyh3.deltoidal_icositetrahedron = function (){
 // http://dmccooey.com/polyhedra/DeltoidalIcositetrahedron.html
 var C0, C1, vertices, faces;
     
@@ -249,7 +255,7 @@ faces= [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function pentagonal_icositetrahedron_dextro(){
+polyh3.pentagonal_icositetrahedron_dextro = function (){
 // http://dmccooey.com/polyhedra/RpentagonalIcositetrahedron.html
 var C0, C1, C2, C3, C4, vertices, faces;
     
@@ -328,7 +334,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function pentagonal_icositetrahedron_laevo(){
+polyh3.pentagonal_icositetrahedron_laevo = function (){
 // http://dmccooey.com/polyhedra/LpentagonalIcositetrahedron.html
 var C0, C1, C2, C3, vertices, faces;
 
@@ -407,7 +413,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function rhombic_triacontahedron(){
+polyh3.rhombic_triacontahedron = function (){
 // http://dmccooey.com/polyhedra/RhombicTriacontahedron.html
 var C0, C1, C2, vertices, faces;
 
@@ -485,7 +491,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function disdyakis_dodecahedron(){
+polyh3.disdyakis_dodecahedron = function (){
 // http://dmccooey.com/polyhedra/DisdyakisDodecahedron.html
 var C0, C1, C2, vertices, faces;
     
@@ -575,7 +581,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function pentakis_dodecahedron(){
+polyh3.pentakis_dodecahedron = function (){
 // http://dmccooey.com/polyhedra/PentakisDodecahedron.html
 var C0, C1, C2, C3, vertices, faces;
 
@@ -683,7 +689,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function triakis_icosahedron(){
+polyh3.triakis_icosahedron = function (){
 // http://dmccooey.com/polyhedra/TriakisIcosahedron.html
 var C0, C1, C2, C3, C4, vertices, faces;
 
@@ -792,7 +798,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function deltoidal_hexecontahedron(){
+polyh3.deltoidal_hexecontahedron = function (){
 // http://dmccooey.com/polyhedra/DeltoidalHexecontahedron.html
 var C0, C1, C2, C3, C4, C5, C6, C7, C8, vertices, faces;
 
@@ -935,7 +941,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function pentagonal_hexecontahedron_dextro(){
+polyh3.pentagonal_hexecontahedron_dextro = function (){
 // http://dmccooey.com/polyhedra/RpentagonalHexecontahedron.html
 var phi, x, C0, C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15
 , C16, C17, C18, C19 , vertices, faces;
@@ -1122,7 +1128,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function pentagonal_hexecontahedron_laevo(){
+polyh3.pentagonal_hexecontahedron_laevo = function (){
 // http://dmccooey.com/polyhedra/LpentagonalHexecontahedron.html
 var phi, x, C0, C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15
 , C16, C17, C18, C19 , vertices, faces;
@@ -1310,7 +1316,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function disdyakis_triacontahedron(){
+polyh3.disdyakis_triacontahedron = function (){
 // http://dmccooey.com/polyhedra/DisdyakisTriacontahedron.html
 var C0, C1, C2, C3, C4, C5, C6, C7, C8, vertices, faces;
 
@@ -1513,39 +1519,4 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-
-const DK = 15, Z=6;
-
-function csgFromSegments (segments) {
-  let output = [];
-  segments.forEach(segment => output.push(
-    rectangular_extrude(segment, { w:2, h:1 })
-  ));
-  return union(output);
-}
-
-function main(){
-    r = [];
-    
-    r.push(color("darkorange", triakis_tetrahedron().scale(4).translate([-DK*2,DK,Z])));
-    r.push(color("lime", rhombic_dodecahedron().scale(6).translate([-DK,DK,Z])));
-    r.push(color("purple", tetrakis_hexahedron().scale(3.5).translate([0,DK,Z])));
-    r.push(color("crimson", triakis_octahedron().scale(2.5).translate([DK,DK,Z])));
-    
-    r.push(color("magenta", deltoidal_icositetrahedron().scale(3.5).translate([-DK*2,0,Z])));
-    r.push(color("blue", pentagonal_icositetrahedron_dextro().scale(4).translate([-DK,0,Z])));
-    r.push(color("yellow",pentagonal_icositetrahedron_laevo().scale(4).translate([0,0,Z])));
-    r.push(color("green", rhombic_triacontahedron().scale(3.5).translate([DK,0,Z])));
-    
-    r.push(color("red", disdyakis_dodecahedron().scale(2).translate([-DK*2,-DK,Z])));
-    r.push(color("lightblue", pentakis_dodecahedron().scale(2).translate([-DK,-DK,Z])));
-    r.push(color("orange", triakis_icosahedron().scale(1.6).translate([0,-DK,Z])));
-    r.push(color("beige", deltoidal_hexecontahedron().scale(2.25).translate([DK,-DK,Z])));
-    
-    r.push(color("lavender", pentagonal_hexecontahedron_dextro().scale(2).translate([-DK*2,-DK*2,Z])));
-    r.push(color("cyan", pentagonal_hexecontahedron_laevo().scale(2).translate([-DK,-DK*2,Z])));
-    r.push(color("indigo", disdyakis_triacontahedron().scale(1.25).translate([0,-DK*2,Z])));
-    
-    r.push(csgFromSegments(vectorText("SOLIDES DE CATALAN")).scale(0.25).translate([-50,-40,0]));
-    return r;
 }

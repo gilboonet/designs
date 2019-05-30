@@ -1,11 +1,17 @@
-// title      : Polyhedrons
+// title      : Semi-regular polyhedrons Library (Archimedean solids)
 // author     : Gilbert Duval
 // license    : MIT License
 // revision   : 0.001
-// tags       : polyhedron
-// file       : polyhedrons.jscad
+// tags       : polyhedron archimede
+// file       : polyhedrons_archimede.jscad
 
-function truncated_tetrahedron() {
+// Data from dmccooey.com/polyhedra
+
+// Library to include with : include("polyhedrons_archimede.jscad");
+// Instanciate before use : polyh2();
+
+polyh2 = function() {
+polyh2.truncated_tetrahedron = function() {
 // http://dmccooey.com/polyhedra/TruncatedTetrahedron.html
 var C0, C1, vertices, faces;
 
@@ -40,7 +46,7 @@ faces= [
 return polyhedron({points: vertices, polygons: faces});
 }
 
-function cuboctahedron(){
+polyh2.cuboctahedron = function() {
 // http://dmccooey.com/polyhedra/Cuboctahedron.html
 var C0, vertices, faces;
     
@@ -58,7 +64,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function truncated_octahedron() {
+polyh2.truncated_octahedron = function() {
 // http://dmccooey.com/polyhedra/TruncatedOctahedron.html
 var C1, C0, vertices, faces;
 
@@ -112,7 +118,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function truncated_cube(){
+polyh2.truncated_cube = function() {
 // http://dmccooey.com/polyhedra/TruncatedCube.html
 var C0, vertices, faces;
     
@@ -164,7 +170,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function rhombicuboctahedron() {
+polyh2.rhombicuboctahedron = function() {
 // http://dmccooey.com/polyhedra/Rhombicuboctahedron.html
 var C0, vertices, faces;
 
@@ -228,7 +234,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function snub_cube_laevo(){
+polyh2.snub_cube_laevo = function() {
 // http://dmccooey.com/polyhedra/LsnubCube.html
 var C0, C1, C2, vertices, faces;
     
@@ -307,7 +313,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function snub_cube_dextro(){
+polyh2.snub_cube_dextro = function() {
 // http://dmccooey.com/polyhedra/LsnubCube.html
 var C0, C1, C2, vertices, faces;
     
@@ -386,7 +392,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function icosidodecahedron(){
+polyh2.icosidodecahedron = function() {
 // http://dmccooey.com/polyhedra/Icosidodecahedron.html
 var C0, C1, C2, vertices, faces;
     
@@ -466,7 +472,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function truncated_cuboctahedron(){
+polyh2.truncated_cuboctahedron = function() {
 // http://dmccooey.com/polyhedra/TruncatedCuboctahedron.html
 var C0, C1, vertices, faces;
     
@@ -557,7 +563,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function truncated_icosahedron(){
+polyh2.truncated_icosahedron = function () {
 // http://dmccooey.com/polyhedra/TruncatedIcosahedron.html
 var C0, C1, C2, C3, C4, vertices, faces;
     
@@ -669,7 +675,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function rhombicosidodecahedron(){
+polyh2.rhombicosidodecahedron = function () {
 // http://dmccooey.com/polyhedra/Rhombicosidodecahedron.html
 var C0, C1, C2, C3, C4, vertices, faces;
     
@@ -809,7 +815,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function snub_dodecahedron_laevo(){
+polyh2.snub_dodecahedron_laevo = function (){
 // http://dmccooey.com/polyhedra/LsnubDodecahedron.html
 var C0, C1,C2,C3,C4,C6,C7,C8,C9,C10,C11,C12,C13,C14, vertices, faces;
     
@@ -990,7 +996,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function snub_dodecahedron_dextro(){
+polyh2.snub_dodecahedron_dextro = function (){
 // http://dmccooey.com/polyhedra/RsnubDodecahedron.html
 var C0, C1,C2,C3,C4,C6,C7,C8,C9,C10,C11,C12,C13,C14, vertices, faces;
     
@@ -1171,7 +1177,7 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function truncated_icosidodecahedron(){
+polyh2.truncated_icosidodecahedron = function (){
 // http://dmccooey.com/polyhedra/TruncatedIcosidodecahedron.html
 var C0, C1,C2,C3,C4,C6,C7,C8,C9, vertices, faces;
 
@@ -1377,36 +1383,4 @@ faces = [
 return polyhedron({points:vertices, polygons:faces});
 }
 
-function csgFromSegments (segments) {
-  let output = [];
-  segments.forEach(segment => output.push(
-    rectangular_extrude(segment, { w:2, h:1 })
-  ));
-  return union(output);
-}
-
-const DK = 15, Z=4;
-function main(){
-    r = [];
-    
-    r.push(color("darkorange", truncated_icosidodecahedron().scale(1.2).translate([-DK*2,DK,Z])));
-    r.push(color("lime", rhombicosidodecahedron().scale(2).translate([-DK,DK,Z])));
-    r.push(color("purple", icosidodecahedron().scale(2.5).translate([0,DK,Z])));
-    r.push(color("crimson", snub_cube_dextro().scale(3).translate([DK,DK,Z])));
-    
-    r.push(color("magenta", rhombicuboctahedron().scale(3).translate([-DK*2,0,Z])));
-    r.push(color("blue", truncated_octahedron().scale(3).translate([-DK,0,Z])));
-    r.push(color("yellow",cuboctahedron().scale(5).translate([0,0,Z])));
-    r.push(color("green", truncated_tetrahedron().scale(4).translate([DK,0,Z])));
-    
-    r.push(color("red", truncated_cube().scale(3).translate([-DK*2,-DK,Z])));
-    r.push(color("lightblue", snub_cube_laevo().scale(4).translate([-DK,-DK,Z])));
-    r.push(color("orange", truncated_cuboctahedron().scale(2).translate([0,-DK,Z])));
-    r.push(color("beige", snub_dodecahedron_laevo().scale(2).translate([DK,-DK,Z])));
-    
-    r.push(color("lavender", snub_dodecahedron_dextro().scale(2).translate([-DK*2,-DK*2,Z])));
-    
-    r.push(csgFromSegments(vectorText("SOLIDES")).scale(0.25).translate([-10,-30,0]));
-    r.push(csgFromSegments(vectorText("D'ARCHIMEDE")).scale(0.25).translate([-29.5,-40,0]));
-    return r;
 }
