@@ -36,8 +36,12 @@ function ponte(f1, f2){
         ];
         r.push(creePoly(tmp));
     }
-    //return new CSG.fromPolygons(r);
     return r;
+}
+
+function cumule(t, l){ /// ajoute le contenu de l dans t
+    l.forEach(function (f){ t.push(f);} );
+    return t;
 }
 
 function main(){
@@ -57,9 +61,9 @@ function main(){
     v3 = ponte(p1, p2);
     r = v3;
     
-    v1.polygons.forEach(function(f){ r.push(f); });
-    v2.polygons.forEach(function(f){ r.push(f); });
-    
+    cumule(r, v1.polygons);
+    cumule(r, v2.polygons);
+
     //r.push(color([1,0,0,0.3], CSG.fromPolygons(v3)));
     //r.push(color("green", CSG.fromPolygons(v1.polygons)));
     //r.push(color("yellow", CSG.fromPolygons(v2.polygons)));
