@@ -41,7 +41,6 @@ function ponte(f1, f2){
 
 function cumule(t, l){ /// ajoute le contenu de l dans t
     l.forEach(function (f){ t.push(f);} );
-    return t;
 }
 
 function main(){
