@@ -8,7 +8,10 @@
 * [col12.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/col12.jscad) : générateur de colonne en étoile
 * [colonne.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/colonne.jscad) : générateur de lampion
 * [demo_creeMeuble2.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/demo_creeMeuble2.jscad) : démonstration de la technique NER (Niches En Réseau)
-
+* [laby_rond.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/laby_rond.jscad) : Générateur de labyrinthe circulaire aléatoire
+* [make_pattern.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/make_pattern.jscad) : démonstration de la technique de création dynamique d'un gabarit fait de polygones réguliers "attachés"
+* [mp_chat_H24.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/mp_chat_H24.jscad) : exemple de visualisation graphique d'un gabarit (chat debout)
+* [mp_lion.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/mp_lion.jscad) : exemple de visualisation graphique d'un gabarit (tête de lion)
 
 ## modèles 3d .wings
 
