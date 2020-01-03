@@ -3,6 +3,8 @@
 * [4couls.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/4couls.jscad) : affichage d'un modèle 3d avec répartition des faces en groupes colorés
 * [biseau1.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/biseau1.jscad) : créé un volume en biseaux diamantés (mirroré) pour chaque polygone du modèle. Le modèle peut être édité avec [L'éditeur de polygones](http://gilboo.carton.free.fr/OPSPED/)
 * [cerceau.js](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/cerceau.js) : générateur de cerceau
+* [charniere1.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/charniere1.jscad) : exemple de charnière simple
+* [circonvolutions_v3.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/circonvolutions_v3.jscad) : Générateur de circonvolutions depuis un polygone éditable avec [L'éditeur de polygones](http://gilboo.carton.free.fr/OPSPED/)
 
 ## modèles 3d .wings
 
