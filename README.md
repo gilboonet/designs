@@ -6,6 +6,9 @@
 * [charniere1.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/charniere1.jscad) : exemple de charnière simple
 * [circonvolutions_v3.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/circonvolutions_v3.jscad) : Générateur de circonvolutions depuis un polygone éditable avec [L'éditeur de polygones](http://gilboo.carton.free.fr/OPSPED/)
 * [col12.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/col12.jscad) : générateur de colonne en étoile
+* [colonne.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/colonne.jscad) : générateur de lampion
+* [demo_creeMeuble2.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/demo_creeMeuble2.jscad) : démonstration de la technique NER (Niches En Réseau)
+
 
 ## modèles 3d .wings
 
