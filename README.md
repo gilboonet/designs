@@ -27,7 +27,7 @@
 * [trancheCylindre.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/trancheCylindre.jscad) : Exemple d'extraction d'une tranche d'un volume placé dans un cylindre percé de trous aux 4 points cardinaux (permet de générer un moule)
 * [traverses.js](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/traverses.js) : Initiation jscad : Générateur de traverses entrecroisées
 
-## Gabarits 2d .pdf .zip
+## Gabarits 2d .pdf
 * [bastet260.pdf](https://github.com/gilboonet/designs/blob/master/bastet260.pdf) : Chat Egyptien, 260 triangles, scan du gabarit manuel !
 * [cadre01.pdf](https://github.com/gilboonet/designs/blob/master/cadre01.pdf) : Cadre de test
 * [chatonDebout_H24.pdf](https://github.com/gilboonet/designs/blob/master/chatonDebout_H24.pdf) : Chaton debout, 234 triangles, hauteur 24 cm, 4 feuilles A4
@@ -35,11 +35,8 @@
 * [dode1b.pdf](https://github.com/gilboonet/designs/blob/master/dode1b.pdf) : petit bol dodécaèdre, 2 feuilles A4
 * [faucon300_H42.pdf](https://github.com/gilboonet/designs/blob/master/faucon300_H42.pdf) : Faucon maltais, 300 triangles, hauteur 42 cm, 7 feuilles A4
 * [girafe464_h160.pdf](https://github.com/gilboonet/designs/blob/master/girafe464_h160.pdf) : Girafe, 464 triangles, hauteur, 160 cm, 34 feuilles A4
-* []() : 
-* []() : 
-* []() : 
-* []() : 
-
-## modèles 3d .wings
-
-## Découpes .gcode
+* [hibTout.pdf](https://github.com/gilboonet/designs/blob/master/hibTout.pdf) : Hibou, en TRANCHES, 9 feuilles A4
+* [modele_quart.pdf](https://github.com/gilboonet/designs/blob/master/modele_quart.pdf) : quart d'une mini table basse, habillage en facettes, nécessite d'y inclure un squelette.
+* [teteCheval_H25.pdf](https://github.com/gilboonet/designs/blob/master/teteCheval_H25.pdf) : Tête de cheval, 120 triangles, hauteur 25 cm, 3 feuilles A4
+* [teteLion_H50.pdf](https://github.com/gilboonet/designs/blob/master/teteLion_H50.pdf) : Tête de lion, 358 triangles, 14 feuilles A4
+* [vase_yaourt_45mm.pdf](https://github.com/gilboonet/designs/blob/master/vase_yaourt_45mm.pdf) : Vase encapsulant un grand pot de yaourt d'1 kg, gabarit sur 2 feuilles A4, en nécessite 5.
