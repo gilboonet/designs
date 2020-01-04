@@ -12,19 +12,23 @@
 * [make_pattern.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/make_pattern.jscad) : démonstration de la technique de création dynamique d'un gabarit fait de polygones réguliers "attachés"
 * [mp_chat_H24.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/mp_chat_H24.jscad) : exemple de visualisation graphique d'un gabarit (chat debout)
 * [mp_lion.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/mp_lion.jscad) : exemple de visualisation graphique d'un gabarit (tête de lion)
-* [plaque_incurv1.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/plaque_incurv1.jscad) : Initiation jscad : design de plaque incurvée + inclusion de texte en volets
-* [plaque_incurv1p.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/plaque_incurv1p.jscad) : Initiation jscad : version paramétrée du script précédent
+* [plaque_incurv1.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/plaque_incurv1.jscad) : Initiation jscad : Design de plaque incurvée + inclusion de texte en volets
+* [plaque_incurv1p.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/plaque_incurv1p.jscad) : Initiation jscad : Version paramétrée du script précédent
 * [polyhedrons.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/polyhedrons.jscad) : Utilisation des polyèdres réguliers
 * [polyhedronUsage2.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/polyhedronUsage2.jscad) : Exemple de manipulation de polyèdre pour créer un design
 * [polyhedron_usage3.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/polyhedron_usage3.jscad) : Autre exemple de design créé en manipulant un polyèdre
 * [polyhedron_usage4.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/polyhedron_usage4.jscad) : Exemple de design obtenu en pontant deux polyèdres entre faces
 * [polyhedron_usage6.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/polyhedron_usage6.jscad) : Exemple de design obtenu par pontage et extrusion
 * [polyhedrons_archimede.jscad](https://github.com/gilboonet/designs/blob/master/polyhedrons_archimede.jscad) : bibliothèque de fonctions regroupant les polyèdres d'Archimède (à utiliser comme fichier externe d'un script)
-* [polyhedrons_catalan.jscad](https://github.com/gilboonet/designs/blob/master/polyhedrons_catalan.jscad) : bliothèque de fonctions regroupant les polyèdres de Catalan (à utiliser comme fichier externe d'un script)
+* [polyhedrons_catalan.jscad](https://github.com/gilboonet/designs/blob/master/polyhedrons_catalan.jscad) : bibliothèque de fonctions regroupant les polyèdres de Catalan (à utiliser comme fichier externe d'un script)
 * [polyhedrons_platon.jscad](https://github.com/gilboonet/designs/blob/master/polyhedrons_platon.jscad) : bibliothèque de fonctions regroupant les polyèdres de Platon (à utiliser comme fichier externe d'un script)
-
-## modèles 3d .wings
+* [regularPolygons.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/regularPolygons.jscad) Générateur de polygones réguliers (non étoilés)
+* [table_4pieds.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/table_4pieds.jscad) : Générateur de table ronde à 4 pieds ajourés (dessin du pied éditable avec [L'éditeur de polygones](http://gilboo.carton.free.fr/OPSPED/))
+* [trancheCylindre.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/trancheCylindre.jscad) : Exemple d'extraction d'une tranche d'un volume placé dans un cylindre percé de trous aux 4 points cardinaux (permet de générer un moule)
+* [traverses.js](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/traverses.js) : Initiation jscad : Générateur de traverses entrecroisées
 
 ## Gabarits 2d .pdf .zip
+
+## modèles 3d .wings
 
 ## Découpes .gcode
