@@ -28,6 +28,17 @@
 * [traverses.js](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/traverses.js) : Initiation jscad : Générateur de traverses entrecroisées
 
 ## Gabarits 2d .pdf .zip
+* [bastet260.pdf](https://github.com/gilboonet/designs/blob/master/bastet260.pdf) : Chat Egyptien, 260 triangles, scan du gabarit manuel !
+* [cadre01.pdf](https://github.com/gilboonet/designs/blob/master/cadre01.pdf) : Cadre de test
+* [chatonDebout_H24.pdf](https://github.com/gilboonet/designs/blob/master/chatonDebout_H24.pdf) : Chaton debout, 234 triangles, hauteur 24 cm, 4 feuilles A4
+* [chien_H90.pdf](https://github.com/gilboonet/designs/blob/master/chien_H90.pdf) : Grand chien, 354 triangles, hauteur 90 cm, 36 feuilles A4
+* [dode1b.pdf](https://github.com/gilboonet/designs/blob/master/dode1b.pdf) : petit bol dodécaèdre, 2 feuilles A4
+* [faucon300_H42.pdf](https://github.com/gilboonet/designs/blob/master/faucon300_H42.pdf) : Faucon maltais, 300 triangles, hauteur 42 cm, 7 feuilles A4
+* [girafe464_h160.pdf](https://github.com/gilboonet/designs/blob/master/girafe464_h160.pdf) : Girafe, 464 triangles, hauteur, 160 cm, 34 feuilles A4
+* []() : 
+* []() : 
+* []() : 
+* []() : 
 
 ## modèles 3d .wings
 
