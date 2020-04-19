@@ -19,7 +19,7 @@ var r = [];
     
 do{
 r.push(cc(params));
-params.largeur -= params.epaisseur+1;
+params.largeur -= 1; //params.epaisseur+1;
 }while(params.largeur > params.minimum);
 
 
