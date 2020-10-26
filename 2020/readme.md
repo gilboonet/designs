@@ -1,4 +1,5 @@
-Gabarits optimisés
+# BASTET
+256 facettes, hauteur 40 cm, gabarit sur 4 feuilles A3:
+https://github.com/gilboonet/designs/blob/master/2020/Bastet256_H40.pdf
+![](https://raw.githubusercontent.com/gilboonet/designs/master/2020/img/bastet.jpg)
 
-- https://github.com/gilboonet/designs/blob/master/2020/bouledogue200_H15.pdf
-- https://github.com/gilboonet/designs/blob/master/2020/Chaton200_H19.pdf
