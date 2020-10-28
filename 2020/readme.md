@@ -9,6 +9,7 @@
 * [200 facettes, hauteur 21 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Bouledogue200_H21.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/bouledogueH15.jpg)
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/bouledogue.gif)
 ***
 # BOULEDOGUE ASSIS
 * [200 facettes, hauteur 18 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Bouledogue_assis200_H18.svg)
