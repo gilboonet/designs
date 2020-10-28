@@ -28,9 +28,9 @@
 ***
 # GARGOUILLE
 * [299 facettes, hauteur 19 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Gargouille299_H21.pdf)
-![](https://github.com/gilboonet/designs/blob/master/2020/gif/gargouille.gif)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/gargouilleH19.jpg)
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/gargouille.gif)
 ***
 # MOAI
 * [156 facettes, hauteur 18 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Moai156_H18.pdf)
