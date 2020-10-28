@@ -30,6 +30,11 @@
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/gargouilleH19.jpg)
 ***
+# MOAI
+*[156 facettes, hauteur 18 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Moai156_H18.pdf)
+
+![](https://github.com/gilboonet/designs/blob/master/2020/img/moai156H18.jpg)
+***
 # PRINCESSE LEIA
 *[304 facettes, hauteur 27 cm, 9 feuilles A3](https://github.com/gilboonet/designs/blob/master/2020/LeiaBuste304_H27.pdf)
 
