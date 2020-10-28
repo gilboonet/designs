@@ -41,6 +41,7 @@
 * [304 facettes, hauteur 27 cm, 9 feuilles A3](https://github.com/gilboonet/designs/blob/master/2020/LeiaBuste304_H27.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/leiaH27.jpg)
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/leia.gif)
 ***
 # OURS
 * [342 facettes, hauteur 16 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Ours_342_H16.pdf)
