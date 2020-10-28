@@ -21,37 +21,37 @@
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/chatonH19.jpg)
 ***
 # DINO
-*[168 facettes, hauteur 22 cm, 1x3 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Dino168_H22.svg)
+* [168 facettes, hauteur 22 cm, 1x3 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Dino168_H22.svg)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/dino.jpg)
 ***
 # GARGOUILLE
-*[299 facettes, hauteur 19 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Gargouille299_H21.pdf)
+* [299 facettes, hauteur 19 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Gargouille299_H21.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/gargouilleH19.jpg)
 ***
 # MOAI
-*[156 facettes, hauteur 18 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Moai156_H18.pdf)
+* [156 facettes, hauteur 18 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Moai156_H18.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/moai156H18.jpg)
 ![](https://github.com/gilboonet/designs/blob/master/2020/gif/moaiH18.gif)
 ***
 # PRINCESSE LEIA
-*[304 facettes, hauteur 27 cm, 9 feuilles A3](https://github.com/gilboonet/designs/blob/master/2020/LeiaBuste304_H27.pdf)
+* [304 facettes, hauteur 27 cm, 9 feuilles A3](https://github.com/gilboonet/designs/blob/master/2020/LeiaBuste304_H27.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/leiaH27.jpg)
 ***
 # OURS
-*[342 facettes, hauteur 16 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Ours_342_H16.pdf)
+* [342 facettes, hauteur 16 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Ours_342_H16.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/oursH16.jpg)
 ***
 # PETIT CHEVAL
-*[246 facettes, hauteur 16 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval246_H16.pdf)
+* [246 facettes, hauteur 16 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval246_H16.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/petitChevalH16.jpg)
 ***
 # TDY
-*[236 facettes, hauteur 20 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Tdy236_H20.pdf)
+* [236 facettes, hauteur 20 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Tdy236_H20.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/tdyH29.jpg)
