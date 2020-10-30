@@ -48,7 +48,7 @@
 * [342 facettes, hauteur 16 cm, 5 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Ours_342_H16.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/oursH16.jpg)
-![](https://github.com/gilboonet/designs/blob/master/2020/gif/ours342.gif)
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/ours.gif)
 ***
 # PETIT CHEVAL
 * [246 facettes, hauteur 16 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval246_H16.pdf)
