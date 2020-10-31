@@ -51,14 +51,14 @@
 ![](https://github.com/gilboonet/designs/blob/master/2020/gif/ours.gif)
 ***
 # PETIT CHEVAL
-* [246 facettes, hauteur 16 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval246_H16.pdf)
+* [246 facettes, hauteur 16 cm, 2 feuilles A4, 2 parties](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval246_H16.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/petitChevalH16.jpg)
 ![](https://github.com/gilboonet/designs/blob/master/2020/gif/petitCheval.gif)
 
-* [252 facettes, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval252.pdf)
+* [252 facettes, 2 feuilles A4, 4 parties](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval252.pdf)
 
-![](https://github.com/gilboonet/designs/blob/master/2020/gif/petitCheval.gif)
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/petitCheval2.gif)
 
 ***
 # TDY
