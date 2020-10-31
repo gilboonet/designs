@@ -52,8 +52,12 @@
 ***
 # PETIT CHEVAL
 * [246 facettes, hauteur 16 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval246_H16.pdf)
-
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/petitChevalH16.jpg)
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/petitCheval.gif)
+
+* [252 facettes, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/PetitCheval252.pdf)
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/petitCheval.gif)
+
 ***
 # TDY
 * [236 facettes, hauteur 20 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Tdy236_H20.pdf)
