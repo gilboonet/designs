@@ -66,3 +66,7 @@ Pour l'assemblage, lire [ici](https://gilboonet.github.io/article_20200704.html)
 * [236 facettes, hauteur 20 cm, 2 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/Tdy236_H20.pdf)
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/tdyH29.jpg)
+
+* [236 facettes, hauteur 20 cm, 4 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/TDY236_H20_4A4.pdf)
+
+![](https://github.com/gilboonet/designs/blob/master/2020/gif/tdy236H20.gif)
