@@ -1,3 +1,6 @@
+## Galerie des designs simples de 2020
+https://github.com/gilboonet/designs/tree/master/2020
+
 ## Scripts .jscad .js
 * [testInclude](https://github.com/gilboonet/designs/tree/master/testInclude) : exemple de design utilisant un fichier externe
 * [4couls.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/4couls.jscad) : affichage d'un modèle 3d avec répartition des faces en groupes colorés
