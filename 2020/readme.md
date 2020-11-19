@@ -73,8 +73,10 @@ Pour l'assemblage, lire [ici](https://gilboonet.github.io/article_20200704.html)
 
 ***
 # MEUBLE : DODE
-* [Squelette sur 8 feuilles A4]()
-* [(demi )Habillage sur 7 feuilles A4]()
+* [Squelette sur 8 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/meuble_dode_squelette.pdf)
+Découper les tranches suivant leur gabarit, l'assemblage se fait en alignant 1,2,3,4,5, puis les reliant avec A,B,C et D (les petits en bas, puis les autres).
+Attention, les tranches 2, 3 et 4 ont leurs gabarits en 2 parties à joindre avant leur découpe.
+* [(demi )Habillage sur 7 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/meuble_dode_habillage.pdf)L'habillage est fait de 2x ce gabarit, tracer chaque pièce (plis en pointillé au dos), découper et plier. Assembler par dessus le squelette. Voir le détail ci-après :
 
 ![](https://github.com/gilboonet/designs/blob/master/2020/img/detail_habillage.png)
 
