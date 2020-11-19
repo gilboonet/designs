@@ -73,6 +73,8 @@ Pour l'assemblage, lire [ici](https://gilboonet.github.io/article_20200704.html)
 
 ***
 # MEUBLE : DODE (hauteur 26 cm)
+![](https://github.com/gilboonet/designs/blob/master/2020/img/dode.jpg)
+
 * [Squelette sur 8 feuilles A4](https://github.com/gilboonet/designs/blob/master/2020/meuble_dode_squelette.pdf)
 
 Découper les tranches suivant leur gabarit, l'assemblage se fait en alignant 1,2,3,4,5, puis les reliant avec A,B,C et D (les petits en bas, puis les autres).
