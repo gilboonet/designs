@@ -13,6 +13,12 @@
 
 ***
 # Petite Table Basse Carrée
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj"> Modèle 3d</a> - Squelette - Habillage
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj"> Modèle 3d</a> - Squelette - Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
+
+***
+# Table Géométrique
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj"> Modèle 3d</a> - Squelette - Habillage
+
+<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%>
