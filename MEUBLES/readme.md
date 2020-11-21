@@ -1,7 +1,7 @@
 # DESIGNS DE MEUBLE A FAIRE EN CARTON
 
 # Console Secrétaire
-[Modèle 3d](https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj) - Squelette - Habillage
+[Modèle 3d](https://github.com/gilboonet/designs/blob/master/MEUBLES/0001.obj) - Squelette - Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.png" width=25% height=25%>
 
