@@ -28,3 +28,9 @@
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj"> Modèle 3d</a> - Squelette - Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%>
+
+***
+# Commode galbée
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj"> Modèle 3d</a> - Squelette - Habillage
+
+<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%>
