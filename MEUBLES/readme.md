@@ -36,7 +36,13 @@
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%>
 
 ***
-# Buffet galbé (base)
+# Buffet Galbé (base)
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj"> Modèle 3d</a> - Squelette - Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.png" width=25% height=25%>
+
+***
+# Meuble TV en Coin
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj"> Modèle 3d</a> - Squelette - Habillage
+
+<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%>
