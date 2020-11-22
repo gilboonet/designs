@@ -22,3 +22,9 @@
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj"> Modèle 3d</a> - Squelette - Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%>
+
+***
+# Fauteuil Club Classique
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj"> Modèle 3d</a> - Squelette - Habillage
+
+<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%>
