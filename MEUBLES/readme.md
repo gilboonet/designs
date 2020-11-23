@@ -46,3 +46,9 @@
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj"> Modèle 3d</a> - Squelette - Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%>
+
+***
+# Meuble rond
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj"> Modèle 3d</a> - Squelette - Habillage
+
+<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.png" width=25% height=25%>
