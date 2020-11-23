@@ -10,7 +10,10 @@ Habillage
 
 ***
 # Commode 2 niches un peu ronde
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj"> Modèle 3d</a> - Squelette - Habillage
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Fichier 3d</a> - 
+<a href="https://3dviewer.net/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Voir modèle</a> - 
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0002.js">Squelette</a> - 
+Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.png" width=25% height=25%>
 
