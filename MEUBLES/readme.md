@@ -1,8 +1,10 @@
 # DESIGNS DE MEUBLE A FAIRE EN CARTON
 
 # Console Secrétaire
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj"> Fichier 3d</a> - 
-<a href="https://3dviewer.net/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">Voir modèle</a> - Squelette - Habillage
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">Fichier 3d</a> - 
+<a href="https://3dviewer.net/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">Voir modèle</a> - 
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js">Squelette</a> - 
+Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.png" width=25% height=25%>
 
