@@ -57,18 +57,23 @@ const main = (params) => {
   const sc = 1, ep = params.ep *2
 
 	//const vv = require('./' + params.v + '.obj')
-	const v = volume()
-	const vv = polyhedron({points:v.vertices, faces:v.faces})
-  const vol = center({}, rotateX(degToRad(90), vv))
+	//const vv = require('./0002.obj')
+	const vd = volume()
+	const vv = polyhedron({points: vd.vertices, faces: vd.faces})
+
+  let vol = center({}, rotateX(degToRad(90), vv))
   
   let r = [], rH = [], rV = []
   let bV = measureBoundingBox(vol)
+  //vol = translate([-bV[0][0], -bV[0][1], -bV[0][2]], vol)
+  //bV = measureBoundingBox(vol)
 
 	// Recup parametres
   const pv = Object.values(params)
   const lH = pv.slice(0,10).filter(Number).map(x => (x-50)/100)
   const lV = pv.slice(10,20).filter(Number).map(x => (x-50)/100)
   
+	console.log(pv,lH, lV)
 	// 1°) Traverses en X (H)
   fH = bV[1][0] - bV[0][0]
   mH = (bV[1][0] + bV[0][0]) / 2
@@ -118,10 +123,11 @@ const main = (params) => {
 	
 	// 2d
 	
+	console.log("haut.", fV, fH)
 	var dk = Math.max(fV, fH) +1
 	for(let ih = 0; ih < rH.length; ih++){
 		let b = measureBoundingBox(rH[ih]);
-		r.push(translateX(dk *ih, union(vol2surf(rH[ih], 'x', b[0][0]))))
+		r.push(translate([dk *ih, dk/2], union(vol2surf(rH[ih], 'x', b[0][0]))))
 		//r.push(translateX(dk *ih, vol2surf(rH[ih], 'x', b[0][0])))
 	}
 	for(let iv = 0; iv < rV.length; iv++){
