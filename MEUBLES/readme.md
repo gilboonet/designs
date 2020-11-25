@@ -11,7 +11,7 @@ Habillage
 ***
 # Commode 2 niches un peu ronde
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Fichier 3d</a> - 
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">Voir modèle</a> - 
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Voir modèle</a> - 
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0002.js">Squelette</a> - 
 Habillage
 
@@ -19,7 +19,8 @@ Habillage
 
 ***
 # Petite Table Basse Carrée
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj"> Modèle 3d</a> - Squelette - Habillage
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Fichier 3d</a> - 
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Voir modèle</a>- Squelette - Habillage
 
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
 
