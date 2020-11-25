@@ -2,7 +2,7 @@
 
 # Console Secrétaire
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">Fichier 3d</a> - 
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js">Squelette</a> - 
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js" target="blank">Squelette</a> - 
 Habillage
 
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">
