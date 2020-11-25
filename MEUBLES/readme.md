@@ -19,37 +19,37 @@
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%></a>
 
 ***
-# Table Géométrique
+# *Table Géométrique
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj"> Modèle 3d</a> - Squelette - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%></a>
 
 ***
-# Fauteuil Club Classique
+# *Fauteuil Club Classique
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj"> Modèle 3d</a> - Squelette - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%></a>
 
 ***
-# Commode galbée
+# *Commode galbée
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj"> Modèle 3d</a> - Squelette - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%></a>
 
 ***
-# Buffet Galbé (base)
+# *Buffet Galbé (base)
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj"> Modèle 3d</a> - Squelette - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.png" width=25% height=25%></a>
 
 ***
-# Meuble TV en Coin
+# *Meuble TV en Coin
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj"> Modèle 3d</a> - Squelette - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%></a>
 
 ***
-# Meuble rond
+# *Meuble rond
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj"> Modèle 3d</a> - Squelette - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.png" width=25% height=25%></a>
