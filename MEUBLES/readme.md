@@ -25,8 +25,8 @@
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%></a>
 
 ***
-# *Fauteuil Club Classique
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj"> Modèle 3d</a> - Squelette - Habillage\
+# *Fauteuil Club Classique (H 26 L 43 P 24)
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%></a>
 
