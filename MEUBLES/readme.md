@@ -14,8 +14,7 @@
 
 ***
 # Petite Table Basse Carrée
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Fichier 3d</a> - 
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">Voir modèle</a>- Squelette - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%></a>
 
