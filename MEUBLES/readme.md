@@ -31,8 +31,8 @@
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%></a>
 
 ***
-# *Commode galbée
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj"> Modèle 3d</a> - Squelette - Habillage\
+# *Commode galbée (H 43 L 39 P 30) 
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%></a>
 
