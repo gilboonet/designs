@@ -61,7 +61,7 @@ const main = (params) => {
 	const vd = volume()
 	const vv = polyhedron({points: vd.vertices, faces: vd.faces})
 
-  let vol = center({}, rotateX(degToRad(90), vv))
+  let vol = center({}, rotateY(degToRad(180), rotateX(degToRad(90), vv)))
   
   let r = [], rH = [], rV = []
   let bV = measureBoundingBox(vol)
