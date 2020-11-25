@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.png" width=25% height=25%></a>
 
 ***
-# Petite Table Basse Carrée
+# Petite Table Basse Carrée (H 18 L+P 40)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%></a>
