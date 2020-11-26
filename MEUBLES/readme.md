@@ -26,13 +26,13 @@
 
 ***
 # *Fauteuil Club Classique (H 26 L 43 P 24)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Editer le squelette</a> - Demi-habillage (faire l'autre moitié en miroir)\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0005.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0005.jpg" width=35% height=35%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0005.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0005.jpg" width=35% height=35%></a>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0005.jpg" width=30% height=30%></a>
 
 ***
 # *Commode galbée (H 43 L 39 P 30) 
