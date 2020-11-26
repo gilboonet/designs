@@ -45,8 +45,8 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0007.jpg" width=50% height=50%></a>
 
 ***
-# *Meuble TV en Coin
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj"> Modèle 3d</a> - Squelette - Habillage\
+# *Meuble TV en Coin (H+P 40 L 120)
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%></a>
 
