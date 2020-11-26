@@ -40,8 +40,9 @@
 # *Buffet Galbé (base) (H 78 L 140 P 57)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0007.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj">
-<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.png" width=25% height=25%></a>
-<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0007.jpg" width=50% height=50%></a>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.png" width=25% height=25%></a>
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0007.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0007.jpg" width=50% height=50%></a>
 
 ***
 # *Meuble TV en Coin
