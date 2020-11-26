@@ -29,6 +29,8 @@
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%></a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0005.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0005.jpg" width=50% height=50%></a>
 
 ***
 # *Commode galbée (H 43 L 39 P 30) 
