@@ -55,3 +55,5 @@
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0009.js">Squelette</a> - Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.png" width=25% height=25%></a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0009.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0009.jpg" width=50% height=50%></a>
