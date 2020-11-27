@@ -30,9 +30,9 @@
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0005.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0005.jpg" width=32% height=32%></a>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0005.jpg" width=35% height=35%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0005.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0005.jpg" width=35% height=35%></a>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0005.jpg" width=35% height=40%></a>
 
 ***
 # Commode galbée (H 43 L 39 P 30) 
@@ -66,4 +66,4 @@
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0009.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0009.jpg" width=25% height=25%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0009.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0009.jpg" width=25% height=25%></a>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0009.jpg" width=40% height=25%></a>
