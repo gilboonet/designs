@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0005.jpg" width=30% height=30%></a>
 
 ***
-# *Commode galbée (H 43 L 39 P 30) 
+# Commode galbée (H 43 L 39 P 30) 
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Editer le squelette</a> | Demi-habillage avec 1 pied\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%></a>
