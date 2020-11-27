@@ -1,32 +1,32 @@
 # DESIGNS DE MEUBLE A FAIRE EN CARTON
 
 # Console Secrétaire (H 39 L 44 P 24)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js">Editer le squelette</a>|
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0001.pdf">Demi-habillage</a> (faire l'autre moitié en miroir)\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js">Editer le squelette</a> | 
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0001.pdf">Demi-habillage</a>\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.png" width=25% height=25%></a>
 
 ***
 # *Commode 2 niches un peu ronde (H 36 L 33 P 28)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0002.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0002.js">Squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.png" width=25% height=25%></a>
 
 ***
 # *Petite Table Basse Carrée (H 18 L+P 40)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%></a>
 
 ***
 # *Table Géométrique (H 23 L 43 P 37)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%></a>
 
 ***
 # Fauteuil Club Classique (H 26 L 43 P 24)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Editer le squelette</a> - Demi-habillage (faire l'autre moitié en miroir)\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Editer le squelette</a> | Demi-habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0005.pdf">
@@ -36,13 +36,15 @@
 
 ***
 # *Commode galbée (H 43 L 39 P 30) 
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Editer le squelette</a> | Demi-habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj">
-<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%></a>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%></a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0006.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0006.jpg" width=30% height=30%></a>
 
 ***
 # *Buffet Galbé (base) (H 78 L 140 P 57)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0007.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0007.js">Squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.png" width=25% height=25%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0007.pdf">
@@ -50,13 +52,13 @@
 
 ***
 # *Meuble TV en Coin (H+P 40 L 120)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%></a>
 
 ***
 # *Meuble rond (H 78 L 80 P 20)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0009.js">Squelette</a> - Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0009.js">Squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.png" width=25% height=25%></a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0009.pdf">
