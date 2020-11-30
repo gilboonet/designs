@@ -77,9 +77,9 @@
 
 ***
 # *Meuble TV en Coin (H+P 40 L 120)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Editer le squelette</a> | Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Editer le squelette</a> | Demi-habi1llage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
-<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0008.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0008.jpg" width=30% height=30%>
@@ -89,7 +89,7 @@
 # Meuble rond (H 78 L 80 P 20)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0009.js">Editer le squelette</a> | Quart d'habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj">
-<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.png" width=25% height=25%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0009.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0009.jpg" width=27% height=27%>
