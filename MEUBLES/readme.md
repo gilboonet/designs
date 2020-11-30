@@ -3,7 +3,7 @@
 # Console Secrétaire (H 39 L 44 P 24)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js">Editer le squelette</a> | Demi-habillage\
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0001.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/affMi0001.jpg" width=25% height=25%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0001.jpg" width=25% height=25%>
 </a>
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.png" width=25% height=25%>
