@@ -18,7 +18,7 @@
 
 ***
 # *Petite Table Basse Carrée (H 18 L+P 40)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Editer le quelette</a> | Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Editer le squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
 </a>
@@ -58,7 +58,7 @@
 
 ***
 # *Buffet Galbé (base) (H 78 L 140 P 57)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0007.js">Squelette</a> | Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0007.js">Editer le squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.png" width=25% height=25%>
 </a>
@@ -68,7 +68,7 @@
 
 ***
 # *Meuble TV en Coin (H+P 40 L 120)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Squelette</a> | Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Editer le squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%>
 </a>
