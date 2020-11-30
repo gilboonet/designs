@@ -25,6 +25,9 @@
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
 </a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0002.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0003.jpg" width=40% height=40%>
+</a>
 
 ***
 # *Table Géométrique (H 23 L 43 P 37)
