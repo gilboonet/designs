@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0001.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0001.jpg" width=40% height=40%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0001.jpg" width=40% height=40% abbr="Demi-habillage">
 </a>
 
 ***
