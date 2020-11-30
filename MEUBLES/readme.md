@@ -31,7 +31,7 @@
 
 ***
 # *Table Géométrique (H 23 L 43 P 37)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Editer le squelette</a> | Habillage\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Editer le squelette</a> | Quart d'habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%>
 </a>
