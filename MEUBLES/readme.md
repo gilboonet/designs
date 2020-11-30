@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0002.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0003.jpg" width=40% height=40%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0003.jpg" width=30% height=30%>
 </a>
 
 ***
