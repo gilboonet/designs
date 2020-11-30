@@ -25,7 +25,7 @@
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
 </a>
-<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0002.pdf">
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0003.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0003.jpg" width=25% height=25%>
 </a>
 
@@ -34,6 +34,9 @@
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Editer le squelette</a> | Habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%>
+</a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0004.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0004.jpg" width=25% height=25%>
 </a>
 
 ***
