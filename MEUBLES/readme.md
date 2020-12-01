@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0004.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0004.jpg" width=35% height=35%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0004.jpg" width=30% height=30%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0004.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0004.jpg" width=25% height=25%>
