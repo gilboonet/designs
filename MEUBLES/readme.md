@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0002.jpg" width=35% height=35%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/mi0002.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0002.jpg" width=40% height=40%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrMi0002.jpg" width=35% height=35%>
 </a>
 
 ***
