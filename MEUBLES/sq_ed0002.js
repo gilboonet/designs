@@ -6,7 +6,7 @@ const { slice, extrudeLinear } = extrusions
 const { cuboid, polygon, polyhedron } = primitives
 const { intersect, subtract,union } = booleans
 const { center, scale, translateX, translateY, translateZ, translate
-		,rotateX, rotateY, rotateZ } = transforms
+		,rotateX, rotateY, rotateZ, rotate } = transforms
 const { colorize } = colors
 const { geom3, poly3 } = geometries
 const { vec3 } = maths
@@ -54,19 +54,16 @@ return {faces:faces, vertices:vertices, groups:groups}
 }
 
 const main = (params) => {
-  const sc = 1, ep = params.ep *2
+  const sc = 1, ep = params.ep //*2
 
-	//const vv = require('./' + params.v + '.obj')
-	//const vv = require('./0002.obj')
 	const vd = volume()
 	const vv = polyhedron({points: vd.vertices, faces: vd.faces})
 
+  //let vol = center({}, rotateY(degToRad(180), rotateX(degToRad(90), vv)))
   let vol = center({}, rotateX(degToRad(90), vv))
   
   let r = [], rH = [], rV = []
   let bV = measureBoundingBox(vol)
-  //vol = translate([-bV[0][0], -bV[0][1], -bV[0][2]], vol)
-  //bV = measureBoundingBox(vol)
 
 	// Recup parametres
   const pv = Object.values(params)
@@ -109,8 +106,8 @@ const main = (params) => {
 		let c2 = translate([b[0][0] + ep/2, b[0][1], b[1][2]], 
 					cuboid({size: [d[0]*2, d[1], d[2]]}));
 		
-		eH.push(intersect(tmp[i], c1));
-		eV.push(intersect(tmp[i], c2));
+		eH.push(intersect(tmp[i], c2));
+		eV.push(intersect(tmp[i], c1));
 	}
 	
 	rH = rH.map(x=> subtract(x, eV));
