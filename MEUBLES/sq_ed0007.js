@@ -106,8 +106,8 @@ const main = (params) => {
 		let c2 = translate([b[0][0] + ep/2, b[0][1], b[1][2]], 
 					cuboid({size: [d[0]*2, d[1], d[2]]}));
 		
-		eH.push(intersect(tmp[i], c1));
-		eV.push(intersect(tmp[i], c2));
+		eH.push(intersect(tmp[i], c2));
+		eV.push(intersect(tmp[i], c1));
 	}
 	
 	rH = rH.map(x=> subtract(x, eV));
