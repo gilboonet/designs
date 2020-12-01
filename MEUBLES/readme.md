@@ -20,7 +20,7 @@
 </a>
 
 ***
-# *Petite Table Basse Carrée (H 18 L+P 40)
+# Petite Table Basse Carrée (H 18 L+P 40)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Editer le squelette</a> | Quart d'habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
@@ -33,7 +33,7 @@
 </a>
 
 ***
-# *Table Géométrique (H 23 L 43 P 37)
+# Table Géométrique (H 23 L 43 P 37)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Editer le squelette</a> | Quart d'habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%>
