@@ -25,6 +25,9 @@
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
 </a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0003.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrSq0003.jpg" width=35% height=35%>
+</a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/qu0003.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/arrQu0003.jpg" width=25% height=25%>
 </a>
