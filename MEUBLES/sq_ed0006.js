@@ -54,7 +54,7 @@ return {faces:faces, vertices:vertices, groups:groups}
 }
 
 const main = (params) => {
-  const sc = 1, ep = params.ep *2
+  const sc = 1, ep = params.ep //*2
 
 	//const vv = require('./' + params.v + '.obj')
 	//const vv = require('./0002.obj')
