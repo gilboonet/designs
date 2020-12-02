@@ -13,7 +13,7 @@
 </a>
 
 ***
-# *Commode 2 niches un peu ronde (H 36 L 33 P 28)
+# Commode 2 niches un peu ronde (H 36 L 33 P 28)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0002.js">Editer le squelette</a> | Demi-habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.png" width=25% height=25%>
@@ -88,7 +88,7 @@
 </a>
 
 ***
-# *Meuble TV en Coin (H+P 40 L 120)
+# Meuble TV en Coin (H+P 40 L 120)
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Editer le squelette</a> | Demi-habillage\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%>
