@@ -135,8 +135,8 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/0011.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/sq0011.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/arrSq0011.png" width=27% height=27%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/arrSq0011.png" width=28% height=28%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/hb0011.pdf">
-  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/arrHb0011.png" width=22% height=22%>
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/arrHb0011.png" width=24% height=24%>
 </a>
