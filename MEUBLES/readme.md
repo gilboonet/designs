@@ -115,6 +115,8 @@
 
 ***
 # Mini chevet cubique (H 20 L+P 18)
+
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/sq_ed0010.js">Editer le squelette</a>\
 <a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/0010.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/0010.png" width=25% height=25%>
 </a>
