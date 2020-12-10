@@ -127,4 +127,16 @@
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/arrHb0010.png" width=20% height=20%>
 </a>
 
+***
+# Mini chevet cubique biseauté (H 20 L+P 18)
 
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/sq_ed0011.js">Editer le squelette</a>\
+<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/0011.obj">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/0011.png" width=25% height=25%>
+</a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/sq0011.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/arrSq0011.png" width=28% height=28%>
+</a>
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/hb0011.pdf">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/arrHb0011.png" width=20% height=20%>
+</a>
