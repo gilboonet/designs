@@ -14,7 +14,8 @@ const getParameterDefinitions = () => {
     {name: 'epaisseurEcran', caption: 'Epaisseur Ecran:', type: 'float', initial: 4.5},
     {name: 'epaisseurHaut', caption: 'Epaisseur Haut:', type: 'float', initial: 6},
     {name: 'ratioPtCentral', caption: 'Ratio point central:', type: 'float', initial: 0.3},
-    {name: 'etatFenetre', type: 'choice', caption: 'Etat Fenetre:', values: [0, 1], captions: ['Fermé', 'Ouvert'], initial: 0 }
+    {name: 'etatFenetre', type: 'choice', caption: 'Etat Fenetre:', values: [0, 1], captions: ['Fermé', 'Ouvert'], initial: 0 },
+    {name: 'mode', type: 'choice', caption: 'Mode:', values: [3, 2], captions: ['vue 3d', 'Gabarit 2d'], initial: 2 }
   ]
 }
 
@@ -32,14 +33,7 @@ const main = (params) => {
   let plaqueAvant = extrudeCarton(avant)
   
   let entretoise = cuboid({size:[largTotale, params.epaisseurCarton, params.profondeur]})
-    
-  let r = []
-  
-  r.push(colorize(colorNameToRgb('tan'), translateZ(- params.profondeur/2, plaqueAvant)))
-  r.push(colorize(colorNameToRgb('tan'), translateZ(  params.profondeur/2, plaqueAvant)))
-  r.push(colorize(colorNameToRgb('orange'), translate([0,  hautTotale/2 - params.epaisseurCarton/2, 0], entretoise)))
-  r.push(colorize(colorNameToRgb('orange'), translate([0, -hautTotale/2 + params.epaisseurCarton/2, 0], entretoise)))
-  
+     
   const x0 = -largTotale /2
   const x2 =  largTotale /2
   const x1 = (x0 + x2) / 2
@@ -58,16 +52,36 @@ const main = (params) => {
   let plaqueD = translateZ(decalage, extrudeCarton(pD))
 
   console.log('=>',params.etatFenetre)
-  if(params.etatFenetre == 1){
+  if((params.etatFenetre == 1)&&(params.mode == 3)){
 		plaqueH = translate([0,hautTotale,-params.epaisseurCarton], mirrorY(plaqueH))
 		plaqueG = translate([-largTotale,0,-params.epaisseurCarton], mirrorX(plaqueG))
 		plaqueD = translate([largTotale,0,-params.epaisseurCarton], mirrorX(plaqueD))
 	}
   
-  r.push(colorize(colorNameToRgb('yellow'), plaqueH))
-  r.push(colorize(colorNameToRgb('Green'), plaqueG))
-  r.push(colorize(colorNameToRgb('Maroon'), plaqueD))
+  let r = []
   
+	if(params.mode == 3){
+		r.push(colorize(colorNameToRgb('tan'), translateZ(- params.profondeur/2, plaqueAvant)))
+		r.push(colorize(colorNameToRgb('tan'), translateZ(  params.profondeur/2, plaqueAvant)))
+		r.push(colorize(colorNameToRgb('orange'), translate([0,  hautTotale/2 - params.epaisseurCarton/2, 0], entretoise)))
+		r.push(colorize(colorNameToRgb('orange'), translate([0, -hautTotale/2 + params.epaisseurCarton/2, 0], entretoise)))
+  
+		r.push(colorize(colorNameToRgb('yellow'), plaqueH))
+		r.push(colorize(colorNameToRgb('Green'), plaqueG))
+		r.push(colorize(colorNameToRgb('Maroon'), plaqueD))
+	} else {
+		r.push(translateY(hautTotale/2+ params.profondeur/2, rectangle({size: [largTotale, 4]})))
+		r.push(avant)
+		r.push(translateY(-hautTotale/2- params.profondeur/2, rectangle({size: [largTotale, 4]})))
+		r.push(translateY(-hautTotale- params.profondeur, avant))
+		
+		decalage = -hautTotale*2 - params.profondeur/2*2
+		r.push(translateY(-hautTotale*2 - params.profondeur/2*2, pH))
+		
+		
+		r.push(translate([-largTotale,-hautTotale*1 - params.profondeur/2*2], mirrorX(pG)))
+		r.push(translate([largTotale,-hautTotale*1 - params.profondeur/2*2], mirrorX(pD)))
+	}
   
   return r
 }
