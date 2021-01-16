@@ -15,7 +15,7 @@ const getParameterDefinitions = () => {
     {name: 'epaisseurHaut', caption: 'Epaisseur Haut:', type: 'float', initial: 6},
     {name: 'ratioPtCentral', caption: 'Ratio point central:', type: 'float', initial: 0.3},
     {name: 'etatFenetre', type: 'choice', caption: 'Etat Fenetre:', values: [0, 1], captions: ['Fermé', 'Ouvert'], initial: 0 },
-    {name: 'mode', type: 'choice', caption: 'Mode:', values: [3, 2], captions: ['vue 3d', 'Gabarit 2d'], initial: 2 }
+    {name: 'mode', type: 'choice', caption: 'Mode:', values: [3, 2], captions: ['vue 3d', 'Gabarit 2d'], initial: 3 }
   ]
 }
 
@@ -59,8 +59,7 @@ const main = (params) => {
 	}
   
   let r = []
-  
-	if(params.mode == 3){
+  	if(params.mode == 3){
 		r.push(colorize(colorNameToRgb('tan'), translateZ(- params.profondeur/2, plaqueAvant)))
 		r.push(colorize(colorNameToRgb('tan'), translateZ(  params.profondeur/2, plaqueAvant)))
 		r.push(colorize(colorNameToRgb('orange'), translate([0,  hautTotale/2 - params.epaisseurCarton/2, 0], entretoise)))
@@ -78,9 +77,8 @@ const main = (params) => {
 		decalage = -hautTotale*2 - params.profondeur/2*2
 		r.push(translateY(-hautTotale*2 - params.profondeur/2*2, pH))
 		
-		
-		r.push(translate([-largTotale,-hautTotale*1 - params.profondeur/2*2], mirrorX(pG)))
-		r.push(translate([largTotale,-hautTotale*1 - params.profondeur/2*2], mirrorX(pD)))
+		r.push(translate([-largTotale,-hautTotale*1 - params.profondeur/2*2], mirrorY(mirrorX(pG))))
+		r.push(translate([largTotale,-hautTotale*1 - params.profondeur/2*2], mirrorY(mirrorX(pD))))
 	}
   
   return r
