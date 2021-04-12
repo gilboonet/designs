@@ -1,8 +1,8 @@
 # DESIGNS DE MEUBLE A FAIRE EN CARTON
 
 # Console Secrétaire (H 39 L 44 P 24)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js">Editer le squelette</a> | Demi-habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0001.js">Editer le squelette</a> | Demi-habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0001.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0001.pdf">
@@ -14,8 +14,8 @@
 
 ***
 # Commode 2 niches un peu ronde (H 36 L 33 P 28)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0002.js">Editer le squelette</a> | Demi-habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0002.js">Editer le squelette</a> | Demi-habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0002.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0002.pdf">
@@ -27,8 +27,8 @@
 
 ***
 # Petite Table Basse Carrée (H 18 L+P 40)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Editer le squelette</a> | Quart d'habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0003.js">Editer le squelette</a> | Quart d'habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0003.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0003.pdf">
@@ -40,8 +40,8 @@
 
 ***
 # Table Géométrique (H 23 L 43 P 37)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Editer le squelette</a> | Quart d'habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0004.js">Editer le squelette</a> | Quart d'habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0004.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0004.pdf">
@@ -53,8 +53,8 @@
 
 ***
 # Fauteuil Club Classique (H 26 L 43 P 24)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Editer le squelette</a> | Demi-habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Editer le squelette</a> | Demi-habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0005.pdf">
@@ -66,8 +66,8 @@
 
 ***
 # Commode galbée (H 43 L 39 P 30) 
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Editer le squelette</a> | Demi-habillage avec 1 pied\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Editer le squelette</a> | Demi-habillage avec 1 pied\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0006.pdf">
@@ -79,8 +79,8 @@
 
 ***
 # *Buffet Galbé (base) (H 78 L 140 P 57)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0007.js">Editer le squelette</a> | Habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0007.js">Editer le squelette</a> | Habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0007.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0007.pdf">
@@ -89,8 +89,8 @@
 
 ***
 # Meuble TV en Coin (H+P 40 L 120)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Editer le squelette</a> | Demi-habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0008.js">Editer le squelette</a> | Demi-habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0008.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0008.pdf">
@@ -102,8 +102,8 @@
 
 ***
 # Meuble rond (H 78 L 80 P 20)
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0009.js">Editer le squelette</a> | Quart d'habillage\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0009.js">Editer le squelette</a> | Quart d'habillage\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0009.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq0009.pdf">
@@ -116,8 +116,8 @@
 ***
 # Mini chevet cubique (H 20 L+P 18)
 
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/sq_ed0010.js">Editer le squelette</a>\
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/0010.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/sq_ed0010.js">Editer le squelette</a>\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/0010.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/0010.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0010/sq0010.pdf">
@@ -130,7 +130,7 @@
 ***
 # Mini chevet cubique biseauté (H 20 L+P 18)
 
-<a href="https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/0011.obj">
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/0011.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/0011.png" width=25% height=25%>
 </a>
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/sq0011.pdf">
