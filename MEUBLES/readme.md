@@ -52,7 +52,7 @@
 </a>
 
 ***
-# Fauteuil Club Classique (H 26 L 43 P 24)
+# Fauteuil Club Classique (H 62 L 43 P 24)
 <a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0005.js">Editer le squelette</a> | Demi-habillage\
 <a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0005.png" width=25% height=25%>
