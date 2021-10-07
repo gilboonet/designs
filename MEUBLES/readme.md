@@ -139,3 +139,9 @@
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/hb0011.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0011/arrHb0011.png" width=24% height=24%>
 </a>
+
+***
+# Etagère Colonne 2 niches (H80 L+P 33)
+
+<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0014/0014.png" width=25% height=25%>
+
