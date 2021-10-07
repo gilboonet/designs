@@ -143,6 +143,8 @@
 ***
 # Etagère Colonne 2 niches (H80 L+P 33)
 
+Nécessite 5 plaques de 80 x 45 cm, 4 plaques de 80 x 35 cm et 3 plaques de 45 x 35 cm
+
 <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0014/0014.png" width=25% height=25%><a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0014/GabaritComplet.pdf">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0014/GabaritComplet.png" width=30% height=30%>
 </a>
