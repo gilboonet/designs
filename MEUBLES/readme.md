@@ -149,3 +149,8 @@ Nécessite 5 plaques de 80 x 45 cm, 4 plaques de 80 x 35 cm et 3 plaques de 45 x
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0014/GabaritComplet.png" width=30% height=30%>
 </a>
 
+***
+# Buffet galbé 4 tiroirs
+
+<a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/squelette_4x5.svg">Demi-squelette</a> <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/habillage.svg">Demi-habillage</a>
+<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/0015.png" width=25% height=25%>
