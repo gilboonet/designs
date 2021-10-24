@@ -154,4 +154,6 @@ Nécessite 5 plaques de 80 x 45 cm, 4 plaques de 80 x 35 cm et 3 plaques de 45 x
 
 <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/squelette_4x5.svg">Demi-squelette</a> | <a href="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/habillage.svg">Demi-habillage</a>
 
-<img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/0015.png" width=25% height=25%>
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/mi0007_4T.obj">
+  <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0015/0015.png" width=25% height=25%>
+</a>
