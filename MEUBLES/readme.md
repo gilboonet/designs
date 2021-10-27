@@ -66,7 +66,7 @@
 
 ***
 # Commode galbée (H 43 L 39 P 30) 
-<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Editer le squelette</a> | Demi-habillage avec 1 pied\
+<a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/sq_ed0006.js">Editer le squelette</a> | Demi-habillage avec 1 pied | <a href="https://github.com/gilboonet/designs/blob/master/MEUBLES/0006/0006_gabaritComplet.pdf">Gabarit complet</a> \
 <a href="https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.obj">
   <img src="https://raw.githubusercontent.com/gilboonet/designs/master/MEUBLES/0006.png" width=25% height=25%>
 </a>
