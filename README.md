@@ -25,7 +25,7 @@ https://github.com/gilboonet/designs/tree/master/2020
 * [polyhedrons_archimede.jscad](https://github.com/gilboonet/designs/blob/master/polyhedrons_archimede.jscad) : bibliothèque de fonctions regroupant les polyèdres d'Archimède (à utiliser comme fichier externe d'un script)
 * [polyhedrons_catalan.jscad](https://github.com/gilboonet/designs/blob/master/polyhedrons_catalan.jscad) : bibliothèque de fonctions regroupant les polyèdres de Catalan (à utiliser comme fichier externe d'un script)
 * [polyhedrons_platon.jscad](https://github.com/gilboonet/designs/blob/master/polyhedrons_platon.jscad) : bibliothèque de fonctions regroupant les polyèdres de Platon (à utiliser comme fichier externe d'un script)
-* [regularPolygons.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/regularPolygons.jscad) Générateur de polygones réguliers (non étoilés)
+* [regularPolygons.jscad](https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/regularPolygons.jscad) Générateur de polygones réguliers (non étoilés)
 * [table_4pieds.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/table_4pieds.jscad) : Générateur de table ronde à 4 pieds ajourés (dessin du pied éditable avec [L'éditeur de polygones](http://gilboo.carton.free.fr/OPSPED/))
 * [trancheCylindre.jscad](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/trancheCylindre.jscad) : Exemple d'extraction d'une tranche d'un volume placé dans un cylindre percé de trous aux 4 points cardinaux (permet de générer un moule)
 * [traverses.js](https://openjscad.org/#https://raw.githubusercontent.com/gilboonet/designs/master/traverses.js) : Initiation jscad : Générateur de traverses entrecroisées
