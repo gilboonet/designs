@@ -1,6 +1,6 @@
 // Generateur de gabarit de BUTAI 
 // par Gilbert Duval, 2021
-// https://jscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/butai.js
+// https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/butai.js
 
 // Dependences
 const jscad = require('@jscad/modeling')
