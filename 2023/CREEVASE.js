@@ -1,3 +1,4 @@
+// https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/2023/CREEVASE.js
 // CREATES A VASE FROM ITS PROFILE
 // Gilbert Duval 2023-03-22
 //-----------------------------------
