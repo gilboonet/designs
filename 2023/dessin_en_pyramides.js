@@ -2,6 +2,8 @@
 // DESSIN AVEC DES PYRAMIDES
 // Gilbert Duval 2023-03-24
 
+// Editeur de polygones : http://gilboo.carton.free.fr/OPSPED/
+
 // INCLUSIONS
 const jscad = require('@jscad/modeling')
 const { polyhedron } = jscad.primitives
