@@ -1,3 +1,4 @@
+// https://openjscad.xyz/#https://raw.githubusercontent.com/gilboonet/designs/master/2023/dessin_en_pyramides.js
 // DESSIN AVEC DES PYRAMIDES
 // Gilbert Duval 2023-03-24
 
