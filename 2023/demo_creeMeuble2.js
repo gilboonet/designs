@@ -70,7 +70,7 @@ function faitNiche(params, dM, n){
   // - 2: liste de points -> chemin 2d
   // - 3: chemin 2d -> niche (3d ou 2d selon rendu)
   if(params.rendu == '3'){
-    niche = extrudeRectangular({size: 1, height: 3}, polygon({points:dNiche}))
+    niche = extrudeRectangular({size: params.epais, height: params.prof}, polygon({points:dNiche}))
   }else{
     niche = polygon({points:dNiche})
   }
