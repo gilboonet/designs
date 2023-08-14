@@ -9,7 +9,7 @@ const { extrudeRectangular } = jscad.extrusions
 const { mirrorX, mirrorY } = jscad.transforms
 
 function main (params) {
-  var dM, meuble
+  var dM =[], meuble
 
   if(params.modele == '0'){
     if((params.points === '')||(params.niches === '')){
