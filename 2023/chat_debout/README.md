@@ -1,4 +1,4 @@
-# Gabarit du modèle 3D "Chat Debout"
+# Gabarits du modèle 3D "Chat Debout"
 
 
 ## 234 triangles, hauteur 25 cm, sans languettes (pour cartonnage), sur 3 pages A4
