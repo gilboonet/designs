@@ -1,5 +1,6 @@
-Gabarit de dépliage du modèle 3D "Chat Debout"
+# Gabarit de dépliage du modèle 3D "Chat Debout"
 
+## 234 triangles, hauteur 25 cm
 - [Fichier svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.svg) avec tous les chemins
 - [Fichier pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.pdf) pour impression
 
