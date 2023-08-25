@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Chat Debout"
 
 - Modèle 3D issu de **Thingiverse** [ici](https://www.thingiverse.com/thing:102957)
-- Réduit à 234 triangles à l'aide de **Meshlab** avec son filtre de simplification : Quadric Edge Collapse Decimation
+- Réduit à 234 triangles à l'aide de **Meshlab** avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
 - Déplié et édité en gabarit 2D avec **Le Deplieur**
