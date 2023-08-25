@@ -11,4 +11,7 @@
 - [Fichier pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.pdf) pour impression
 - Réparti en 5 pièces
 
+## 234 triangles, hauteur 20 cm, sans languettes (pour cartonnage), sur 2 pages A4
+- [Fichier svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_C2x2.svg) avec tous les chemins
+
 https://github.com/gilboonet/designs/assets/22082873/4e9542bc-f160-412a-b534-c7ecea5b6524
