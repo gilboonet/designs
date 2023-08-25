@@ -5,7 +5,7 @@
 - Sans languettes, 3 pièces sur 3 pages A4 : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_C2x2.svg)
 - 1 languette/paire, 5 pièces sur 2 tapis Cricut 12" : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.svg), [pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.pdf)
 ## 234 triangles, hauteur 20 cm
-- Sans languettes, 7 pièces, 2 pages A4 : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_A4x2.svg)
-- Sans languettes, 5 pièces, 1 tapis Cricut 12" : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_C2.svg)
+- Sans languettes, 7 pièces sur 2 pages A4 : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_A4x2.svg)
+- Sans languettes, 5 pièces sur 1 tapis Cricut 12" : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_C2.svg)
 
 https://github.com/gilboonet/designs/assets/22082873/4e9542bc-f160-412a-b534-c7ecea5b6524
