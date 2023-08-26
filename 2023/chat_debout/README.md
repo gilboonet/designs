@@ -8,14 +8,15 @@
 - Edité en svg avec **Inkscape**
 - Exporté en pdf avec **Inkscape**
 
-## 234 triangles, hauteur 25 cm
-- Sans languettes, 8 pièces sur 3 pages A4 : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.svg), [pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.pdf)
-- 1 languette/paire, 5 pièces sur 3 pages A4 : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.svg), [pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.pdf)
-- Sans languettes, 3 pièces sur 2 tapis Cricut 12" : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_C2x2.svg)
-## 234 triangles, hauteur 20 cm
-- Sans languettes, 6 pièces sur 2 pages A4 : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_A4x2.svg), [pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_A4x2.pdf)
-- Sans languettes, 5 pièces sur 1 tapis Cricut 12" : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_C2.svg)
-## 234 triangles, hauteur 30 cm
-- Sans languettes, 7 pièces sur 4 pages A4 : [svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H30_A4x4.svg), [pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H30_A4x4.pdf)
+|Triangles|Hauteur|Languettes|Pièces|Format|SVG|PDF|
+|---|---|---|---|---|---|---|
+|234|25 cm|Sans|8|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.pdf)|
+|234|25 cm|1/paire|5|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.pdf)
+|234|25 cm|Sans|3|Tapis 12"x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_C2x2.svg)
+||
+|234|20 cm|Sans|6|A4x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_A4x2.pdf)
+|234|20 cm|Sans|5|Tapis 12"|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_C2.svg)
+||
+|234|30 cm|Sans|7|A4x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H30_A4x4.pdf)
 
 https://github.com/gilboonet/designs/assets/22082873/4e9542bc-f160-412a-b534-c7ecea5b6524
