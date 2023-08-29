@@ -10,7 +10,7 @@
 
 |Triangles|Hauteur|Languettes|Pièces|Format|SVG|PDF|
 |---|---|---|---|---|---|---|
-|226|12 cm|Sans|5|A4x2|[svg]()|[pdf]()|
+|226|12 cm|Sans|5|A4x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_226_H12_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_226_H12_A4x2.pdf)|
 
 https://github.com/gilboonet/designs/assets/22082873/879478af-b687-4434-a701-9502e3edd664
 
