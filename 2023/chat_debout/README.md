@@ -18,6 +18,7 @@
 |234|20 cm|Sans|5|Tapis 12"|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H20_C2.svg)
 ||
 |234|30 cm|Sans|7|A4x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H30_A4x4.pdf)
+|500|30 cm|Sans|8|A4x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_400_H30_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_400_H30_A4x5.pdf)
 ||
 |234|40 cm|Sans|15|A4x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H40_A4x7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H40_A4x7.pdf)
 
