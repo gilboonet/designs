@@ -10,7 +10,7 @@
 
 |Triangles|Hauteur|Languettes|Pièces|Format|SVG|PDF|
 |---|---|---|---|---|---|---|
-|130|20 cm|Sans|4|A4x3|[svg]()|[pdf]()|
+|130|20 cm|Sans|3|A4x3|[svg]()|[pdf]()|
 
 Vidéo montrant le modèle avec 130/200/260/500 triangles
 
