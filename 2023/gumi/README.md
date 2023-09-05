@@ -11,6 +11,7 @@
 |Triangles|Hauteur|Languettes|Pièces|Format|SVG|PDF|
 |---|---|---|---|---|---|---|
 |210|20 cm|Sans|4|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
+|210|20 cm|1/paire|3|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20b_lang_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20b_lang_A3x3.pdf)|
 
 https://github.com/gilboonet/designs/assets/22082873/9c21873b-919a-4477-a3d1-a295ee2e77bb
 
