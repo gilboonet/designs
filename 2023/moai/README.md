@@ -4,12 +4,7 @@
 |130|20 cm|Sans|3|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_A3x3.pdf)|
 |130|20 cm|1/paire|3|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_lang_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_lang_A3x3.pdf)|
 
-Vidéo montrant le modèle avec 130/200/260/500 triangles
-
-https://github.com/gilboonet/designs/assets/22082873/33a57633-a819-4743-9ea4-d950d425015c
-
-<details>
-<summary>Détails</summary>
+## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:149271) issu de **Thingiverse**[^1] 
 - Réduit à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
@@ -24,4 +19,7 @@ https://github.com/gilboonet/designs/assets/22082873/33a57633-a819-4743-9ea4-d95
 [^5]:[Inkscape](https://inkscape.org/fr/), logiciel de dessin vectoriel
 [^6]:fichier svg contenant des chemins pour machines de découpe
 [^7]:fichier pdf à imprimer
-</details>
+
+Vidéo montrant le modèle avec 130/200/260/500 triangles
+
+https://github.com/gilboonet/designs/assets/22082873/33a57633-a819-4743-9ea4-d950d425015c
