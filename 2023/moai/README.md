@@ -1,6 +1,6 @@
 # Gabarits du modèle 3D "moaï"
 
-- Modèle 3D issu de **Thingiverse**[^1] [ici](https://www.thingiverse.com/thing:149271)
+- [Modèle 3D](https://www.thingiverse.com/thing:149271) issu de **Thingiverse**[^1] 
 - Réduit à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
