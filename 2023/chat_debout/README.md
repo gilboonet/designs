@@ -19,7 +19,7 @@
 - Réduit à 234 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
-- Déplié et édité en gabarit 2D avec **Le Deplieur**[^4]
+- Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
 - Edité en svg avec **Inkscape**[^5]
 - Exporté en pdf avec **Inkscape**
 [^1]:[Thingiverse](https://www.thingiverse.com), site regroupant des modèles 3D
