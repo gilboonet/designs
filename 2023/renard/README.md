@@ -14,7 +14,7 @@
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
 - Edité en svg avec **Inkscape**[^5]
-- Exporté en pdf avec **Inkscape**
+- Exporté en pdf avec **Inkscape** ([voir](https://www.youtube.com/watch?v=tLdg9i932-I))
 [^1]:[Thingiverse](https://www.thingiverse.com), site regroupant des modèles 3D
 [^2]:[Meshlab](https://www.meshlab.net/), logiciel de traitement et édition de maillages 3D
 [^3]:[Wings3D](http://www.wings3d.com/), logiciel de modélisation 3D par surface de subdivision
