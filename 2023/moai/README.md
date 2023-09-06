@@ -5,6 +5,8 @@
 |130|20 cm|1/paire|3|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_lang_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_lang_A3x3.pdf)|
 ||
 |200|20 cm|Sans|3|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/moai/moai130_H20_A3x3.pdf)|
+||
+|260|20 cm|Sans|3|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/moai/moai260_H20_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/moai/moai260_H20_A3x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:149271) issu de **Thingiverse**[^1] 
