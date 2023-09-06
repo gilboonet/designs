@@ -1,14 +1,6 @@
 # Gabarits du modèle 3D "Chat Debout"
 
-- Modèle 3D issu de **Thingiverse** [ici](https://www.thingiverse.com/thing:102957)
-- Réduit à 234 triangles à l'aide de **Meshlab** avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
-- Mis à l'échelle avec **Wings 3D** ([voir](https://youtu.be/vKRSdvvuxDQ))
-- Réparti en pièces avec **Wings 3D** par coloriage par facettes
-- Déplié et édité en gabarit 2D avec **Le Deplieur**
-- Edité en svg avec **Inkscape**
-- Exporté en pdf avec **Inkscape**
-
-|Triangles|Hauteur|Languettes|Pièces|Format|SVG|PDF|
+|Triangles|Hauteur|Languettes|Pièces|Format|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|
 |234|25 cm|Sans|8|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.pdf)|
 |234|25 cm|1/paire|5|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.pdf)
@@ -21,5 +13,21 @@
 |500|30 cm|Sans|8|A4x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_400_H30_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_400_H30_A4x5.pdf)
 ||
 |234|40 cm|Sans|15|A4x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H40_A4x7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H40_A4x7.pdf)
+
+## Détails
+- [Modèle 3D](https://www.thingiverse.com/thing:102957) issu de **Thingiverse**[^1]
+- Réduit à 234 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
+- Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
+- Réparti en pièces avec **Wings 3D** par coloriage par facettes
+- Déplié et édité en gabarit 2D avec **Le Deplieur**[^4]
+- Edité en svg avec **Inkscape**[^5]
+- Exporté en pdf avec **Inkscape**
+[^1]:[Thingiverse](https://www.thingiverse.com), site regroupant des modèles 3D
+[^2]:[Meshlab](https://www.meshlab.net/), logiciel de traitement et édition de maillages 3D
+[^3]:[Wings3D](http://www.wings3d.com/), logiciel de modélisation 3D par surface de subdivision
+[^4]:[Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html), petit logiciel de dépliage numérique
+[^5]:[Inkscape](https://inkscape.org/fr/), logiciel de dessin vectoriel
+[^6]:fichier svg contenant des chemins pour machines de découpe
+[^7]:fichier pdf à imprimer
 
 https://github.com/gilboonet/designs/assets/22082873/4e9542bc-f160-412a-b534-c7ecea5b6524
