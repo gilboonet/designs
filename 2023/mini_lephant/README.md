@@ -1,6 +1,6 @@
 # Gabarits du modèle 3D "mini_lephant"
 
-|Triangles|Hauteur|Languettes|Pièces|Format|Nb|SVG[^6]|PDF[^]7|
+|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^]7|
 |---|---|---|---|---|---|---|---|
 |160|12 cm|Sans|3|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H12_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H12_A4x2.pdf)|
 |160|12 cm|Sans|7|Tapis Cricut Joy (G)|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H12_C3x4.svg)|
