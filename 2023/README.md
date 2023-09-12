@@ -7,7 +7,7 @@
 - [MiniLéphant](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md)
 - [Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md)
 - [Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md)
-- [Stégosaure]()
+- [Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md)
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
