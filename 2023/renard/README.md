@@ -1,11 +1,11 @@
 # Gabarits du modèle 3D "renard"
 
-|Triangles|Hauteur|Languettes|Pièces|Format|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|
-|350|20 cm|Sans|9|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H20_A4x3.pdf)|
-|350|20 cm|Sans|7|Tapis Cricut 12"x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H20_C2x2.svg)|
+|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|
+|350|20 cm|Sans|9|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H20_A4x3.pdf)|
+|350|20 cm|Sans|7|Tapis 12"|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H20_C2x2.svg)|
 ||
-|350|30 cm|Sans|18|A4x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H30_A4x7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H30_A4x7.pdf)|
+|350|30 cm|Sans|18|A4|x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H30_A4x7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/renard/renard350_H30_A4x7.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182259) issu de **Thingiverse**[^1]
