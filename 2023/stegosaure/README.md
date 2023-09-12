@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "stégosaure"
-|Triangles|Hauteur|Languettes|Pièces|Format|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|
-|210|20 cm|Sans|4|A4x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
+|Triangles|Profondeur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|
+|210|25 cm|Sans|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_P25_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_P25_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.printables.com/fr/model/489585-cute-stylized-dinosaur-toy) issu de **Printables**[^1]
