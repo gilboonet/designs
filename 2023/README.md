@@ -3,6 +3,7 @@
 
 ## Galeries de gabarits
 - [Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md)
+- [Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche
 - [Gumi](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) l'ours en guimauve
 - [MiniLéphant](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md)
 - [Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md)
