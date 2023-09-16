@@ -1,7 +1,8 @@
 # Gabarits du modèle 3D "Tdy"
 |Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|
-|236|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.pdf)|
+|236|20 cm|Sans|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.pdf)|
+|236|20 cm|1/paire d'arêtes|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_lang_A4x3.pdf)|
 |236|30 cm|Sans|7|A4|x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.pdf)|
 
 ## Détails
