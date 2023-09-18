@@ -10,6 +10,7 @@
 - [Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) (5)
 - [Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)
 - [Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)
+- [Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (1)
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
