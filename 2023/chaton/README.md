@@ -6,8 +6,7 @@
 |236|30 cm|Sans|7|A4|x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.pdf)|
 
 ## Détails
-- [Modèle 3D](https://www.thingiverse.com/thing:653095) issu de **Thingiverse**[^1]
-- Réduit à 236 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
+- Réduit à 196 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
