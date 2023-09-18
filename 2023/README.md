@@ -1,5 +1,4 @@
 # DESIGNS faits en 2023
-[Regular polygon editor](https://openjscad.xyz#https://raw.githubusercontent.com/gilboonet/designs/master/2023/RegularPolygons.js) (from 2020)
 
 ## Galeries de gabarits
 - [Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)
@@ -18,3 +17,6 @@
   - [Lettrage ALFA](https://github.com/gilboonet/designs/tree/master/2023/LETTRAGES/ALFA)
   - [Lettrage Mono](https://github.com/gilboonet/designs/tree/master/2023/LETTRAGES/Mono)
   - [Lettrage Lilita](https://github.com/gilboonet/designs/tree/master/2023/LETTRAGES/Lilita)
+
+## Scripts
+[Regular polygon editor](https://openjscad.xyz#https://raw.githubusercontent.com/gilboonet/designs/master/2023/RegularPolygons.js) (from 2020)
