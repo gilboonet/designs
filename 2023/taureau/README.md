@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "taureau"
-|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|Triangles|Profondeur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|
-|210|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
+|278|20 cm|Sans|2|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P20_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:3996034) issu de **Thingiverse**[^1]
