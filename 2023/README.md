@@ -9,6 +9,7 @@
 - [Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) (5)
 - [Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)
 - [Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)
+- [Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (1)
 - [Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)
 
 ## Lettrages
