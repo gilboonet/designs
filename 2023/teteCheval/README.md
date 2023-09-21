@@ -1,8 +1,8 @@
 # Gabarits du modèle 3D "Tête de cheval"
 |Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|
-|210|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
-|210|20 cm|1/paire|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20b_lang_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20b_lang_A3x3.pdf)|
+|120|15 cm|1/paire d'arêtes|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_A4x2.pdf)|
+|120|15 cm|1/paire d'arêtes|1|Tapis 12"|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_C2.svg)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182217) issu de **Thingiverse**[^1]
