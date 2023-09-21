@@ -2,21 +2,44 @@
 
 ## Galeries de gabarits
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png) |
-|:-:|
+|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (1)|
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png) |
-|:-:|
+|:--:|
 |[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)|
 
-- [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)
-- [Gumi](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) l'ours en guimauve (2)
-- [MiniLéphant](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) (6)
-- [Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) (5)
-- [Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)
-- [Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)
-- [Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (3)
-- [Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png) |
+|:--:|
+|[Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
+
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png) |
+|:--:|
+|[Gumi](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) l'ours en guimauve (2)|
+
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png) |
+|:--:|
+|[MiniLéphant](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) (6)|
+
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png) |
+|:--:|
+|[Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) (5)|
+
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png) |
+|:--:|
+|[Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)|
+
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png) |
+|:--:|
+|[Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)|
+
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png) |
+|:--:|
+|[Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (3)|
+
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png) |
+|:--:|
+|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)|
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
