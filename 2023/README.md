@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (36)
+## Galeries de gabarits (38)
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png) |
 |:--:|:--:|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (1)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
@@ -13,9 +13,9 @@
 |:--:|:--:|:--:|
 |[Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)|[Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)|[Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (3)|
 
-| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png) |
-|:--:|
-|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)|
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png) |
+|:--:|:--:|
+|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)|[Tête de cheval](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) (2)|
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
