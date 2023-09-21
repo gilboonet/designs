@@ -1,7 +1,7 @@
 # DESIGNS faits en 2023
 
 ## Galeries de gabarits
-- [Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (1)
+- ![/assets/images/miniCapybara.png][Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (1)
 - [Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)
 - [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)
 - [Gumi](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) l'ours en guimauve (2)
