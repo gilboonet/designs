@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (39)
+## Galeries de gabarits (40)
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png) |
 |:--:|:--:|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (1)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
@@ -11,7 +11,7 @@
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png) |![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png) |![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png) |
 |:--:|:--:|:--:|
-|[Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)|[Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)|[Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (3)|
+|[Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)|[Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)|[Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (4)|
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png) |
 |:--:|:--:|
