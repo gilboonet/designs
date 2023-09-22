@@ -13,9 +13,9 @@
 |:--:|:--:|:--:|
 |[Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)|[Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (3)|[Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (4)|
 
-| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png) |
-|:--:|:--:|
-|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)|[Tête de cheval](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) (3)|
+| ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png) |
+|:--:|:--:|:--:|
+|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)|[Tête de cheval](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) (3)|[Cochon](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) (2)|
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
