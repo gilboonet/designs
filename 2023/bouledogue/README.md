@@ -4,7 +4,7 @@
 |200|20 cm|Sans|4|A4|x2|[svg](.svg)|[pdf]()|
 
 ## Détails
-- [Modèle 3D](https://www.thingiverse.com/thing:233643) issu de **Thingiverse**[^1]
+- [Modèle 3D](https://www.thingiverse.com/thing:2180737) issu de **Thingiverse**[^1]
 - Réduit à 200 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
