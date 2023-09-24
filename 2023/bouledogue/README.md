@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "bouledogue"
 |Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|
-|200|20 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.pdf)|
+|200|17 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:2180737) issu de **Thingiverse**[^1]
