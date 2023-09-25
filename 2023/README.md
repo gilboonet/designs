@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (45)
+## Galeries de gabarits (46)
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png) |
 |:--:|:--:|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (2)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
@@ -19,7 +19,7 @@
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png) |
 |:--:|
-|[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (2)|
+|[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (3)|
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
