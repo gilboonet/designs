@@ -3,6 +3,7 @@
 |---|---|---|---|---|---|---|---|
 |212|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P20_A4x2.pdf)|
 |212|25 cm|Sans|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_A4x3.pdf)|
+|212|25 cm|Sans|7|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_lang_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182089) issu de **Thingiverse**[^1]
