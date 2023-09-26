@@ -3,6 +3,7 @@
 |---|---|---|---|---|---|---|---|
 |210|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
 |210|20 cm|1/paire|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20b_lang_A3x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20b_lang_A3x3.pdf)|
+|210|25 cm|Sans|6|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H25_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H25_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:233643) issu de **Thingiverse**[^1]
