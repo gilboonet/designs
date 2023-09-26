@@ -1,13 +1,13 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (49)
+## Galeries de gabarits (50)
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png) |
 |:--:|:--:|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (3)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png) |
 |:--:|:--:|:--:|
-|[Gumi](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) l'ours en guimauve (2)|[MiniLéphant](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) (6)|[Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) (5)|
+|[Gumi](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) l'ours en guimauve (3)|[MiniLéphant](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) (6)|[Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) (5)|
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png) |![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png) |![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png) |
 |:--:|:--:|:--:|
