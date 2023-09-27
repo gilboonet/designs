@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (50)
+## Galeries de gabarits (51)
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png) |
 |:--:|:--:|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (3)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
@@ -15,7 +15,7 @@
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png) | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png) |
 |:--:|:--:|:--:|
-|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (3)|[Tête de cheval](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) (3)|[Cochon](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) (3)|
+|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (4)|[Tête de cheval](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) (3)|[Cochon](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) (3)|
 
 | ![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png) |
 |:--:|
