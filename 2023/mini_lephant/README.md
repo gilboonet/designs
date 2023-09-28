@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 |160|17 cm|9 cm|12 cm|Sans|3|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H12_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H12_A4x2.pdf)|
 |160|17 cm|9 cm|12 cm|Sans|7|Tapis Cricut Joy (G)|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H12_C3x4.svg)|
-|160|27 cm|15 cm| cm|20 cm|Sans|5|Tapis Cricut 12"|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H20_C2x4.svg)|
+|160|27 cm|15 cm|20 cm|Sans|5|Tapis Cricut 12"|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H20_C2x4.svg)|
 |160|27 cm|15 cm|20 cm|Sans|9|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H20_8C_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_160_H20_8C_A4x5.pdf)
 ||
 |226|17 cm|9 cm|12 cm|Sans|5|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_226_H12_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/mile_226_H12_A4x2.pdf)|
