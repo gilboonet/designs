@@ -1,11 +1,11 @@
 # Gabarits du modèle 3D "taureau"
-|Triangles|Profondeur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|---|
-|278|20 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P20_A4x2.pdf)|
-|278|25 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_A4x3.pdf)|
-|278|25 cm|1/Paire d'arêtes|10|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_lang_A4x3.pdf)|
-|278|30 cm|Sans|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P30_A4x4.pdf)|
-|278|40 cm|Sans|10|A4|x8|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P40_A4x8.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P40_A4x8.pdf)|
+|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|---|---|
+|278|20 cm|10 cm|10 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P20_A4x2.pdf)|
+|278|25 cm|13 cm|13 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_A4x3.pdf)|
+|278|25 cm|13 cm|13 cm|1/Paire d'arêtes|10|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P25_lang_A4x3.pdf)|
+|278|30 cm|16 cm|16 cm|Sans|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P30_A4x4.pdf)|
+|278|40 cm|21 cm|21 cm|Sans|10|A4|x8|[svg](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P40_A4x8.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/taureau/taureau278_P40_A4x8.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:3996034) issu de **Thingiverse**[^1]
