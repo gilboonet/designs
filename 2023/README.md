@@ -1,9 +1,9 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (52)
+## Galeries de gabarits (53)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](#) |
 |:--:|:--:|:--:|
-|[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (3)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
+|[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (4)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
 
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](#) |
 |:--:|:--:|:--:|
