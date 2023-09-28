@@ -1,9 +1,9 @@
 # Gabarits du modèle 3D "bouledogue"
-|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|---|
-|200|17 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.pdf)|
-|200|25 cm|Sans|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_A4x5.pdf)|
-|200|25 cm|1/paire d'arêtes|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_lang_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_lang_A4x5.pdf)|
+|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|---|---|
+|200|20 cm|10 cm|17 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.pdf)|
+|200|30 cm|15 cm|25 cm|Sans|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_A4x5.pdf)|
+|200|30 cm|15 cm|25 cm|1/paire d'arêtes|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_lang_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_lang_A4x5.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:2180737) issu de **Thingiverse**[^1]
