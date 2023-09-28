@@ -1,8 +1,8 @@
 # Gabarits du modèle 3D "Chaton"
-|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|
-|196|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.pdf)|
-|196|20 cm|1/paire d'arêtes|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_lang_A4x2.pdf)|
+|196|15 cm|8 cm|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.pdf)|
+|196|15 cm|8 cm|20 cm|1/paire d'arêtes|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_lang_A4x2.pdf)|
 
 ## Détails
 - Réduit à 196 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
