@@ -1,9 +1,9 @@
 # Gabarits du modèle 3D "cochon"
-|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|---|
-|280|10 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H10_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H10_A4x2.pdf)|
-|280|14 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_A4x4.pdf)|
-|280|14 cm|1/Paire d'arêtes|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_lang_A4x3.pdf)|
+|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|---|---|
+|280|15 cm|9 cm|10 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H10_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H10_A4x2.pdf)|
+|280|21 cm|12 cm|14 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_A4x4.pdf)|
+|280|21 cm|12 cm|14 cm|1/Paire d'arêtes|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cochon/cochon280_H14_lang_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:3285040) issu de **Thingiverse**[^1]
