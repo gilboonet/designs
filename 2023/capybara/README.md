@@ -2,8 +2,11 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |212|20 cm |8 cm|12 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P20_A4x2.pdf)|
+||
 |212|25 cm|9 cm|15 cm|Sans|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_A4x3.pdf)|
 |212|25 cm|9 cm|15 cm|1/paire d'arêtes|7|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara212_P25_lang_A4x3.pdf)|
+||
+|390|40 cm|15 cm|25 cm|Sans|8|A4|x8|[svg](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara390_H25_A4x8.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/capybara/capybara390_H25_A4x8.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182089) issu de **Thingiverse**[^1]
