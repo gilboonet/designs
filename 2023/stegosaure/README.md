@@ -1,10 +1,10 @@
 # Gabarits du modèle 3D "stégosaure"
-|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|---|
-|210|19 cm|Sans|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_P25_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_P25_A4x4.pdf)|
-|210|25 cm|Sans|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_H25_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_H25_A4x4.pdf)|
-|210|25 cm|1/paire d'arêtes|11|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/cuteDino244_H25_lang_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/cuteDino244_H25_lang_A4x4.pdf)|
-|210|25 cm|Sans|3|Tapis 12"|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_H25_C2x2.svg)||
+|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|---|---|
+|210|25 cm|8 cm|19 cm|Sans|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_P25_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_P25_A4x4.pdf)|
+|210|33 cm|10 cm|25 cm|Sans|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_H25_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_H25_A4x4.pdf)|
+|210|33 cm|10 cm|25 cm|1/paire d'arêtes|11|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/cuteDino244_H25_lang_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/cuteDino244_H25_lang_A4x4.pdf)|
+|210|33 cm|10 cm|25 cm|Sans|3|Tapis 12"|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/stegosaure244_H25_C2x2.svg)||
 
 ## Détails
 - [Modèle 3D](https://www.printables.com/fr/model/489585-cute-stylized-dinosaur-toy) issu de **Printables**[^1]
