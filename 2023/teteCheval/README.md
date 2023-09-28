@@ -1,9 +1,9 @@
 # Gabarits du modèle 3D "Tête de cheval"
-|Triangles|Hauteur|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|---|
-|120|15 cm|1/paire d'arêtes|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_A4x2.pdf)|
-|120|15 cm|1/paire d'arêtes|1|Tapis 12"|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_C2.svg)|
-|120|15 cm|Sans|1|Tapis 12"|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_C2.svg)|
+|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|---|---|
+|120|14 cm|7 cm|15 cm|1/paire d'arêtes|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_A4x2.pdf)|
+|120|14 cm|7 cm|15 cm|1/paire d'arêtes|1|Tapis 12"|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_lang_C2.svg)|
+|120|14 cm|7 cm|15 cm|Sans|1|Tapis 12"|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/teteCheval120_H15_C2.svg)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182217) issu de **Thingiverse**[^1]
