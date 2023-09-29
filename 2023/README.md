@@ -17,7 +17,7 @@
 |:--:|:--:|:--:|
 |[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (4)|[Tête de cheval](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) (3)|[Cochon](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) (3)|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/minTeteGirafe.png)](#) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](#) |
 |:--:|:--:|
 |[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (3)| [Tête de girafe](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) (1)|
 
