@@ -19,7 +19,7 @@
 
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](#) |
 |:--:|:--:|
-|[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (3)| [Tête de girafe](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) (1)|
+|[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (3)| [Tête de girafe](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) (2)|
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
