@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (56)
+## Galeries de gabarits (57)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](#) |
 |:--:|:--:|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (4)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
@@ -20,6 +20,10 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCorgi.png)](#) |
 |:--:|:--:|:--:|
 |[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (3)| [Tête de girafe](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) (2)|[Corgi](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) (1)|
+
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](#) |
+|:--:|
+|[Chibi Triceratops](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) (1) |
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
