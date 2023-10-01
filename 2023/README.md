@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (58)
+## Galeries de gabarits (60)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](#) |
 |:--:|:--:|:--:|
 |[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (4)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
@@ -21,9 +21,9 @@
 |:--:|:--:|:--:|
 |[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (3)| [Tête de girafe](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) (2)|[Corgi](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) (1)|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](#) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](#)
-|:--:|:--:|
-|[Chibi Triceratops](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) (1) | [Chibi T-Rex](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) (1) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](#) |
+|:--:|:--:|:--:|
+|[Chibi Triceratops](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) (1) | [Chibi T-Rex](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) (1) | [Joli Gnome](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) (2) |
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
