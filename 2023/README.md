@@ -22,7 +22,7 @@
 |[Bouledogue](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) (3)| [Tête de girafe](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) (2)|[Corgi](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) (1)|
 
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](#) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](#)
-|:--:|=--|
+|:--:|:--:|
 |[Chibi Triceratops](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) (1) | [Chibi T-Rex](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) (1) |
 
 ## Lettrages
