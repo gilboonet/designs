@@ -1,8 +1,8 @@
 # Gabarits du modèle 3D "Corgi"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|200|28 cm|12 cm|20 cm|Sans|7|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H10_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H10_A4x4.pdf)|
-|200|21 cm|9 cm|15 cm|Sans|6|A4|x2|[svg]()|[pdf]()|
+|200|28 cm|12 cm|20 cm|Sans|7|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H20_A4x4.pdf)|
+|200|21 cm|9 cm|15 cm|Sans|6|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H15_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H15_A4x2.pdf)|
 
 ## Détails
 - Réduit à 200 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
