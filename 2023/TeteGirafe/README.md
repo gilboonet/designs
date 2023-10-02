@@ -1,6 +1,7 @@
 # Gabarits du modèle 3D "tête girafe"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
+|146|10 cm|8 cm|10 cm|Sans|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/teteGirafe_H10_A4x1.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/teteGirafe_H10_A4x1.pdf)|
 |146|21 cm|16 cm|20 cm|Sans|9|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/teteGirafe146_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/teteGirafe146_H20_A4x2.pdf)|
 |146|15 cm|12 cm|15 cm|1/Paire d'arêtes|3|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/teteGirafe146_H15_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/teteGirafe146_H15_lang_A4x2.pdf)|
 
