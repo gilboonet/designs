@@ -1,21 +1,17 @@
 # DESIGNS faits en 2023
 
 ## Galeries de gabarits (60)
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](#) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (2)|
 |:--:|:--:|:--:|
-|[Capybara](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) (4)|[Chat Debout](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) (8)| [Chaton](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) (2)|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](#) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png)](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) <br>Gumi l'ours en guimauve (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) <br>MiniLéphant (6) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) <br>Moaï (5) |
 |:--:|:--:|:--:|
-|[Gumi](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) l'ours en guimauve (3)|[MiniLéphant](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) (6)|[Moaï](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) (5)|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png)](#) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png)](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) <br>Renard (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png)](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) <br>Stégosaure (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png)](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) <br>Taureau (4) |
 |:--:|:--:|:--:|
-|[Renard](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) (3)|[Stégosaure](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) (4)|[Taureau](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) (5)|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](#) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png)](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) <br>Tdy l'ours en peluche (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) <br>Tête de cheval (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) | <br>Cochon (3) |
 |:--:|:--:|:--:|
-|[Tdy](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) l'ours en peluche (4)|[Tête de cheval](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) (3)|[Cochon](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) (3)|
 
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](#) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCorgi.png)](#) |
 |:--:|:--:|:--:|
