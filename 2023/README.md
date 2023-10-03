@@ -19,6 +19,9 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) <br>Chibi Tricératops (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) <br>Chibi T-Rex (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) <br>Joli gnome (2) |
 |:--:|:--:|:--:|
 
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBastet.png)](https://github.com/gilboonet/designs/blob/master/2023/Bastet/README.md) <br>Bastet (1) |
+|:--:|
+
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
 - Fichiers 3D de lettrages (chaque caractère fait 10 cm de haut et 2,5 cm de profondeur)
