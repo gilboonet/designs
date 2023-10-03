@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (64)
+## Galeries de gabarits (65)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)|
 |:--:|:--:|:--:|
 
