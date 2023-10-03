@@ -3,6 +3,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 |196|15 cm|8 cm|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.pdf)|
 |196|15 cm|8 cm|20 cm|1/paire d'arêtes|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_lang_A4x2.pdf)|
+|196|11 cm|6 cm|15 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H15_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H15_A4x2.pdf)|
 
 ## Détails
 - Réduit à 196 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
