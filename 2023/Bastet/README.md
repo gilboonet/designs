@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Bastet"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|196|15 cm|8 cm|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chaton/chaton196_H20_A4x2.pdf)|
+|400|25 cm|14 cm|35 cm|Sans|36|A4|x6|[svg](https://github.com/gilboonet/designs/blob/master/2023/Bastet/bastet400_H35_A4x6.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Bastet/bastet400_H35_A4x6.pdf)|
 
 ## Détails
 - Réduit à 400 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
