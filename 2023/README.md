@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (63)
+## Galeries de gabarits (64)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)|
 |:--:|:--:|:--:|
 
@@ -16,7 +16,7 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) <br>Bouledogue (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) <br>Tête de girafe (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCorgi.png)](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) <br>Corgi (2) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) <br>Chibi Tricératops (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) <br>Chibi T-Rex (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) <br>Joli gnome (2) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) <br>Chibi Tricératops (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) <br>Chibi T-Rex (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) <br>Joli gnome (2) |
 |:--:|:--:|:--:|
 
 ## Lettrages
