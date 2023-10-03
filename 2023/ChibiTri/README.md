@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Chibi Triceratops"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|300|30 cm|13 cm|18 cm|Sans|5|A4|x5|[svg](.svg)|[pdf]()|
+|300|30 cm|13 cm|18 cm|Sans|5|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/chibiTri300_H18_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/chibiTri300_H18_A4x5.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:4556534) issu de **Thingiverse**[^1]
