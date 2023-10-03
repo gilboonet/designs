@@ -2,6 +2,7 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |200|22 cm|12 cm|20 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/chibiTRex_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/chibiTRex_H20_A4x4.pdf)|
+|200|22 cm|12 cm|20 cm|1/Paire d'arêtes|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/chibiTRex_H20_lang_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/chibiTRex_H20_lang_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:4561811) issu de **Thingiverse**[^1]
