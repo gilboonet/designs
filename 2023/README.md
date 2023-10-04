@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (20 modèles pour un total de 67 gabarits)
+## Galeries de gabarits (21 modèles pour un total de 70 gabarits)
 ### Animaux domestiques (5/19)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
 |:--:|:--:|:--:|
@@ -27,9 +27,9 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) <br>Moaï (5) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) <br>Joli gnome (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBastet.png)](https://github.com/gilboonet/designs/blob/master/2023/Bastet/README.md) <br>Bastet (2) |
 |:--:|:--:|:--:|
 
-### Trophées (2/6)
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) <br>Tête de cheval (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) <br>Tête de girafe (3) |
-|:--:|:--:|
+### Trophées (3/9)
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) <br>Tête de cheval (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) <br>Tête de girafe (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteAnubis.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis/README.md) <br>Tête d'Anubis (3) |
+|:--:|:--:|:--:|
 
 ## Lettrages
 - [Lettrage 1 : H 14 cm](https://raw.githubusercontent.com/gilboonet/designs/master/2023/lettres_et_chiffres.pdf)
