@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (65)
+## Galeries de gabarits (66)
 ### Animaux domestiques
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
 |:--:|:--:|:--:|
@@ -24,7 +24,7 @@
 |:--:|:--:|
 
 ### Statues
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) <br>Moaï (5) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) <br>Joli gnome (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBastet.png)](https://github.com/gilboonet/designs/blob/master/2023/Bastet/README.md) <br>Bastet (1) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) <br>Moaï (5) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) <br>Joli gnome (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBastet.png)](https://github.com/gilboonet/designs/blob/master/2023/Bastet/README.md) <br>Bastet (2) |
 |:--:|:--:|:--:|
 
 ### Trophées
