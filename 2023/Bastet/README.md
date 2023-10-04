@@ -2,9 +2,10 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |400|25 cm|14 cm|35 cm|Sans|36|A4|x6|[svg](https://github.com/gilboonet/designs/blob/master/2023/Bastet/bastet400_H35_A4x6.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Bastet/bastet400_H35_A4x6.pdf)|
+|300|18 cm|10 cm|25 cm|Sans|10|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Bastet/bastet300_H25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Bastet/bastet300_H25_A4x3.pdf)|
 
 ## Détails
-- Réduit à 400 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
+- Réduit à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
