@@ -1,9 +1,9 @@
 # Gabarits du modèle 3D "Tête d'Anubis"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|102|16 cm|11 cm|20 cm|Sans|5|A4|x2|[svg](svg)|[pdf]()|
-|102|16 cm|11 cm|20 cm|1/paire|5|A4|x2|[svg](svg)|[pdf]()|
-|102|16 cm|11 cm|25 cm|Sans|6|Tapis Cricut 12"|x1|[svg](svg)||
+|102|16 cm|11 cm|20 cm|Sans|5|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis/anubis102_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis/anubis102_H20_A4x2.pdf)|
+|102|16 cm|11 cm|20 cm|1/paire|5|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis/anubis102_H20_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis/anubis102_H20_lang_A4x2.pdf)|
+|102|16 cm|11 cm|25 cm|Sans|6|Tapis Cricut 12"|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis/anubis102_H20_C2x1.svg)||
 
 ## Détails
 - Réduit à 102 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
