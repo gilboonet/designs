@@ -1,6 +1,6 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (23 modèles pour un total de 73 gabarits)
+## Galeries de gabarits (23 modèles pour un total de 74 gabarits)
 ### Animaux domestiques (6/21)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
 |:--:|:--:|:--:|
@@ -8,11 +8,11 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) <br>Bouledogue (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCorgi.png)](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) <br>Corgi (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChien.png)](https://github.com/gilboonet/designs/blob/master/2023/Chien/README.md) <br>Chien (2) |
 |:--:|:--:|:--:|
 
-### Animaux sauvages (5/19)
+### Animaux sauvages (5/20)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png)](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) <br>Renard (3) |[![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png)](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) <br>Taureau (5) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) <br>MiniLéphant (6) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGorille.png)](https://github.com/gilboonet/designs/blob/master/2023/Gorille/README.md) <br>Gorille (1) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) <br>MiniLéphant (6) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGorille.png)](https://github.com/gilboonet/designs/blob/master/2023/Gorille/README.md) <br>Gorille (2) |
 |:--:|:--:|
 
 ### Dinosaures (3/7)
