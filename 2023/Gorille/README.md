@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Gorille"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|200|16 cm|9 cm|15 cm|Sans|2|A4|x2|[svg](svg)|[pdf]()|
+|200|16 cm|9 cm|15 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Gorille/Gorille200_H15_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Gorille/Gorille200_H15_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182151) issu de **Thingiverse**[^1]
