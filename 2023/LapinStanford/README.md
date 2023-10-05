@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Lapin de Stanford"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|146|19 cm|16 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
+|146|19 cm|16 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinStanford/Lapin146_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinStanford/Lapin146_H20_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](http://graphics.stanford.edu/data/3Dscanrep/) issu du **Stanford 3D Scanning Repository**
