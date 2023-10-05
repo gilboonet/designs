@@ -1,12 +1,12 @@
 # DESIGNS faits en 2023
 
-## Galeries de gabarits (21 modèles pour un total de 70 gabarits)
-### Animaux domestiques (5/19)
+## Galeries de gabarits (22 modèles pour un total de 71 gabarits)
+### Animaux domestiques (6/20)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) <br>Bouledogue (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCorgi.png)](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) <br>Corgi (2) |
-|:--:|:--:|
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) <br>Bouledogue (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCorgi.png)](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) <br>Corgi (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChien.png)](https://github.com/gilboonet/designs/blob/master/2023/Chien/README.md) <br>Chien (1) |
+|:--:|:--:|:--:|
 
 ### Animaux sauvages (4/18)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png)](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) <br>Renard (3) |[![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png)](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) <br>Taureau (5) |
