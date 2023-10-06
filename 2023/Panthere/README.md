@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Panthère"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|380|34 cm|10 cm|10 cm|Sans|11|A4|x11|[svg](svg)|[pdf]()|
+|380|68 cm|20 cm|20 cm|Sans|11|A4|x11|[svg](https://github.com/gilboonet/designs/blob/master/2023/Panthere/Panthere380_H20_A4x11.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Panthere/Panthere380_H20_A4x11.pdf)|
 
 ## Détails
 - Réduit à 380 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
