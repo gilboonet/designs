@@ -1,4 +1,4 @@
-# DESIGNS faits en 2023
+# GABARITS faits avec [Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html)
 
 ## Galeries de gabarits (24 modèles pour un total de 75 gabarits)
 ### Animaux domestiques (7/22)
