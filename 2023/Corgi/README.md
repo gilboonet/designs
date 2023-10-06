@@ -2,6 +2,7 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |200|28 cm|12 cm|20 cm|Sans|7|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H20_A4x4.pdf)|
+|200|28 cm|12 cm|20 cm|1/Paire d'arêtes|8|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H20_lang_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H20_lang_A4x4.pdf)|
 |200|21 cm|9 cm|15 cm|Sans|6|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H15_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Corgi/Corgi200_H15_A4x2.pdf)|
 
 ## Détails
