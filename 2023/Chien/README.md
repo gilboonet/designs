@@ -1,4 +1,4 @@
-# Gabarits du modèle 3D "Chien"
+# Gabarits du modèle 3D "Labrador"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |350|20 cm|7 cm|20 cm|Sans|8|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Chien/chien350_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Chien/chien350_H20_A4x2.pdf)|
