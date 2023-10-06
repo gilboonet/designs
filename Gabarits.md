@@ -15,8 +15,8 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png)](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) <br>Renard (3) |[![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png)](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) <br>Taureau (5) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) <br>MiniLéphant (6) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGorille.png)](https://github.com/gilboonet/designs/blob/master/2023/Gorille/README.md) <br>Gorille (2) |
-|:--:|:--:|
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant/README.md) <br>MiniLéphant (6) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGorille.png)](https://github.com/gilboonet/designs/blob/master/2023/Gorille/README.md) <br>Gorille (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniPanthere.png)](https://github.com/gilboonet/designs/blob/master/2023/Panthere/README.md) <br>Panthère (1) |
+|:--:|:--:|:--:|
 
 ### Dinosaures (3/7)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png)](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) <br>Stégosaure (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) <br>Chibi Tricératops (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) <br>Chibi T-Rex (2) |
