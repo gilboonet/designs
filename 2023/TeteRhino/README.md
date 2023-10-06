@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Tête de Rhinocéros"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|262|17.5 cm|15 cm|20 cm|Sans|7|A4|x3|[svg](svg)|[pdf]()|
+|262|17.5 cm|15 cm|20 cm|Sans|7|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/RhinoTete262_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/RhinoTete262_H20_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182261) issu de **Thingiverse**[^1]
