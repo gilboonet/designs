@@ -4,7 +4,7 @@
 |200|20 cm|10 cm|17 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_P200_A4x2.pdf)|
 ||
 |200|24 cm|12 cm|20 cm|Sans|6|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H20_A4x3.pdf)|
-|200|24 cm|12 cm|20 cm|1/Paire d'arêtes|12|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H20_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H20_lang_A4x3.pdf)|
+|200|24 cm|12 cm|20 cm|1/Paire d'arêtes|13|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H20_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H20_lang_A4x3.pdf)|
 ||
 |200|30 cm|15 cm|25 cm|Sans|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_A4x5.pdf)|
 |200|30 cm|15 cm|25 cm|1/paire d'arêtes|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_lang_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/bouledogue200_H25_lang_A4x5.pdf)|
