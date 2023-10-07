@@ -2,6 +2,7 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |300|10 cm|8 cm|20 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/FauconMaltais/f300H_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/FauconMaltais/f300H_H20_A4x2.pdf)|
+|300|15 cm|12 cm|30 cm|Sans|5|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/FauconMaltais/f300H_H30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/FauconMaltais/f300H_H30_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:46631) issu de **Thingiverse**[^1]
