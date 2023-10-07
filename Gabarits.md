@@ -1,6 +1,6 @@
 # GABARITS faits avec [Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html)
 
-## Galeries de gabarits (27 modèles pour un total de 81 gabarits)
+## Galeries de gabarits (28 modèles pour un total de 82 gabarits)
 ### Animaux domestiques (7 modèles / 25 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
 |:--:|:--:|:--:|
@@ -29,9 +29,12 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCanard.png)](https://github.com/gilboonet/designs/blob/master/2023/Canard/README.md) <br>Canard en plastique (1) |
 |:--:|
 
-### Statues (3 modèles / 9 gabarits)
+### Statues (4 modèles / 10 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](https://github.com/gilboonet/designs/blob/master/2023/moai/README.md) <br>Moaï (5) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome/README.md) <br>Joli gnome (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBastet.png)](https://github.com/gilboonet/designs/blob/master/2023/Bastet/README.md) <br>Bastet (2) |
 |:--:|:--:|:--:|
+
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniFauconMaltais.png)](https://github.com/gilboonet/designs/blob/master/2023/FauconMaltais/README.md) <br>Faucon Maltais (1) |
+|:--:|
 
 ### Trophées (4 modèles / 10 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/teteCheval/README.md) <br>Tête de cheval (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe/README.md) <br>Tête de girafe (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteAnubis.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis/README.md) <br>Tête d'Anubis (3) |
