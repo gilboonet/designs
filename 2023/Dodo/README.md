@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Dodo"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|300|21 cm|9 cm|20 cm|Sans|6|A4|x3|[svg](svg)|[pdf]()|
+|300|21 cm|9 cm|20 cm|Sans|6|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Dodo/Dodo300_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Dodo/Dodo300_H20_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:158056) issu de **Thingiverse**[^1]
