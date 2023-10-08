@@ -2,6 +2,7 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |252|26 cm|6 cm|20 cm|Sans|8|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H20_A4x2.pdf)|
+|252|29 cm|8 cm|25 cm|Sans|7|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H25_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182217) issu de **Thingiverse**[^1]
