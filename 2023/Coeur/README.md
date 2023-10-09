@@ -4,6 +4,7 @@
 |76|10 cm|2.5 cm|10 cm|Sans|1|A4|x1|[svg](svg)|[pdf]()|
 
 ## Détails
+- Fait une moitié de coeur, pour faire un coeur entier, supprimer la partie plate du bas et la remplacer par la partie du haut en miroir.
 - Réduit à 76 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
