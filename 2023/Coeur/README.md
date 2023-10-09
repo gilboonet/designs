@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Coeur"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|76|10 cm|2.5 cm|10 cm|Sans|1|A4|x1|[svg](svg)|[pdf]()|
+|76|10 cm|2.5 cm|10 cm|Sans|1|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/Coeur/miCoeur76_H10_A4x1.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Coeur/miCoeur76_H10_A4x1.pdf)|
 
 ## Détails
 - Fait une moitié de coeur, pour faire un coeur entier, supprimer la partie plate du bas et la remplacer par la partie du haut en miroir.
