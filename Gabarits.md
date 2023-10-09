@@ -1,6 +1,6 @@
 # GABARITS faits avec [Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html)
 
-## Galeries de gabarits (31 modèles pour un total de 90 gabarits)
+## Galeries de gabarits (31 modèles pour un total de 91 gabarits)
 
 ### Animaux domestiques (8 modèles / 28 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
@@ -47,6 +47,6 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteRhino.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/README.md) <br>Tête de Rhinocéros (1) |
 |:--:|
 
-### Divers (1 modèle / 1 gabarit)
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCoeur.png)](https://github.com/gilboonet/designs/blob/master/2023/Coeur/README.md) <br>Coeur (1) |
+### Divers (1 modèle / 2 gabarits)
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCoeur.png)](https://github.com/gilboonet/designs/blob/master/2023/Coeur/README.md) <br>Coeur (2) |
 |:--:|
