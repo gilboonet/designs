@@ -1,7 +1,8 @@
 # Gabarits du modèle 3D "Citrouille"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|136|10 cm|9 cm|9 cm|Sans|1|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H10_A4x1.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H10_A4x1.pdf)|
+|136|9 cm|9 cm|10 cm|Sans|1|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H10_A4x1.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H10_A4x1.pdf)|
+|136|19 cm|17 cm|20 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H20_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.printables.com/fr/model/319818-pumpkin) issu de **Printables**[^1]
