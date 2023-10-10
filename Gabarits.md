@@ -1,16 +1,16 @@
 # GABARITS faits avec [Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html)
 
-## Galeries de gabarits (32 modèles pour un total de 92 gabarits)
+## Galeries de gabarits (33 modèles pour un total de 93 gabarits)
 
-### Animaux domestiques (8 modèles / 28 gabarits)
+### Animaux domestiques (9 modèles / 29 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
 |:--:|:--:|:--:|
 
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)](https://github.com/gilboonet/designs/blob/master/2023/bouledogue/README.md) <br>Bouledogue (5) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCorgi.png)](https://github.com/gilboonet/designs/blob/master/2023/Corgi/README.md) <br>Corgi (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChien.png)](https://github.com/gilboonet/designs/blob/master/2023/Chien/README.md) <br>Labrador (2) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniLapin.png)](https://github.com/gilboonet/designs/blob/master/2023/LapinStanford/README.md) <br>Lapin de Stanford (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/Cheval/README.md) <br>Cheval (3) |
-|:--:|:--:|
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniLapin.png)](https://github.com/gilboonet/designs/blob/master/2023/LapinStanford/README.md) <br>Lapin de Stanford (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/Cheval/README.md) <br>Cheval (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniSouris.png)](https://github.com/gilboonet/designs/blob/master/2023/Souris/README.md) <br>Souris (1) |
+|:--:|:--:|:--:|
 
 ### Animaux sauvages (7 modèles / 24 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara/README.md) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png)](https://github.com/gilboonet/designs/blob/master/2023/renard/README.md) <br>Renard (3) |[![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png)](https://github.com/gilboonet/designs/blob/master/2023/taureau/README.md) <br>Taureau (5) |
