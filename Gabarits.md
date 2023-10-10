@@ -1,6 +1,6 @@
 # GABARITS faits avec [Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html)
 
-## Galeries de gabarits (34 modèles pour un total de 94 gabarits)
+## Galeries de gabarits (34 modèles pour un total de 95 gabarits)
 
 ### Animaux domestiques (9 modèles / 29 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/README.md) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton/README.md) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon/README.md) <br>Cochon (3) |
@@ -47,6 +47,6 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteRhino.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/README.md) <br>Tête de Rhinocéros (1) |
 |:--:|
 
-### Divers (3 modèle / 4 gabarits)
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCoeur.png)](https://github.com/gilboonet/designs/blob/master/2023/Coeur/README.md) <br>Coeur (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMain.png)](https://github.com/gilboonet/designs/blob/master/2023/Main/README.md) <br>Main (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCitrouille.png)](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/README.md) <br>Citrouille (1) |
+### Divers (3 modèle / 5 gabarits)
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCoeur.png)](https://github.com/gilboonet/designs/blob/master/2023/Coeur/README.md) <br>Coeur (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMain.png)](https://github.com/gilboonet/designs/blob/master/2023/Main/README.md) <br>Main (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCitrouille.png)](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/README.md) <br>Citrouille (2) |
 |:--:|:--:|:--:|
