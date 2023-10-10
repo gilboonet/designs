@@ -1,12 +1,14 @@
 # Gabarits du modèle 3D "Main"
 
 ## Main Droite
+
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |200|16 cm|11 cm|21 cm|Sans|5|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Main/main200_H20A_A4x2.svg)|[pdf](https://github.com/gilboonet
 /designs/blob/master/2023/Main/main200_H20A_A4x2.pdf)|
 
 ## Main Gauche
+
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |200|16 cm|11 cm|21 cm|Sans|5|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Main/mainInv200_H20A_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Main/mainInv200_H20A_A4x2.pdf)|
