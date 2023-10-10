@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Souris"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|254|21 cm|8 cm|10 cm|Sans|3|A4|x2|[svg](svg)|[pdf]()|
+|254|21 cm|8 cm|10 cm|Sans|3|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Souris/Souris254_H10_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Souris/Souris254_H10_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182233) issu de **Thingiverse**[^1]
