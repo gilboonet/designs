@@ -5,6 +5,7 @@
 ||
 |136|19 cm|17 cm|20 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H20_A4x4.pdf)|
 |136|19 cm|17 cm|20 cm|Sans|3|Tapis 12"|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille136_H20_C2x2.svg)|
+|272|19 cm|17 cm|20 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille272_H15_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Citrouille/Citrouille272_H15_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.printables.com/fr/model/319818-pumpkin) issu de **Printables**[^1]
