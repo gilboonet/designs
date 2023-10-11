@@ -1,4 +1,4 @@
-# GABARITS faits avec [LeDéplieur](https://gilboonet.github.io/deplieur/UI1.html)
+# GABARITS faits avec ["Le Déplieur"](https://gilboonet.github.io/deplieur/UI1.html)
 
 ## Galeries de gabarits (35 modèles pour un total de 100 gabarits)
 
