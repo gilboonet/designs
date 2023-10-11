@@ -26,7 +26,7 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png)](https://github.com/gilboonet/designs/blob/master/2023/stegosaure/README.md) <br>Stégosaure (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri/README.md) <br>Chibi Tricératops (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex/README.md) <br>Chibi T-Rex (2) |
 |:--:|:--:|:--:|
 
-### Jouets (4 modèles / 9 gabarits)
+### Jouets (5 modèles / 10 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png)](https://github.com/gilboonet/designs/blob/master/2023/gumi/README.md) <br>Gumi l'ours en guimauve (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png)](https://github.com/gilboonet/designs/blob/master/2023/tdy/README.md) <br>Tdy l'ours en peluche (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCharmander.png)](https://github.com/gilboonet/designs/blob/master/2023/Charmander/README.md) <br>Charmander (1) |
 |:--:|:--:|:--:|
 
