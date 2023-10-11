@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Joli Hippo"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|400|28 cm|16 cm|20 cm|Sans|4|A4|x4|[svg](svg)|[pdf]()|
+|400|21 cm|12 cm|15 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/JoliHippo/JoliHippo400_H15_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/JoliHippo/JoliHippo400_H15_A4x4.pdf)|
 |
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:5821210) issu de **Thingiverse**[^1]
