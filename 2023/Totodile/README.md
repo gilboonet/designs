@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Totodile"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|226|23 cm|14 cm|20 cm|Sans|15|A4|x3|[svg](svg)|[pdf]()|
+|226|23 cm|14 cm|20 cm|Sans|15|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Totodile/Totodile226_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Totodile/Totodile226_H20_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:341719) issu de **Thingiverse**[^1]
