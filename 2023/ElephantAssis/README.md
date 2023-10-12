@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Eléphant Assis"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|206|16 cm|15 cm|20 cm|Sans|6|A4|x5|[svg](svg)|[pdf]()|
+|206|16 cm|15 cm|20 cm|Sans|6|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H20_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:744590) issu de **Thingiverse**[^1]
