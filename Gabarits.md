@@ -1,6 +1,6 @@
 # GABARITS faits avec ["Le Déplieur"](https://gilboonet.github.io/deplieur/UI1.html)
 
-## Galeries de gabarits (37 modèles pour un total de 102 gabarits)
+## Galeries de gabarits (37 modèles pour un total de 103 gabarits)
 
 ### Animaux domestiques (9 modèles / 29 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon) <br>Cochon (3) |
@@ -12,14 +12,14 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniLapin.png)](https://github.com/gilboonet/designs/blob/master/2023/LapinStanford) <br>Lapin de Stanford (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/Cheval) <br>Cheval (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniSouris.png)](https://github.com/gilboonet/designs/blob/master/2023/Souris) <br>Souris (1) |
 |:--:|:--:|:--:|
 
-### Animaux sauvages (8 modèles / 25 gabarits)
+### Animaux sauvages (8 modèles / 26 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCapybara.png)](https://github.com/gilboonet/designs/blob/master/2023/capybara) <br>Capybara (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniRenard.png)](https://github.com/gilboonet/designs/blob/master/2023/renard) <br>Renard (3) |[![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTaureau.png)](https://github.com/gilboonet/designs/blob/master/2023/taureau) <br>Taureau (5) |
 |:--:|:--:|:--:|
 
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMile.png)](https://github.com/gilboonet/designs/blob/master/2023/mini_lephant) <br>MiniLéphant (6) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGorille.png)](https://github.com/gilboonet/designs/blob/master/2023/Gorille) <br>Gorille (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniPanthere.png)](https://github.com/gilboonet/designs/blob/master/2023/Panthere) <br>Panthère (1) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniDodo.png)](https://github.com/gilboonet/designs/blob/master/2023/Dodo/README.md) <br>Dodo (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniELA.png)](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis) <br>Eléphant Assis (1) |
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniDodo.png)](https://github.com/gilboonet/designs/blob/master/2023/Dodo/README.md) <br>Dodo (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniELA.png)](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis) <br>Eléphant Assis (2) |
 |:--:|:--:|
 
 ### Dinosaures (3 modèles / 7 gabarits)
