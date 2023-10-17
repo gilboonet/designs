@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Ours"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|216|11 cm|7 cm|20 cm|Sans|2|A4|x2|[svg](svg)|[pdf]()|
+|216|11 cm|7 cm|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Ours/Ours216_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Ours/Ours216_H20_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182072) issu de **Thingiverse**[^1]
