@@ -1,7 +1,7 @@
 # Gabarits du modèle 3D "Pikachu"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|242|13 cm|8 cm|20 cm|Sans|8|A4|x2|[svg](svg)|[pdf]()|
+|242|13 cm|8 cm|20 cm|Sans|8|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Pikachu/Pikachu242_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Pikachu/Pikachu242_H20_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:6231477) issu de **Thingiverse**[^1]
