@@ -1,4 +1,4 @@
-# Gabarits du modèle 3D "gumi"
+# Gabarits du modèle 3D "Gumi"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |210|10 cm|11 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
