@@ -1,6 +1,6 @@
 # GABARITS faits avec ["Le Déplieur"](https://gilboonet.github.io/deplieur/UI1.html)
 
-## Galeries de gabarits (37 modèles pour un total de 103 gabarits)
+## Galeries de gabarits (38 modèles pour un total de 104 gabarits)
 
 ### Animaux domestiques (9 modèles / 29 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon) <br>Cochon (3) |
@@ -26,9 +26,12 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png)](https://github.com/gilboonet/designs/blob/master/2023/stegosaure) <br>Stégosaure (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTri.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTri) <br>Chibi Tricératops (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChibiTRex.png)](https://github.com/gilboonet/designs/blob/master/2023/ChibiTRex) <br>Chibi T-Rex (2) |
 |:--:|:--:|:--:|
 
-### Jouets (6 modèles / 11 gabarits)
+### Jouets (7 modèles / 12 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png)](https://github.com/gilboonet/designs/blob/master/2023/gumi) <br>Gumi l'ours en guimauve (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png)](https://github.com/gilboonet/designs/blob/master/2023/tdy) <br>Tdy l'ours en peluche (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCharmander.png)](https://github.com/gilboonet/designs/blob/master/2023/Charmander) <br>Charmander (1) |
 |:--:|:--:|:--:|
+
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniPikachu.png)](https://github.com/gilboonet/designs/blob/master/2023/Pikachu) <br>Pikachu (1) |
+|:--:|
 
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCanard.png)](https://github.com/gilboonet/designs/blob/master/2023/Canard) <br>Canard en plastique (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliHippo.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliHippo) <br>Joli Hippo (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTotodile.png)](https://github.com/gilboonet/designs/blob/master/2023/Totodile) <br>Totodile (1) |
 |:--:|:--:|:--:|
