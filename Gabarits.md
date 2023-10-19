@@ -1,6 +1,6 @@
 # GABARITS faits avec ["Le Déplieur"](https://gilboonet.github.io/deplieur/UI1.html)
 
-## Galeries de gabarits (40 modèles pour un total de 106 gabarits)
+## Galeries de gabarits (41 modèles pour un total de 107 gabarits)
 
 ### Animaux domestiques (9 modèles / 29 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChatDebout.png)](https://github.com/gilboonet/designs/blob/master/2023/chat_debout) <br>Chat Debout (8) |  [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniChaton.png)](https://github.com/gilboonet/designs/blob/master/2023/chaton) <br>Chaton (3)| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)](https://github.com/gilboonet/designs/blob/master/2023/Cochon) <br>Cochon (3) |
@@ -43,12 +43,12 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniFauconMaltais.png)](https://github.com/gilboonet/designs/blob/master/2023/FauconMaltais) <br>Faucon Maltais (2) |
 |:--:|
 
-### Trophées (5 modèles / 11 gabarits)
+### Trophées (6 modèles / 12 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteCheval.png)](https://github.com/gilboonet/designs/blob/master/2023/teteCheval) <br>Tête de cheval (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteGirafe) <br>Tête de girafe (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteAnubis.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteAnubis) <br>Tête d'Anubis (3) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteRhino.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino) <br>Tête de Rhinocéros (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteOurs.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteOurs) <br>Tête d'Ours (1) |
-|:--:|:--:|
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteRhino.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino) <br>Tête de Rhinocéros (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteOurs.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteOurs) <br>Tête d'Ours (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteRenard.png)](https://github.com/gilboonet/designs/blob/master/2023/TeteRenard) <br>Tête de Renard (1) |
+|:--:|:--:|:--:|
 
 ### Divers (3 modèles / 9 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCoeur.png)](https://github.com/gilboonet/designs/blob/master/2023/Coeur) <br>Coeur (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMain.png)](https://github.com/gilboonet/designs/blob/master/2023/Main) <br>Main (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCitrouille.png)](https://github.com/gilboonet/designs/blob/master/2023/Citrouille) <br>Citrouille (5) |
