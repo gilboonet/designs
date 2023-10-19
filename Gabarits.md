@@ -30,11 +30,11 @@
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniGumi.png)](https://github.com/gilboonet/designs/blob/master/2023/gumi) <br>Gumi l'ours en guimauve (3) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTdy.png)](https://github.com/gilboonet/designs/blob/master/2023/tdy) <br>Tdy l'ours en peluche (4) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCharmander.png)](https://github.com/gilboonet/designs/blob/master/2023/Charmander) <br>Charmander (1) |
 |:--:|:--:|:--:|
 
-| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniPikachu.png)](https://github.com/gilboonet/designs/blob/master/2023/Pikachu) <br>Pikachu (1) |
-|:--:|
-
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCanard.png)](https://github.com/gilboonet/designs/blob/master/2023/Canard) <br>Canard en plastique (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliHippo.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliHippo) <br>Joli Hippo (1) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTotodile.png)](https://github.com/gilboonet/designs/blob/master/2023/Totodile) <br>Totodile (1) |
 |:--:|:--:|:--:|
+
+| [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniPikachu.png)](https://github.com/gilboonet/designs/blob/master/2023/Pikachu) <br>Pikachu (1) |
+|:--:|
 
 ### Statues (4 modèles / 11 gabarits)
 | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMoai.png)](https://github.com/gilboonet/designs/blob/master/2023/moai) <br>Moaï (5) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)](https://github.com/gilboonet/designs/blob/master/2023/JoliGnome) <br>Joli gnome (2) | [![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBastet.png)](https://github.com/gilboonet/designs/blob/master/2023/Bastet) <br>Bastet (2) |
