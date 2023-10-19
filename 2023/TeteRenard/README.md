@@ -2,7 +2,7 @@
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|136|34 cm|8 cm|20 cm|Sans|9|A4|x3|[svg](svg)|[pdf]()|
+|136|10 cm|9 cm|12 cm|Sans|9|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteRenard/TeteRenard136_H12.pdfsvg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteRenard/TeteRenard136_H12.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182259) issu de **Thingiverse**[^1]
