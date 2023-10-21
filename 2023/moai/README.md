@@ -25,7 +25,7 @@
 [^6]:fichier svg contenant des chemins pour machines de découpe
 [^7]:fichier pdf à imprimer
 
-[Autres gabarits](https://github.com/gilboonet/designs/blob/master/Gabarits.md)
+[Autres gabarits](https://gilboonet.github.io/Gabarits.html)
 
 Vidéo montrant le modèle avec 130/200/260/500 triangles
 
