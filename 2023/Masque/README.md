@@ -1,4 +1,6 @@
+![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMasque.png)
 # Gabarits du modèle 3D "Masque"
+
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |154|20 cm|20 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Masque/masque_H20.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Masque/masque_H20.pdf)|
