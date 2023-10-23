@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/minBastet.png)
+![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBastet.png)
 # Gabarits du modèle 3D "Bastet"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
