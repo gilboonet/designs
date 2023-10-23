@@ -1,3 +1,4 @@
+![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCochon.png)
 # Gabarits du modèle 3D "cochon"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
