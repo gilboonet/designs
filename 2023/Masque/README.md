@@ -1,11 +1,11 @@
 # Gabarits du modèle 3D "Masque"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|154|20 cm|20 cm|20 cm|Sans|4|A4|x3|[svg](svg)|[pdf]()|
+|154|20 cm|20 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Masque/masque_H20.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Masque/masque_H20.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:32189) issu de **Thingiverse**[^1]
-- Réduit à 210 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
+- Réduit à 154 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
