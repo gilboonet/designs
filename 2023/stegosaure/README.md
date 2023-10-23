@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniStegosaure.png)
+![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniCuteDino.png)
 # Gabarits du modèle 3D "stégosaure"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
