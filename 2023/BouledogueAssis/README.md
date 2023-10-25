@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogueAssis.png)
+![](https://github.com/gilboonet/gilboonet.github.io/blob/master/img/miniBouledogueAssis.png)
 # Gabarits du modèle 3D "Bouledogue Assis"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
