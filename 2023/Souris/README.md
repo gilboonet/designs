@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniSouris.png)
+![](https://gilboonet.github.io/img/miniSouris.png)
 # Gabarits du modèle 3D "Souris"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
