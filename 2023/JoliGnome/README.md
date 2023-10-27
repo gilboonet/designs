@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniJoliGnome.png)
+![](https://gilboonet.github.io/img/miniJoliGnome.png)
 # Gabarits du modèle 3D "Joli Gnome"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
