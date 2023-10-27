@@ -7,7 +7,7 @@
 
 ## Détails
 - Créé avec **Wings 3D**[^3]
-- Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
+- Mis à l'échelle avec **Wings 3D** ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
 - Edité en svg avec **Inkscape**[^5]
