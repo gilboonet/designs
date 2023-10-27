@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniMasque.png)
+![](https://gilboonet.github.io/img/miniMasque.png)
 # Gabarits du modèle 3D "Masque"
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
