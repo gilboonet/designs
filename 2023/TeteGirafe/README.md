@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniTeteGirafe.png)
+![](https://gilboonet.github.io/img/miniTeteGirafe.png)
 # Gabarits du modèle 3D "tête girafe"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
