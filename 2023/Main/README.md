@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/gilboonet.github.io/blob/master/img/miniMain.png)
+![](https://gilboonet.github.io/img/miniMain.png)
 # Gabarits du modèle 3D "Main"
 
 ## Main Droite
