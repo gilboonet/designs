@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/gilboonet.github.io/blob/master/img/miniOeuf.png)
+![](https://gilboonet.github.io/img/miniOeuf.png)
 # Gabarits du modèle 3D "Oeuf"
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
