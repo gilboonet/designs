@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniBouledogue.png)
+![](https://gilboonet.github.io/img/miniBouledogue.png)
 # Gabarits du modèle 3D "bouledogue"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
