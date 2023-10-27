@@ -1,4 +1,4 @@
-![]([https://github.com/gilboonet/designs/blob/master/2023/assets/images/](https://gilboonet.github.io/img/)miniCorgi.png)
+![](https://gilboonet.github.io/img/miniCorgi.png)
 # Gabarits du modèle 3D "Corgi"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
