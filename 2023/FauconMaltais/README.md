@@ -1,4 +1,4 @@
-![](https://github.com/gilboonet/designs/blob/master/2023/assets/images/miniFauconMaltais.png)
+![](https://gilboonet.github.io/img/miniFauconMaltais.png)
 # Gabarits du modèle 3D "Faucon Maltais"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
