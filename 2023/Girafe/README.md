@@ -1,4 +1,4 @@
-![](https://gilboonet.github.io/img/minGirafe.png)
+![](https://gilboonet.github.io/img/miniGirafe.png)
 # Gabarits du modèle 3D "Girafe"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
