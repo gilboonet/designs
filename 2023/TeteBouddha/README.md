@@ -2,7 +2,7 @@
 # Gabarits du modèle 3D "Tête de Bouddha"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|450|23 cm|16 cm|25 cm|Sans|11|A4|x5|[svg](svg)|[pdf]()|
+|450|23 cm|16 cm|25 cm|Sans|11|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteBouddha/Bouddha450_H25_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteBouddha/Bouddha450_H25_A4x5.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:53925) issu de **Thingiverse**[^1]
