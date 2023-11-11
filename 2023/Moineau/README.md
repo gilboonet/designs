@@ -2,7 +2,7 @@
 # Gabarits du modèle 3D "Moineau"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|210|10 cm|11 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/gumi/gumi210_H20_A4x3.pdf)|
+|150|23 cm|8 cm|14 cm|Sans|2|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Moineau/moineau150_H14_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Moineau/moineau150_H14_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182281) issu de **Thingiverse**[^1]
