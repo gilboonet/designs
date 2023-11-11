@@ -3,7 +3,7 @@
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|156|30 cm|6 cm|14 cm|Sans|3|A4|x3|[svg](svg)|[pdf]()|
+|156|30 cm|6 cm|14 cm|Sans|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Nonosse/Nonosse156_H30_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Nonosse/Nonosse156_H30_A4x3.pdf)|
 
 ## Détails
 - Créé avec **Wings 3D**[^3]
