@@ -1,5 +1,5 @@
 ![](https://gilboonet.github.io/img/miniNonosse.png)
-# Gabarits du modèle 3D "Oeuf"
+# Gabarits du modèle 3D "Nonosse"
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
