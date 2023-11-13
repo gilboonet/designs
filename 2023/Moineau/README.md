@@ -3,6 +3,7 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |150|23 cm|8 cm|14 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Moineau/moineau150_H14_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Moineau/moineau150_H14_A4x2.pdf)|
+|150|23 cm|8 cm|14 cm|1/paire d'arête|5|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/Moineau/moineau150_H14_lang_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Moineau/moineau150_H14_lang_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182281) issu de **Thingiverse**[^1]
