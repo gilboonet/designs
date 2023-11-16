@@ -2,7 +2,7 @@
 # Gabarits du modèle 3D "Lapin Assis"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|210|10 cm|11 cm|20 cm|Sans|4|A4|x3|[svg](svg)|[pdf]()|
+|210|11 cm|10 cm|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:1171055) issu de **Thingiverse**[^1]
