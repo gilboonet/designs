@@ -4,6 +4,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 |210|11 cm|10 cm|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2.pdf)|
 |210|16 cm|16 cm|30 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H30_A4x4.pdf)|
+|210|16 cm|16 cm|30 cm|Sans|11|Tapis Cricut 12"|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H30_C2x2.svg)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:1171055) issu de **Thingiverse**[^1]
