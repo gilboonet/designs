@@ -2,7 +2,7 @@
 # Gabarits du modèle 3D "Cerf"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|394|30 cm|9 cm|28 cm|Sans|10|A4|x3|[svg](svg)|[pdf]()|
+|394|30 cm|9 cm|28 cm|Sans|10|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cerf/Cerf394_H28_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cerf/Cerf394_H28_A4x3.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182123) issu de **Thingiverse**[^1]
