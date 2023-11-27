@@ -2,8 +2,8 @@
 # Gabarits du modèle 3D "Tête de Cerf"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|204|18 cm|9 cm|20 cm|Sans|5|A4|x2|[svg](svg)|[pdf]()|
-|204|18 cm|9 cm|20 cm|Sans|5|Tapis Cricut 12"|x1|[svg](svg)|[pdf]()|
+|204|18 cm|9 cm|20 cm|Sans|5|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteCerf/TeteCerf204_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteCerf/TeteCerf204_H20_A4x2.pdf)|
+|204|18 cm|9 cm|20 cm|Sans|5|Tapis Cricut 12"|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteCerf/TeteCerf204_H20_C2x1.svg)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182123) issu de **Thingiverse**[^1]
