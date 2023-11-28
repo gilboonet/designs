@@ -2,7 +2,8 @@
 # Gabarits du modèle 3D "Bouledogue Assis"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|200|17 cm|11 cm|20 cm|Sans|4|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/BouledogueAssis/ba200_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BouledogueAssis/ba200_H20_A4x3.pdf)|
+|200|17 cm|11 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/BouledogueAssis/ba200_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BouledogueAssis/ba200_H20_A4x3.pdf)|
+|200|17 cm|11 cm|20 cm|1/paire d'arêtes|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/BouledogueAssis/ba200_H20_A4x3_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BouledogueAssis/ba200_H20_A4x3_lang.pdf)|
 
 ## Détails
 - Réduit à 200 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
