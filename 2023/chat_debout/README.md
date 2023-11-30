@@ -3,7 +3,7 @@
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|234|20 cm|9 cm|25 cm|Sans|8|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.pdf)|
+|234|20 cm|9 cm|25 cm|Sans|5|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3.pdf)|
 |234|20 cm|9 cm|25 cm|1/paire|5|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_A4x3_lang.pdf)
 |234|20 cm|9 cm|25 cm|Sans|3|Tapis 12"|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/chat_debout/chat_234_H25_C2x2.svg)
 ||
