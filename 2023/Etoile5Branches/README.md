@@ -3,8 +3,8 @@
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|36|18 cm|19 cm|1 cm|Sans|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7.pdf)|
-|36|18 cm|19 cm|1 cm|1/Paire d'arêtes|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7_lang.pdf)|
+|36|18 cm|19 cm|1 cm|Sans|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/Etoile5Branches/Etoile5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Etoile5Branches/Etoile5.pdf)|
+|36|18 cm|19 cm|1 cm|1/Paire d'arêtes|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/Etoile5Branches/Etoile5_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Etoile5Branches/Etoile5_lang.pdf)|
 
 ## Détails
 - Créé avec **Wings 3D**[^3]
