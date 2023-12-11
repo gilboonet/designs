@@ -4,7 +4,7 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |14|10 cm|10 cm|10 cm|Sans|2|A4|x1|[svg](.svg)|[pdf]()|
-|14|10 cm|10 cm|10 cm|1/Paire d'arêtes|1|A4|x1|[svg](.svg)|[pdf]()|
+|14|10 cm|10 cm|10 cm|1/Paire d'arêtes|2|A4|x1|[svg](.svg)|[pdf]()|
 
 ## Détails
 - Créé avec **Wings 3D**[^3]
