@@ -1,9 +1,10 @@
 ![](https://gilboonet.github.io/img/miniBolConique.png)
-# Gabarits du modèle 3D "Oeuf"
+# Gabarits du modèle 3D "Bol conique"
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|108|15 cm|15 cm|20 cm|Sans|3|A4|x3|[svg](svg)|[pdf]()|
+|12|6 cm|6 cm|7 cm|Sans|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7.pdf)|
+|12|6 cm|6 cm|7 cm|1/Paire d'arêtes|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7_lang.pdf)|
 
 ## Détails
 - Créé avec **Wings 3D**[^3]
@@ -12,7 +13,7 @@
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
 - Edité en svg avec **Inkscape**[^5]
 - Exporté en pdf avec **Inkscape** ([voir](https://www.youtube.com/watch?v=tLdg9i932-I))
-- Le gabarit étant très simple il n'est pas numéroté
+- Le carré du haut est optionne
 [^2]:[Meshlab](https://www.meshlab.net/), logiciel de traitement et édition de maillages 3D
 [^3]:[Wings3D](http://www.wings3d.com/), logiciel de modélisation 3D par surface de subdivision
 [^4]:[Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html), petit logiciel de dépliage numérique
