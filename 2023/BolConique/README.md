@@ -13,7 +13,7 @@
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
 - Edité en svg avec **Inkscape**[^5]
 - Exporté en pdf avec **Inkscape** ([voir](https://www.youtube.com/watch?v=tLdg9i932-I))
-- Le carré du haut est optionne
+- Le carré du haut est optionnel
 [^2]:[Meshlab](https://www.meshlab.net/), logiciel de traitement et édition de maillages 3D
 [^3]:[Wings3D](http://www.wings3d.com/), logiciel de modélisation 3D par surface de subdivision
 [^4]:[Le Déplieur](https://gilboonet.github.io/deplieur/UI1.html), petit logiciel de dépliage numérique
