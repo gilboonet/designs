@@ -3,7 +3,7 @@
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|24|25 cm|6 cm|30 cm|Sans|3|A4|x1|[svg](.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Etoile6Branches/Etoile6_3P.pdf)|
+|24|25 cm|6 cm|30 cm|Sans|3|A4|x1||[pdf](https://github.com/gilboonet/designs/blob/master/2023/Etoile6Branches/Etoile6_3P.pdf)|
 
 ## Détails
 - Créé avec **Wings 3D**[^3]
