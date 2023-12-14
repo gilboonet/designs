@@ -2,7 +2,7 @@
 # Gabarits du modèle 3D "Tête de Lion"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|496|25 cm|23 cm|25 cm|Sans|22|A4|x8|[svg](svg)|[pdf]()|
+|496|25 cm|23 cm|25 cm|Sans|22|A4|x8|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteLion/Lion496_H25_A4x8.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteLion/Lion496_H25_A4x8.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182229) issu de **Thingiverse**[^1]
