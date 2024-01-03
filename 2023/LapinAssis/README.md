@@ -5,6 +5,8 @@
 |192|11 cm|10 cm|20 cm|Sans|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2.pdf)|
 |192|11 cm|10 cm|20 cm|1/paire d'arêtes|2|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H20_A4x2_lang.pdf)|
 ||
+|192|14 cm|13 cm|25 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H25_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H25_A4x4.pdf)|
+||
 |192|16 cm|16 cm|30 cm|Sans|4|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H30_A4x4.pdf)|
 |192|16 cm|16 cm|30 cm|Sans|11|Tapis Cricut 12"|x2|[svg](https://github.com/gilboonet/designs/blob/master/2023/LapinAssis/LapinAssis192_H30_C2x2.svg)|
 
