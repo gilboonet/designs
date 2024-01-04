@@ -1,4 +1,4 @@
-![](https://gilboonet.github.io/img/miniPied.png)
+![](https://gilboonet.github.io/img/miniPiedDroit.png)
 # Gabarits du modèle 3D "Pied"
 
 ## Pied Droit
