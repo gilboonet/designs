@@ -6,6 +6,7 @@
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |200|10 cm|12 cm|23 cm|Sans|10|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2024/Pied/PiedDroit200_L23_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/Pied/PiedDroit200_L23_A4x3.pdf)|
+|200|10 cm|12 cm|23 cm|1/Paire d'arêtes|7|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2024/Pied/PiedDroit200_L23_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/Pied/PiedDroit200_L23_lang_A4x3.pdf)|
 
 ## Détails
 - Réduit à 200 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
