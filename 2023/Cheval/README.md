@@ -8,10 +8,12 @@
 |252|29 cm|8 cm|25 cm|1/Paire d'arête|7|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H25_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H25_lang_A4x3.pdf)|
 ||
 |252|34 cm|9 cm|30 cm|Sans|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H30B_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H30B_A4x5.pdf)|
+||
+|314|31 cm|8 cm|28 cm|Sans|17|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval314_H28_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval314_H28_A4x4.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182217) issu de **Thingiverse**[^1]
-- Réduit à 252 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
+- Réduit à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
 - Déplié et édité en gabarit 2D avec **Le Deplieur**[^4] ([voir](https://youtu.be/GMdUE3Vu98w))
