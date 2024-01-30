@@ -3,7 +3,7 @@
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|14|10 cm|10 cm|10 cm|Sans|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/DiamantTC/DiamantTC_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/DiamantTC/DiamantTC.pdf)|
+|14|10 cm|10 cm|10 cm|Sans|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/DiamantTC/DiamantTC.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/DiamantTC/DiamantTC.pdf)|
 |14|10 cm|10 cm|10 cm|1/Paire d'arêtes|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/DiamantTC/DiamantTC_lang.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/DiamantTC/DiamantTC_lang.pdf)|
 
 ## Détails
