@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="297mm"
-   viewBox="0 0 533 754"
-   width="210mm"
+   height="841.88977pt"
+   viewBox="0 0 532.99998 754.00001"
+   width="595.27557pt"
    version="1.1"
    id="svg18"
    sodipodi:docname="DiamantTC_lang.svg"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,11 +26,11 @@
      showgrid="false"
      inkscape:zoom="0.73228114"
      inkscape:cx="397.38836"
-     inkscape:cy="561.25984"
+     inkscape:cy="560.57705"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg18" />
   <style
@@ -55,11 +55,6 @@
        stroke="#a52a2a"
        stroke-dasharray="4"
        sodipodi:nodetypes="cccccccccccccccccccccccc" />
-    <path
-       d="m 261.7,601 4,4 m 0,-4 -4,4 m 107.7,-71.3 4,4 m 0,-4 -4,4 m -217.8,-0.1 4,4 m 0,-4 -4,4 m -103.7,-70.9 4,4 m 0,-4 -4,4 m 107.8,-64 4,4 m 0,-4 -4,4 M 99,209.6 l 4,4 m 0,-4 -4,4 m 53,-35.7 4,4 m 0,-4 -4,4 m -0.2,123 4,4 m 0,-4 -4,4 m 53,-99.2 4,4 m 0,-4 -4,4 m -52.7,-99.3 4,4 m 0,-4 -4,4 m 116.3,27.9 4,4 m 0,-4 -4,4 m 63.4,59.6 4,4 m 0,-4 -4,4 m -63.5,59.4 4,4 m 0,-4 -4,4 m 95.2,49 4,4 m 0,-4 -4,4 m -95.4,48.8 4,4 m 0,-4 -4,4 m 95.6,-289.6 4,4 m 0,-4 -4,4 m 74,112.5 4,4 m 0,-4 -4,4"
-       display="none"
-       id="marqueM_001"
-       stroke="#a52a2a" />
     <g
        id="nums_001">
       <path
