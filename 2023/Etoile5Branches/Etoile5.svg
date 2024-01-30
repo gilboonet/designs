@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="297mm"
-   viewBox="0 0 533 754"
-   width="210mm"
+   height="841.88977pt"
+   viewBox="0 0 532.99998 754.00001"
+   width="595.27557pt"
    version="1.1"
    id="svg40"
    sodipodi:docname="Etoile5.svg"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.36614057"
-     inkscape:cx="396.02276"
-     inkscape:cy="696.45382"
+     inkscape:zoom="0.76034707"
+     inkscape:cx="397.18704"
+     inkscape:cy="560.92805"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg40" />
   <style
@@ -55,11 +55,6 @@
        stroke="#a52a2a"
        stroke-dasharray="4"
        sodipodi:nodetypes="cccccccccccccccccccccccccc" />
-    <path
-       d="m 431.1,399.8 4,4 m 0,-4 -4,4 m -43.5,-35.1 4,4 m 0,-4 -4,4 M 235.3,80.8 l 4,4 m 0,-4 -4,4 m -16.9,-54.7 4,4 m 0,-4 -4,4 m 197.6,135.4 4,4 m 0,-4 -4,4 m 43,-35.8 4,4 m 0,-4 -4,4 m -363.9,83.6 4,4 m 0,-4 -4,4 m -53.4,-3.6 4,4 m 0,-4 -4,4 m 147.5,173.5 4,4 m 0,-4 -4,4 m -16.1,47 4,4 m 0,-4 -4,4 M 309,30.1 l 4,4 m 0,-4 -4,4 m 31.2,639.9 4,4 m 0,-4 -4,4 m -130.6,20.6 4,4 m 0,-4 -4,4 M 145.9,582 l 4,4 m 0,-4 -4,4 m 91.2,-100.6 4,4 m 0,-4 -4,4 m 120.1,52.8 4,4 m 0,-4 -4,4"
-       display="none"
-       id="marqueM_001"
-       stroke="#a52a2a" />
     <path
        d="M 522.6,267.4 455.3,184.3 M 68.9,88.1 74.5,194.9 m -24.3,194.2 103.3,27.7 m 177.1,83.1 58.2,-89.7"
        id="plisV_001"

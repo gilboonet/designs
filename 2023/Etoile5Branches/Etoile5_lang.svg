@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="297mm"
-   viewBox="0 0 533 754"
-   width="210mm"
+   height="841.88977pt"
+   viewBox="0 0 532.99998 754.00001"
+   width="595.27557pt"
    version="1.1"
    id="svg40"
    sodipodi:docname="Etoile5_lang.svg"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.36614057"
-     inkscape:cx="396.02276"
-     inkscape:cy="600.86212"
+     inkscape:zoom="0.73228114"
+     inkscape:cx="389.19478"
+     inkscape:cy="563.30824"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg40" />
   <style
@@ -55,11 +55,6 @@
        stroke="#a52a2a"
        stroke-dasharray="4"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" />
-    <path
-       d="m 431.1,399.8 4,4 m 0,-4 -4,4 m -43.5,-35.1 4,4 m 0,-4 -4,4 m 33.7,-54 4,4 m 0,-4 -4,4 m -242.7,-221.2 4,4 m 0,-4 -4,4 m 56.7,-24.7 4,4 m 0,-4 -4,4 m -16.9,-54.7 4,4 m 0,-4 -4,4 m 57.6,65.9 4,4 m 0,-4 -4,4 m 102.8,17.9 4,4 m 0,-4 -4,4 m 37.2,43.6 4,4 m 0,-4 -4,4 m 43,-35.8 4,4 m 0,-4 -4,4 m -361.7,143.9 4,4 m 0,-4 -4,4 m -2.2,-64.3 4,4 m 0,-4 -4,4 m -53.4,-3.6 4,4 m 0,-4 -4,4 m 205.6,190.2 4,4 m 0,-4 -4,4 m -58.1,-20.7 4,4 m 0,-4 -4,4 m -16.1,47 4,4 m 0,-4 -4,4 M 309,30.1 l 4,4 m 0,-4 -4,4 m 9.9,15.2 4,4 m 0,-4 -4,4 m 152.9,185.9 4,4 m 0,-4 -4,4 M 91,136.1 l 4,4 m 0,-4 -4,4 m 12.1,239.5 4,4 m 0,-4 -4,4 m 235.3,59.7 4,4 m 0,-4 -4,4 m 14.5,227.5 4,4 m 0,-4 -4,4 m -130.6,20.6 4,4 m 0,-4 -4,4 m -63.7,-120.6 4,4 m 0,-4 -4,4 m 91.2,-100.7 4,4 m 0,-4 -4,4 m 120.1,52.9 4,4 m 0,-4 -4,4"
-       display="none"
-       id="marqueM_001"
-       stroke="#a52a2a" />
     <path
        d="m 360.9,13 19.8,38.4 m 141.9,216 -67.3,-83.1 -86,63.6 m 153.3,19.5 -30.4,30.7 M 68.9,88.1 74.5,194.9 181.4,194.1 M 68.9,88.1 111.5,81.2 m -61.3,307.9 103.3,27.7 32.2,-102 m -135.5,74.3 6.5,-42.7 m 273.9,153.5 58.2,-89.7 -87,-62.2 M 330.6,499.9 292,480.5"
        id="plisV_001"
