@@ -1,6 +1,12 @@
 ![](https://gilboonet.github.io/img/miniBolConique.png)
 # Gabarits du modèle 3D "Bol conique"
 
+## Bol basique
+|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
+|---|---|---|---|---|---|---|---|---|---|
+|12|6 cm|6 cm|7 cm|Sans|1|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7_basique.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7_basique.pdf)|
+
+## Bol avec couvercle
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
 |12|6 cm|6 cm|7 cm|Sans|2|A4|x1|[svg](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/BolConique/BolConique_H7.pdf)|
