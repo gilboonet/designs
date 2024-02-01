@@ -4,7 +4,6 @@
 |---|---|---|---|---|---|---|---|---|---|
 |262|17 cm|15 cm|20 cm|Sans|7|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/RhinoTete262_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/RhinoTete262_H20_A4x3.pdf)|
 |262|22 cm|19 cm|25 cm|Sans|18|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/Rhino262_H25_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/Rhino262_H25_A4x5.pdf)|
-https://github.com/gilboonet/designs/blob/master/2023/TeteRhino/Rhino262_H25_A4x5.pdf
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182261) issu de **Thingiverse**[^1]
