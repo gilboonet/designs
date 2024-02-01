@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 |236|12 cm|14 cm|20 cm|Sans|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.pdf)|
 |236|12 cm|14 cm|20 cm|1/paire d'arêtes|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_lang_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_lang_A4x3.pdf)|
-|236|19 cm|20 cm|30 cm|Sans|7|A4|x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H20_A4x3.pdf)|
+|236|19 cm|20 cm|30 cm|Sans|7|A4|x7|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H30_A4x7.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H30_A4x7.pdf)|
 |236|25 cm|27 cm|40 cm|Sans|16|A4|x12|[svg](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H40_A4x12.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/tdy/Tdy236_H40_A4x12.pdf)|
 
 ## Détails
