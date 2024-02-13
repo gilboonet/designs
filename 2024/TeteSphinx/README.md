@@ -6,6 +6,7 @@
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182366) issu de **Thingiverse**[^1]
+- Coupé par sélection à la souris avec **Meshlab**[^2] puis avec ses filtres de sélection (Invert Selection, Delete selected faces)
 - Réduit à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
 - Mis à l'échelle avec **Wings 3D**[^3] ([voir](https://youtu.be/vKRSdvvuxDQ))
 - Réparti en pièces avec **Wings 3D** par coloriage par facettes
