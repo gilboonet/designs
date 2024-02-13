@@ -2,7 +2,7 @@
 # Gabarits du modèle 3D "Tête du Sphinx"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|252|26 cm|6 cm|20 cm|Sans|8|A4|x2|[svg](https://github.com/gilboonet/designs/blob/master/2024/TeteSphinx/TeteSphinx364_H20_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/TeteSphinx/TeteSphinx364_H20_A4x5.pdf)|
+|364|25 cm|25 cm|20 cm|Sans|6|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2024/TeteSphinx/TeteSphinx364_H20_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/TeteSphinx/TeteSphinx364_H20_A4x5.pdf)|
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182366) issu de **Thingiverse**[^1]
