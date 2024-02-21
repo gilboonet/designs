@@ -3,7 +3,8 @@
 
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|239|18 cm|13 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2024/BebeGroot/BabyGroot237_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/BebeGroot/BabyGroot237_H20_A4x3.pdf)|
+|237|18 cm|13 cm|20 cm|Sans|4|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2024/BebeGroot/BabyGroot237_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/BebeGroot/BabyGroot237_H20_A4x3.pdf)|
+|237|27 cm|20 cm|30 cm|Sans|15|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2024/BebeGroot/BabyGroot237_H30_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/BebeGroot/BabyGroot237_H30_A4x4.pdf)|
 
 ## Détails
 - Réduit à 239 triangles à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
