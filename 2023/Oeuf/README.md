@@ -1,9 +1,9 @@
 ![](https://gilboonet.github.io/img/miniOeuf.png)
 # Gabarits du modèle 3D "Oeuf"
 
-|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
-|---|---|---|---|---|---|---|---|---|---|
-|108|15 cm|15 cm|20 cm|Sans|3|A4|x3|[svg](https://github.com/gilboonet/designs/blob/master/2023/Oeuf/Oeuf108_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Oeuf/Oeuf108_H20_A4x3.pdf)|
+|SVG[^6]|PDF[^7]|DEP[^8]|Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|
+|---|---|---|---|---|---|---|---|---|---|---|
+|[svg](https://github.com/gilboonet/designs/blob/master/2023/Oeuf/Oeuf108_H20_A4x3.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Oeuf/Oeuf108_H20_A4x3.pdf)|..|108|15 cm|15 cm|20 cm|Sans|3|A4|x3|
 
 ## Détails
 - Créé avec **Wings 3D**[^3]
@@ -19,6 +19,7 @@
 [^5]:[Inkscape](https://inkscape.org/fr/), logiciel de dessin vectoriel
 [^6]:fichier svg contenant des chemins pour machines de découpe
 [^7]:fichier pdf à imprimer
+[^8]:fichier de depliage pour Le Deplieur
 
 [Autres gabarits](https://gilboonet.github.io/Gabarits.html)
 
