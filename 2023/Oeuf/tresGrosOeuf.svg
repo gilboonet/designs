@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="841.88977pt"
+   viewBox="0 0 532.99998 754.00001"
+   width="595.27557pt"
+   version="1.1"
+   id="svg128"
+   sodipodi:docname="tresGrosOeuf.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs128" />
+  <sodipodi:namedview
+     id="namedview128"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73013957"
+     inkscape:cx="1128.5514"
+     inkscape:cy="577.28689"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg128">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="533"
+       height="754.00006"
+       id="page128"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="543"
+       y="0"
+       width="533"
+       height="754"
+       id="page129"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="1086"
+       y="0"
+       width="533"
+       height="754"
+       id="page130"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="1629"
+       y="0"
+       width="533"
+       height="754"
+       id="page131"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="2172"
+       y="0"
+       width="533"
+       height="754"
+       id="page132"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="2715"
+       y="0"
+       width="533"
+       height="754"
+       id="page133"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="3258"
+       y="0"
+       width="533"
+       height="754"
+       id="page134"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="3801"
+       y="0"
+       width="533"
+       height="754"
+       id="page135"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="4344"
+       y="0"
+       width="533"
+       height="754"
+       id="page136"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <style
+     type="text/css"
+     id="style1"><![CDATA[
+			path {
+				fill: none;
+			}
+		]]></style>
+  <g
+     id="page_001"
+     transform="translate(-0.34982112,72.549955)">
+    <path
+       d="m 525.2,405.8 -22.6,44 -81.2,81.9 -43.9,22.9 -45.9,15.1 L 219,570.2 172.9,555.3 128.8,532.8 47,451.6 24.1,407.7 8.9,361.7 8.5,249.2 23.3,203 45.9,159 127.1,77.2 171,54.3 l 46,-15.2 112.5,-0.4 46.1,14.8 44.1,22.6 81.8,81.2 22.9,43.8 z"
+       id="coupes_001"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    <path
+       d="M 525.2,405.8 377.5,554.6 172.9,555.3 24.1,407.7 23.3,203 171,54.3 375.6,53.5 524.4,201.1"
+       id="plisM_001"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="plisV_001"
+       stroke="#008000"
+       stroke-dasharray="4, 1, 1, 1"
+       stroke-width="1.27"
+       d="" />
+    <path
+       id="marqueV_001"
+       stroke="#008000"
+       d="" />
+    <g
+       id="nums_001">
+      <path
+         d="M 37.5,304.5 37,303.4 35.5,302.7 33,302.3 h -1.5 l -2.5,0.4 -1.5,0.8 -0.5,1.1 v 0.7 l 0.5,1.2 1.5,0.7 2.5,0.4 H 33 l 2.5,-0.4 1.5,-0.8 0.5,-1.1 v -0.6"
+         stroke="#000000"
+         stroke-width="1"
+         id="path1" />
+      <path
+         d="m 271.3,64.1 0.4,-1.5 0.7,-1 1.2,-0.5 h 0.3 l 1.2,0.5 0.7,1 0.4,1.5 v 0.5 l -0.4,1.5 -0.7,1 -1.1,0.5 h -0.4 l -1.1,-0.5 -0.8,-1 -0.4,-2 v -2.5 l 0.4,-2.5 0.7,-1.5 1.1,-0.5 h 0.8 l 1.1,0.5 0.4,1"
+         stroke="#000000"
+         stroke-width="1"
+         id="path2" />
+      <path
+         d="m 108.5,133.4 -0.2,0.9 0.3,1.9 -7.4,-7.4 m 5.2,10 0.5,-1.1 -0.6,-1.6 -1.5,-2 -1,-1.1 -2.1,-1.5 -1.6,-0.5 -1.1,0.4 -0.5,0.6 -0.5,1.1 0.6,1.6 1.5,2 1,1.1 2.1,1.5 1.6,0.5 1.1,-0.4 0.4,-0.4"
+         stroke="#000000"
+         stroke-width="1"
+         id="path3" />
+      <path
+         d="m 438.8,135.6 10.1,-4.8 m -6.3,8.5 -3.8,-3.7"
+         stroke="#000000"
+         stroke-width="1"
+         id="path4" />
+      <path
+         d="m 105.5,472.4 0.9,0.2 1.9,-0.2 -7.4,7.4"
+         stroke="#000000"
+         stroke-width="1"
+         id="path5" />
+      <path
+         d="m 511,302.9 7,3.7 -0.1,-5.6 m -6.9,1.9 h 10.5"
+         stroke="#000000"
+         stroke-width="1"
+         id="path6" />
+      <path
+         d="m 441.6,474.1 -0.3,-0.4 -0.5,-1 -0.1,-0.6 0.2,-0.9 1,-1 0.9,-0.2 0.6,0.1 1,0.4 0.7,0.7 0.5,1 0.5,1.6 0.9,6.2 3.7,-3.8"
+         stroke="#000000"
+         stroke-width="1"
+         id="path7" />
+      <path
+         d="m 272.9,541.2 h 4.1 l -2.2,4 h 1.1 l 0.7,0.5 0.4,0.5 0.4,1.5 v 1 l -0.4,1.5 -0.7,1 -1.1,0.5 H 274 l -1.1,-0.5 -0.4,-0.5 -0.4,-1"
+         stroke="#000000"
+         stroke-width="1"
+         id="path8" />
+    </g>
+  </g>
+  <g
+     id="page_002"
+     transform="translate(31.484166,46.150816)">
+    <path
+       d="m 688.8,189.5 173.9,-49.7 75.3,-5.9 13.7,88.8 -2.9,216.7 -16.2,88.4 -75.1,-8 L 685,465.4 619,428.8 604.6,382.6 606.2,270 621.8,224.2 Z"
+       id="coupes_002"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       d="m 938,133.9 -5.4,393.9 -313.6,-99 2.8,-204.6 z"
+       id="plisM_002"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="plisV_002"
+       stroke="#008000"
+       stroke-dasharray="4, 1, 1, 1"
+       stroke-width="1.27"
+       d="" />
+    <path
+       id="marqueV_002"
+       stroke="#008000"
+       d="" />
+    <g
+       id="nums_002">
+      <path
+         d="m 921.5,329.2 v 3.7 l 4.5,0.5 -0.5,-0.4 -0.5,-1.1 v -1.2 l 0.5,-1.1 1,-0.7 1.5,-0.4 h 1 l 1.5,0.4 1,0.8 0.5,1.1 v 1.2 l -0.5,1.1 -0.5,0.3 -1,0.4"
+         stroke="#000000"
+         stroke-width="1"
+         id="path9" />
+      <path
+         d="m 781.1,467.1 -0.1,-1 -0.9,-0.9 -0.7,-0.2 -1.3,0.2 -1.1,1.2 -1.1,2.2 -0.8,2.4 -0.2,2 0.4,1.2 0.9,0.8 0.4,0.1 1.2,-0.1 1,-0.7 0.8,-1.3 0.2,-0.5 v -1.6 l -0.4,-1.1 -0.9,-0.9 -0.3,-0.1 -1.3,0.2 -1,0.7 -0.8,1.3"
+         stroke="#000000"
+         stroke-width="1"
+         id="path10" />
+      <path
+         d="m 784.8,191.9 0.9,-0.7 0.1,-1.1 -0.3,-1 -0.6,-0.8 -0.9,-0.3 -1.6,-0.1 -1.2,-0.1 -1,-0.8 -0.6,-0.9 -0.4,-1.4 0.1,-1.1 0.2,-0.6 0.9,-0.7 1.5,-0.5 1.2,0.2 0.5,0.4 0.6,0.9 0.4,1.4 v 1.1 l -0.5,1.1 -0.9,0.8 -1.3,0.9 -0.6,0.7 -0.1,1.1 0.3,0.9 0.6,0.9 1.2,0.2 1.6,-0.5"
+         stroke="#000000"
+         stroke-width="1"
+         id="path11" />
+      <path
+         d="m 634.2,327.3 -6.9,-3.8 -0.1,5.6 m 7,-1.8 -10.5,-0.1"
+         stroke="#000000"
+         stroke-width="1"
+         id="path12" />
+    </g>
+  </g>
+  <g
+     id="page_003"
+     transform="translate(35.367322,63.15048)">
+    <path
+       d="m 1521,176.7 -3.8,277.1 -16.6,113.2 -89.3,1.3 -212.7,-33.2 -84.8,-28.4 5.4,-393.9 85.5,-26.1 213.5,-27.3 89.3,3.7 z"
+       id="coupes_003"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       d="M 1119.2,112.8 1507.5,63.1 1500.6,567 1113.8,506.7"
+       id="plisM_003"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="nums_003">
+      <path
+         d="m 1130.3,311.4 v -3.8 l -4.5,-0.4 0.5,0.4 0.5,1.1 v 1.1 l -0.5,1.2 -1,0.7 -1.5,0.4 -1,-0.1 -1.5,-0.4 -1,-0.7 -0.5,-1.2 v -1.1 l 0.5,-1.1 0.5,-0.4 1,-0.3"
+         stroke="#000000"
+         stroke-width="1"
+         id="path13" />
+      <path
+         d="m 1492.6,319.8 -0.5,-0.8 -1.5,-1.1 10.5,0.1 m -10.8,-5.2 6.9,3.8 0.1,-5.6 m -7,1.8 10.5,0.1"
+         stroke="#000000"
+         stroke-width="1"
+         id="path15" />
+    </g>
+  </g>
+  <g
+     id="page_004"
+     transform="translate(34.451169,40.950178)">
+    <path
+       d="m 1736.9,56.5 240.4,-19.5 99.5,7 13.2,132.2 -4.4,322.8 -16.8,131.9 -99.7,4.2 -239.7,-26.1 -96.5,-25.6 6.9,-503.9 z"
+       id="coupes_004"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       d="m 1639.8,79.5 437,-35.5 -8,586.9 -435.9,-47.5"
+       id="plisM_004"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="nums_004">
+      <path
+         d="m 1647.8,326.7 0.5,0.8 1.5,1.1 -10.5,-0.1 m 10.9,5.3 -7,-3.9 v 5.6 m 7,-1.7 -10.5,-0.2"
+         stroke="#000000"
+         stroke-width="1"
+         id="path104" />
+      <path
+         d="m 2061.4,342 -0.5,-0.7 -1.5,-1.2 10.5,0.2 m -8.3,-2 h -0.5 l -1,-0.4 -0.5,-0.3 -0.5,-0.8 v -1.5 l 0.5,-0.7 0.5,-0.4 1,-0.4 h 1 l 1,0.4 1.5,0.8 5,3.8 v -5.2"
+         stroke="#000000"
+         stroke-width="1"
+         id="path105" />
+    </g>
+  </g>
+  <g
+     id="page_005"
+     transform="translate(30.434983,25.899509)">
+    <path
+       d="m 2632.5,186.2 -4.5,332.8 -16.9,135.9 -96.5,11.7 -234.5,-8.2 -95.4,-18.4 8,-586.9 95.9,-15.7 234.7,-1.8 96.1,14.3 z"
+       id="coupes_005"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       d="m 2192.7,53.1 426.7,-3.2 -8.3,605 -426.4,-14.9"
+       id="plisM_005"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="nums_005">
+      <path
+         d="m 2200.2,342 0.5,0.7 1.4,1.2 -10.5,-0.2 m 8.4,2 h 0.5 l 1,0.4 0.5,0.3 0.4,0.8 v 1.5 l -0.5,0.7 -0.5,0.4 -1,0.4 h -1 l -1,-0.4 -1.5,-0.8 -4.9,-3.8 -0.1,5.2"
+         stroke="#000000"
+         stroke-width="1"
+         id="path107" />
+      <path
+         d="m 2603.9,358.1 h -0.5 l -1,-0.4 -0.5,-0.4 -0.5,-0.7 v -1.5 l 0.6,-0.8 0.5,-0.3 1,-0.4 h 1 l 1,0.4 1.4,0.8 5,3.8 0.1,-5.3 m -10.5,-3.5 0.5,1.1 1.5,0.8 2.5,0.4 h 1.5 l 2.5,-0.3 1.5,-0.8 0.5,-1.1 v -0.7 l -0.5,-1.2 -1.5,-0.7 -2.4,-0.5 h -1.5 l -2.6,0.4 -1.5,0.7 -0.5,1.1 v 0.6"
+         stroke="#000000"
+         stroke-width="1"
+         id="path109" />
+    </g>
+  </g>
+  <g
+     id="page_006"
+     transform="translate(51.168719,28.899789)">
+    <path
+       d="m 2826,47.1 210.4,40.5 83.3,31.3 13.5,105.6 -3.5,257.6 -16.4,105.1 -84.1,29 -211.5,34.7 -88.9,-0.5 8.3,-605.1 z"
+       id="coupes_006"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       d="m 2737.1,45.3 382.6,73.6 -6.4,468.3 -384.5,63.2"
+       id="plisM_006"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="plisV_006"
+       stroke="#008000"
+       stroke-dasharray="4, 1, 1, 1"
+       stroke-width="1.27"
+       d="" />
+    <path
+       id="marqueV_006"
+       stroke="#008000"
+       d="" />
+    <g
+       id="nums_006">
+      <path
+         d="m 2744.2,342.1 h 0.5 l 1,0.4 0.5,0.4 0.5,0.7 v 1.5 l -0.5,0.8 -0.5,0.3 -1,0.4 h -1 l -1,-0.4 -1.5,-0.8 -4.9,-3.8 -0.1,5.3 m 10.4,3.6 -0.4,-1.2 -1.5,-0.8 -2.5,-0.4 h -1.5 l -2.5,0.4 -1.5,0.7 -0.6,1.1 v 0.8 l 0.5,1.1 1.5,0.8 2.5,0.4 h 1.5 l 2.5,-0.4 1.5,-0.7 0.5,-1.1 v -0.6"
+         stroke="#000000"
+         stroke-width="1"
+         id="path112" />
+      <path
+         d="m 3105,357.5 -0.5,-0.7 -1.5,-1.2 10.5,0.2 m -10.8,-3.2 0.5,1.1 1,0.4 h 1 l 1,-0.4 0.5,-0.7 0.5,-1.5 0.6,-1.1 1,-0.8 1,-0.3 h 1.5 l 1,0.4 0.5,0.4 0.4,1.1 v 1.5 l -0.5,1.1 -0.5,0.4 -1,0.4 -1.5,-0.1 -1,-0.4 -1,-0.7 -0.5,-1.2 -0.5,-1.5 -0.4,-0.7 -1,-0.4 h -1 l -1,0.3 -0.6,1.2 v 1.6"
+         stroke="#000000"
+         stroke-width="1"
+         id="path113" />
+    </g>
+  </g>
+  <g
+     id="page_007"
+     transform="translate(47.802293,29.449184)">
+    <path
+       d="m 3383.1,122.1 189.6,56.3 73.3,37.4 14.2,61.7 -2.1,150.1 -15.8,61.2 -74.3,35.4 -191.1,51.1 -82.1,6.4 6.4,-468.3 z"
+       id="coupes_007"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       d="m 3301.2,113.4 344.8,102.4 -3.7,273 -347.5,92.9"
+       id="plisM_007"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="nums_007">
+      <path
+         d="m 3309.5,343.1 0.5,0.8 1.5,1.1 -10.5,-0.1 m 10.8,3.2 -0.5,-1.1 -1,-0.4 h -1 l -1,0.3 -0.5,0.8 -0.6,1.5 -0.5,1.1 -1,0.7 -1,0.4 h -1.5 l -1,-0.4 -0.5,-0.4 -0.5,-1.1 0.1,-1.5 0.5,-1.2 0.5,-0.3 1,-0.4 h 1.5 l 1,0.4 1,0.8 0.5,1.1 0.4,1.5 0.5,0.8 1,0.4 h 1 l 1,-0.4 0.5,-1.1 0.1,-1.7"
+         stroke="#000000"
+         stroke-width="1"
+         id="path115" />
+      <path
+         d="m 3632.8,358.2 h -0.5 l -1,-0.4 -0.5,-0.4 -0.5,-0.7 v -1.5 l 0.6,-0.8 0.5,-0.4 1,-0.3 h 1 l 1,0.4 1.4,0.8 5,3.8 0.1,-5.3 m -10.6,-5.2 7,3.8 0.1,-5.6 m -7.1,1.8 10.5,0.1"
+         stroke="#000000"
+         stroke-width="1"
+         id="path117" />
+    </g>
+  </g>
+  <g
+     id="page_008"
+     transform="translate(135.36304,0.55121723)">
+    <path
+       d="M 3862.7,124.9 4108.9,24.4 4109.2,728.5 3857.5,622.8 3756.9,376.6 Z"
+       id="coupes_008"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="plisM_008"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       d="" />
+    <path
+       id="plisV_008"
+       stroke="#008000"
+       stroke-dasharray="4, 1, 1, 1"
+       stroke-width="1.27"
+       d="" />
+    <path
+       id="marqueV_008"
+       stroke="#008000"
+       d="" />
+    <g
+       id="nums_008">
+      <path
+         d="m 4096.8,378 -1,0.4 -0.5,1.1 v 0.8 l 0.5,1.1 1.5,0.7 2.5,0.4 h 2.5 l 2,-0.4 1,-0.7 0.5,-1.2 v -0.3 l -0.5,-1.2 -1,-0.7 -1.5,-0.4 h -0.5 l -1.5,0.4 -1,0.8 -0.5,1.1 v 0.4 l 0.5,1.1 1,0.7 1.5,0.4 m -7,-6.8 v -4.1 l 4,2.3 v -1.2 l 0.5,-0.7 0.5,-0.4 1.5,-0.4 h 1 l 1.5,0.4 1,0.7 0.5,1.2 v 1.1 l -0.5,1.1 -0.5,0.4 -1,0.4"
+         stroke="#000000"
+         stroke-width="1"
+         id="path119" />
+      <path
+         d="m 3822.5,249.6 0.5,0.2 0.7,0.7 0.4,0.5 0.1,0.9 -0.6,1.4 -0.7,0.5 -0.6,0.2 -1.1,-0.1 -0.9,-0.4 -0.8,-0.7 -1.1,-1.3 -3.1,-5.4 -2.1,4.9 m 7.8,8.8 -5,-6.2 -2.1,5.2 m 7.1,1 -9.7,-4.1"
+         stroke="#000000"
+         stroke-width="1"
+         id="path122" />
+    </g>
+  </g>
+  <g
+     id="page_009"
+     transform="translate(139.74399,7.8487828)">
+    <path
+       d="m 4303.5,721.2 -15.1,-158.4 -0.1,-387.3 14.9,-158.4 251.7,105.7 100.5,246.2 -105.7,251.7 z"
+       id="coupes_009"
+       stroke="#ff0000"
+       stroke-width="1.27"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="plisM_009"
+       stroke="#a52a2a"
+       stroke-dasharray="4"
+       d="" />
+    <path
+       id="plisV_009"
+       stroke="#008000"
+       stroke-dasharray="4, 1, 1, 1"
+       stroke-width="1.27"
+       d="" />
+    <path
+       id="marqueV_009"
+       stroke="#008000"
+       d="" />
+    <g
+       id="nums_009">
+      <path
+         d="m 4315.6,367.6 1,-0.4 0.5,-1.1 v -0.7 l -0.5,-1.2 -1.5,-0.7 -2.5,-0.4 h -2.5 l -2,0.4 -1,0.7 -0.5,1.2 v 0.3 l 0.5,1.2 1,0.7 1.5,0.4 h 0.5 l 1.5,-0.4 1,-0.7 0.5,-1.2 v -0.3 l -0.5,-1.2 -1,-0.7 -1.5,-0.4 m 7,6.8 v 4.1 l -4,-2.2 v 1.1 l -0.5,0.7 -0.5,0.4 -1.5,0.4 h -1 l -1.5,-0.4 -1,-0.7 -0.5,-1.2 V 371 l 0.5,-1.1 0.5,-0.4 1,-0.4"
+         stroke="#000000"
+         stroke-width="1"
+         id="path124" />
+    </g>
+  </g>
+  <path
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#a52a2a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+     d="m 4442.944,24.948783 0.3,704.099997"
+     id="path17"
+     sodipodi:nodetypes="cc" />
+</svg>
