@@ -2,7 +2,7 @@
 # Gabarits du modèle 3D "Eléphant Assis"
 |Triangles|Long.|Larg.|Haut.|Languettes|Pièces|Format|Nb pages|SVG[^6]|PDF[^7]|
 |---|---|---|---|---|---|---|---|---|---|
-|206|16 cm|15 cm|20 cm|Sans|6|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H20_A4x4.pdf)|
+|206|16 cm|15 cm|20 cm|Sans|6|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H20_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H20_A4x4.pdf)|
 |206|25 cm|23 cm|30 cm|Sans|9|A4|x9|[svg](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H30_A4x9.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/ElephantAssis/ELA206_H30_A4x9.pdf)|
 
 ## Détails
