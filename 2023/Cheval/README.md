@@ -10,6 +10,11 @@
 |252|34 cm|9 cm|30 cm|Sans|7|A4|x5|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H30B_A4x5.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval252_H30B_A4x5.pdf)|
 ||
 |314|31 cm|8 cm|28 cm|Sans|17|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval314_H28_A4x4.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2023/Cheval/Cheval314_H28_A4x4.pdf)|
+||
+|430|30 cm|8 cm|27 cm|Sans|19|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2024/Cheval/cheval430_L300_A4x4_PTC.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/Cheval/cheval430_L300_A4x4_PTC.pdf)|
+
+
+[https://github.com/gilboonet/designs/blob/master/2024/Cheval/](https://github.com/gilboonet/designs/blob/master/2024/Cheval/cheval430_L300_A4x4_PTC.pdf)
 
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182217) issu de **Thingiverse**[^1]
