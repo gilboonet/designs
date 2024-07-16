@@ -13,9 +13,6 @@
 ||
 |430|30 cm|8 cm|27 cm|Sans|19|A4|x4|[svg](https://github.com/gilboonet/designs/blob/master/2024/Cheval/cheval430_L300_A4x4_PTC.svg)|[pdf](https://github.com/gilboonet/designs/blob/master/2024/Cheval/cheval430_L300_A4x4_PTC.pdf)|
 
-
-[https://github.com/gilboonet/designs/blob/master/2024/Cheval/](https://github.com/gilboonet/designs/blob/master/2024/Cheval/cheval430_L300_A4x4_PTC.pdf)
-
 ## Détails
 - [Modèle 3D](https://www.thingiverse.com/thing:182217) issu de **Thingiverse**[^1]
 - Réduit à l'aide de **Meshlab**[^2] avec son filtre de simplification : Quadric Edge Collapse Decimation ([voir](https://youtu.be/1irJLnVSnrk))
