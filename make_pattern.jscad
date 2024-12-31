@@ -419,3 +419,4 @@ function tracePtsPoly(p, n=-1){
     }
     return r;
 }
+module.exports = { main, getParameterDefinitions }
